@@ -61,4 +61,4 @@ One canonical engine per artifact; exceptions are tagged inline.
 
 ## Data source
 
-UCI Machine Learning Repository — *Online Retail* (Chen, D., 2012): transactions from a UK-based online gift retailer, December 2010 – December 2011. See `data/README.md` for the column dictionary.
+[UCI Machine Learning Repository — *Online Retail*](https://archive.ics.uci.edu/dataset/352/online+retail) (Chen, D.): transactions from a UK-based online gift retailer, December 2010 – December 2011 (541,909 rows; CC BY 4.0). The working CSV used here was provided via the course (a conversion of UCI's xlsx). See `data/README.md` for the column dictionary.
