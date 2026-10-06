@@ -1,0 +1,6385 @@
+Country,Weekday,WeekdayNum,HourGMT,Transactions
+Australia,Monday,1,0,0
+Australia,Monday,1,1,0
+Australia,Monday,1,2,0
+Australia,Monday,1,3,0
+Australia,Monday,1,4,0
+Australia,Monday,1,5,0
+Australia,Monday,1,6,0
+Australia,Monday,1,7,0
+Australia,Monday,1,8,0
+Australia,Monday,1,9,27
+Australia,Monday,1,10,0
+Australia,Monday,1,11,19
+Australia,Monday,1,12,0
+Australia,Monday,1,13,6
+Australia,Monday,1,14,0
+Australia,Monday,1,15,6
+Australia,Monday,1,16,0
+Australia,Monday,1,17,0
+Australia,Monday,1,18,0
+Australia,Monday,1,19,0
+Australia,Monday,1,20,0
+Australia,Monday,1,21,0
+Australia,Monday,1,22,0
+Australia,Monday,1,23,0
+Australia,Tuesday,2,0,0
+Australia,Tuesday,2,1,0
+Australia,Tuesday,2,2,0
+Australia,Tuesday,2,3,0
+Australia,Tuesday,2,4,0
+Australia,Tuesday,2,5,0
+Australia,Tuesday,2,6,0
+Australia,Tuesday,2,7,0
+Australia,Tuesday,2,8,0
+Australia,Tuesday,2,9,88
+Australia,Tuesday,2,10,108
+Australia,Tuesday,2,11,4
+Australia,Tuesday,2,12,57
+Australia,Tuesday,2,13,0
+Australia,Tuesday,2,14,1
+Australia,Tuesday,2,15,73
+Australia,Tuesday,2,16,0
+Australia,Tuesday,2,17,0
+Australia,Tuesday,2,18,0
+Australia,Tuesday,2,19,0
+Australia,Tuesday,2,20,0
+Australia,Tuesday,2,21,0
+Australia,Tuesday,2,22,0
+Australia,Tuesday,2,23,0
+Australia,Wednesday,3,0,0
+Australia,Wednesday,3,1,0
+Australia,Wednesday,3,2,0
+Australia,Wednesday,3,3,0
+Australia,Wednesday,3,4,0
+Australia,Wednesday,3,5,0
+Australia,Wednesday,3,6,0
+Australia,Wednesday,3,7,0
+Australia,Wednesday,3,8,0
+Australia,Wednesday,3,9,21
+Australia,Wednesday,3,10,14
+Australia,Wednesday,3,11,0
+Australia,Wednesday,3,12,84
+Australia,Wednesday,3,13,139
+Australia,Wednesday,3,14,6
+Australia,Wednesday,3,15,58
+Australia,Wednesday,3,16,0
+Australia,Wednesday,3,17,0
+Australia,Wednesday,3,18,0
+Australia,Wednesday,3,19,0
+Australia,Wednesday,3,20,0
+Australia,Wednesday,3,21,0
+Australia,Wednesday,3,22,0
+Australia,Wednesday,3,23,0
+Australia,Thursday,4,0,0
+Australia,Thursday,4,1,0
+Australia,Thursday,4,2,0
+Australia,Thursday,4,3,0
+Australia,Thursday,4,4,0
+Australia,Thursday,4,5,0
+Australia,Thursday,4,6,0
+Australia,Thursday,4,7,0
+Australia,Thursday,4,8,97
+Australia,Thursday,4,9,35
+Australia,Thursday,4,10,82
+Australia,Thursday,4,11,51
+Australia,Thursday,4,12,67
+Australia,Thursday,4,13,62
+Australia,Thursday,4,14,0
+Australia,Thursday,4,15,0
+Australia,Thursday,4,16,0
+Australia,Thursday,4,17,0
+Australia,Thursday,4,18,0
+Australia,Thursday,4,19,0
+Australia,Thursday,4,20,0
+Australia,Thursday,4,21,0
+Australia,Thursday,4,22,0
+Australia,Thursday,4,23,0
+Australia,Friday,5,0,0
+Australia,Friday,5,1,0
+Australia,Friday,5,2,0
+Australia,Friday,5,3,0
+Australia,Friday,5,4,0
+Australia,Friday,5,5,0
+Australia,Friday,5,6,0
+Australia,Friday,5,7,0
+Australia,Friday,5,8,0
+Australia,Friday,5,9,17
+Australia,Friday,5,10,1
+Australia,Friday,5,11,5
+Australia,Friday,5,12,34
+Australia,Friday,5,13,0
+Australia,Friday,5,14,45
+Australia,Friday,5,15,0
+Australia,Friday,5,16,0
+Australia,Friday,5,17,0
+Australia,Friday,5,18,0
+Australia,Friday,5,19,0
+Australia,Friday,5,20,0
+Australia,Friday,5,21,0
+Australia,Friday,5,22,0
+Australia,Friday,5,23,0
+Australia,Saturday,6,0,0
+Australia,Saturday,6,1,0
+Australia,Saturday,6,2,0
+Australia,Saturday,6,3,0
+Australia,Saturday,6,4,0
+Australia,Saturday,6,5,0
+Australia,Saturday,6,6,0
+Australia,Saturday,6,7,0
+Australia,Saturday,6,8,0
+Australia,Saturday,6,9,0
+Australia,Saturday,6,10,0
+Australia,Saturday,6,11,0
+Australia,Saturday,6,12,0
+Australia,Saturday,6,13,0
+Australia,Saturday,6,14,0
+Australia,Saturday,6,15,0
+Australia,Saturday,6,16,0
+Australia,Saturday,6,17,0
+Australia,Saturday,6,18,0
+Australia,Saturday,6,19,0
+Australia,Saturday,6,20,0
+Australia,Saturday,6,21,0
+Australia,Saturday,6,22,0
+Australia,Saturday,6,23,0
+Australia,Sunday,7,0,0
+Australia,Sunday,7,1,0
+Australia,Sunday,7,2,0
+Australia,Sunday,7,3,0
+Australia,Sunday,7,4,0
+Australia,Sunday,7,5,0
+Australia,Sunday,7,6,0
+Australia,Sunday,7,7,0
+Australia,Sunday,7,8,0
+Australia,Sunday,7,9,0
+Australia,Sunday,7,10,0
+Australia,Sunday,7,11,22
+Australia,Sunday,7,12,20
+Australia,Sunday,7,13,0
+Australia,Sunday,7,14,10
+Australia,Sunday,7,15,0
+Australia,Sunday,7,16,0
+Australia,Sunday,7,17,0
+Australia,Sunday,7,18,0
+Australia,Sunday,7,19,0
+Australia,Sunday,7,20,0
+Australia,Sunday,7,21,0
+Australia,Sunday,7,22,0
+Australia,Sunday,7,23,0
+Austria,Monday,1,0,0
+Austria,Monday,1,1,0
+Austria,Monday,1,2,0
+Austria,Monday,1,3,0
+Austria,Monday,1,4,0
+Austria,Monday,1,5,0
+Austria,Monday,1,6,0
+Austria,Monday,1,7,0
+Austria,Monday,1,8,0
+Austria,Monday,1,9,45
+Austria,Monday,1,10,58
+Austria,Monday,1,11,0
+Austria,Monday,1,12,0
+Austria,Monday,1,13,0
+Austria,Monday,1,14,0
+Austria,Monday,1,15,33
+Austria,Monday,1,16,0
+Austria,Monday,1,17,0
+Austria,Monday,1,18,0
+Austria,Monday,1,19,0
+Austria,Monday,1,20,0
+Austria,Monday,1,21,0
+Austria,Monday,1,22,0
+Austria,Monday,1,23,0
+Austria,Tuesday,2,0,0
+Austria,Tuesday,2,1,0
+Austria,Tuesday,2,2,0
+Austria,Tuesday,2,3,0
+Austria,Tuesday,2,4,0
+Austria,Tuesday,2,5,0
+Austria,Tuesday,2,6,0
+Austria,Tuesday,2,7,0
+Austria,Tuesday,2,8,0
+Austria,Tuesday,2,9,5
+Austria,Tuesday,2,10,12
+Austria,Tuesday,2,11,21
+Austria,Tuesday,2,12,0
+Austria,Tuesday,2,13,16
+Austria,Tuesday,2,14,0
+Austria,Tuesday,2,15,54
+Austria,Tuesday,2,16,0
+Austria,Tuesday,2,17,0
+Austria,Tuesday,2,18,0
+Austria,Tuesday,2,19,0
+Austria,Tuesday,2,20,0
+Austria,Tuesday,2,21,0
+Austria,Tuesday,2,22,0
+Austria,Tuesday,2,23,0
+Austria,Wednesday,3,0,0
+Austria,Wednesday,3,1,0
+Austria,Wednesday,3,2,0
+Austria,Wednesday,3,3,0
+Austria,Wednesday,3,4,0
+Austria,Wednesday,3,5,0
+Austria,Wednesday,3,6,0
+Austria,Wednesday,3,7,0
+Austria,Wednesday,3,8,0
+Austria,Wednesday,3,9,0
+Austria,Wednesday,3,10,0
+Austria,Wednesday,3,11,1
+Austria,Wednesday,3,12,14
+Austria,Wednesday,3,13,0
+Austria,Wednesday,3,14,7
+Austria,Wednesday,3,15,0
+Austria,Wednesday,3,16,0
+Austria,Wednesday,3,17,0
+Austria,Wednesday,3,18,0
+Austria,Wednesday,3,19,0
+Austria,Wednesday,3,20,0
+Austria,Wednesday,3,21,0
+Austria,Wednesday,3,22,0
+Austria,Wednesday,3,23,0
+Austria,Thursday,4,0,0
+Austria,Thursday,4,1,0
+Austria,Thursday,4,2,0
+Austria,Thursday,4,3,0
+Austria,Thursday,4,4,0
+Austria,Thursday,4,5,0
+Austria,Thursday,4,6,0
+Austria,Thursday,4,7,0
+Austria,Thursday,4,8,0
+Austria,Thursday,4,9,0
+Austria,Thursday,4,10,7
+Austria,Thursday,4,11,0
+Austria,Thursday,4,12,0
+Austria,Thursday,4,13,0
+Austria,Thursday,4,14,43
+Austria,Thursday,4,15,0
+Austria,Thursday,4,16,4
+Austria,Thursday,4,17,0
+Austria,Thursday,4,18,0
+Austria,Thursday,4,19,0
+Austria,Thursday,4,20,0
+Austria,Thursday,4,21,0
+Austria,Thursday,4,22,0
+Austria,Thursday,4,23,0
+Austria,Friday,5,0,0
+Austria,Friday,5,1,0
+Austria,Friday,5,2,0
+Austria,Friday,5,3,0
+Austria,Friday,5,4,0
+Austria,Friday,5,5,0
+Austria,Friday,5,6,0
+Austria,Friday,5,7,0
+Austria,Friday,5,8,0
+Austria,Friday,5,9,8
+Austria,Friday,5,10,30
+Austria,Friday,5,11,0
+Austria,Friday,5,12,0
+Austria,Friday,5,13,0
+Austria,Friday,5,14,6
+Austria,Friday,5,15,0
+Austria,Friday,5,16,0
+Austria,Friday,5,17,0
+Austria,Friday,5,18,0
+Austria,Friday,5,19,0
+Austria,Friday,5,20,0
+Austria,Friday,5,21,0
+Austria,Friday,5,22,0
+Austria,Friday,5,23,0
+Austria,Saturday,6,0,0
+Austria,Saturday,6,1,0
+Austria,Saturday,6,2,0
+Austria,Saturday,6,3,0
+Austria,Saturday,6,4,0
+Austria,Saturday,6,5,0
+Austria,Saturday,6,6,0
+Austria,Saturday,6,7,0
+Austria,Saturday,6,8,0
+Austria,Saturday,6,9,0
+Austria,Saturday,6,10,0
+Austria,Saturday,6,11,0
+Austria,Saturday,6,12,0
+Austria,Saturday,6,13,0
+Austria,Saturday,6,14,0
+Austria,Saturday,6,15,0
+Austria,Saturday,6,16,0
+Austria,Saturday,6,17,0
+Austria,Saturday,6,18,0
+Austria,Saturday,6,19,0
+Austria,Saturday,6,20,0
+Austria,Saturday,6,21,0
+Austria,Saturday,6,22,0
+Austria,Saturday,6,23,0
+Austria,Sunday,7,0,0
+Austria,Sunday,7,1,0
+Austria,Sunday,7,2,0
+Austria,Sunday,7,3,0
+Austria,Sunday,7,4,0
+Austria,Sunday,7,5,0
+Austria,Sunday,7,6,0
+Austria,Sunday,7,7,0
+Austria,Sunday,7,8,0
+Austria,Sunday,7,9,0
+Austria,Sunday,7,10,0
+Austria,Sunday,7,11,0
+Austria,Sunday,7,12,0
+Austria,Sunday,7,13,0
+Austria,Sunday,7,14,37
+Austria,Sunday,7,15,0
+Austria,Sunday,7,16,0
+Austria,Sunday,7,17,0
+Austria,Sunday,7,18,0
+Austria,Sunday,7,19,0
+Austria,Sunday,7,20,0
+Austria,Sunday,7,21,0
+Austria,Sunday,7,22,0
+Austria,Sunday,7,23,0
+Bahrain,Monday,1,0,0
+Bahrain,Monday,1,1,0
+Bahrain,Monday,1,2,0
+Bahrain,Monday,1,3,0
+Bahrain,Monday,1,4,0
+Bahrain,Monday,1,5,0
+Bahrain,Monday,1,6,0
+Bahrain,Monday,1,7,0
+Bahrain,Monday,1,8,0
+Bahrain,Monday,1,9,0
+Bahrain,Monday,1,10,0
+Bahrain,Monday,1,11,1
+Bahrain,Monday,1,12,0
+Bahrain,Monday,1,13,13
+Bahrain,Monday,1,14,0
+Bahrain,Monday,1,15,0
+Bahrain,Monday,1,16,0
+Bahrain,Monday,1,17,0
+Bahrain,Monday,1,18,0
+Bahrain,Monday,1,19,0
+Bahrain,Monday,1,20,0
+Bahrain,Monday,1,21,0
+Bahrain,Monday,1,22,0
+Bahrain,Monday,1,23,0
+Bahrain,Tuesday,2,0,0
+Bahrain,Tuesday,2,1,0
+Bahrain,Tuesday,2,2,0
+Bahrain,Tuesday,2,3,0
+Bahrain,Tuesday,2,4,0
+Bahrain,Tuesday,2,5,0
+Bahrain,Tuesday,2,6,0
+Bahrain,Tuesday,2,7,0
+Bahrain,Tuesday,2,8,0
+Bahrain,Tuesday,2,9,0
+Bahrain,Tuesday,2,10,0
+Bahrain,Tuesday,2,11,0
+Bahrain,Tuesday,2,12,0
+Bahrain,Tuesday,2,13,0
+Bahrain,Tuesday,2,14,0
+Bahrain,Tuesday,2,15,0
+Bahrain,Tuesday,2,16,0
+Bahrain,Tuesday,2,17,0
+Bahrain,Tuesday,2,18,0
+Bahrain,Tuesday,2,19,0
+Bahrain,Tuesday,2,20,0
+Bahrain,Tuesday,2,21,0
+Bahrain,Tuesday,2,22,0
+Bahrain,Tuesday,2,23,0
+Bahrain,Wednesday,3,0,0
+Bahrain,Wednesday,3,1,0
+Bahrain,Wednesday,3,2,0
+Bahrain,Wednesday,3,3,0
+Bahrain,Wednesday,3,4,0
+Bahrain,Wednesday,3,5,0
+Bahrain,Wednesday,3,6,0
+Bahrain,Wednesday,3,7,0
+Bahrain,Wednesday,3,8,0
+Bahrain,Wednesday,3,9,0
+Bahrain,Wednesday,3,10,0
+Bahrain,Wednesday,3,11,1
+Bahrain,Wednesday,3,12,0
+Bahrain,Wednesday,3,13,0
+Bahrain,Wednesday,3,14,0
+Bahrain,Wednesday,3,15,0
+Bahrain,Wednesday,3,16,0
+Bahrain,Wednesday,3,17,0
+Bahrain,Wednesday,3,18,0
+Bahrain,Wednesday,3,19,0
+Bahrain,Wednesday,3,20,0
+Bahrain,Wednesday,3,21,0
+Bahrain,Wednesday,3,22,0
+Bahrain,Wednesday,3,23,0
+Bahrain,Thursday,4,0,0
+Bahrain,Thursday,4,1,0
+Bahrain,Thursday,4,2,0
+Bahrain,Thursday,4,3,0
+Bahrain,Thursday,4,4,0
+Bahrain,Thursday,4,5,0
+Bahrain,Thursday,4,6,0
+Bahrain,Thursday,4,7,0
+Bahrain,Thursday,4,8,0
+Bahrain,Thursday,4,9,0
+Bahrain,Thursday,4,10,0
+Bahrain,Thursday,4,11,0
+Bahrain,Thursday,4,12,0
+Bahrain,Thursday,4,13,0
+Bahrain,Thursday,4,14,0
+Bahrain,Thursday,4,15,0
+Bahrain,Thursday,4,16,0
+Bahrain,Thursday,4,17,4
+Bahrain,Thursday,4,18,0
+Bahrain,Thursday,4,19,0
+Bahrain,Thursday,4,20,0
+Bahrain,Thursday,4,21,0
+Bahrain,Thursday,4,22,0
+Bahrain,Thursday,4,23,0
+Bahrain,Friday,5,0,0
+Bahrain,Friday,5,1,0
+Bahrain,Friday,5,2,0
+Bahrain,Friday,5,3,0
+Bahrain,Friday,5,4,0
+Bahrain,Friday,5,5,0
+Bahrain,Friday,5,6,0
+Bahrain,Friday,5,7,0
+Bahrain,Friday,5,8,0
+Bahrain,Friday,5,9,0
+Bahrain,Friday,5,10,0
+Bahrain,Friday,5,11,0
+Bahrain,Friday,5,12,0
+Bahrain,Friday,5,13,0
+Bahrain,Friday,5,14,0
+Bahrain,Friday,5,15,0
+Bahrain,Friday,5,16,0
+Bahrain,Friday,5,17,0
+Bahrain,Friday,5,18,0
+Bahrain,Friday,5,19,0
+Bahrain,Friday,5,20,0
+Bahrain,Friday,5,21,0
+Bahrain,Friday,5,22,0
+Bahrain,Friday,5,23,0
+Bahrain,Saturday,6,0,0
+Bahrain,Saturday,6,1,0
+Bahrain,Saturday,6,2,0
+Bahrain,Saturday,6,3,0
+Bahrain,Saturday,6,4,0
+Bahrain,Saturday,6,5,0
+Bahrain,Saturday,6,6,0
+Bahrain,Saturday,6,7,0
+Bahrain,Saturday,6,8,0
+Bahrain,Saturday,6,9,0
+Bahrain,Saturday,6,10,0
+Bahrain,Saturday,6,11,0
+Bahrain,Saturday,6,12,0
+Bahrain,Saturday,6,13,0
+Bahrain,Saturday,6,14,0
+Bahrain,Saturday,6,15,0
+Bahrain,Saturday,6,16,0
+Bahrain,Saturday,6,17,0
+Bahrain,Saturday,6,18,0
+Bahrain,Saturday,6,19,0
+Bahrain,Saturday,6,20,0
+Bahrain,Saturday,6,21,0
+Bahrain,Saturday,6,22,0
+Bahrain,Saturday,6,23,0
+Bahrain,Sunday,7,0,0
+Bahrain,Sunday,7,1,0
+Bahrain,Sunday,7,2,0
+Bahrain,Sunday,7,3,0
+Bahrain,Sunday,7,4,0
+Bahrain,Sunday,7,5,0
+Bahrain,Sunday,7,6,0
+Bahrain,Sunday,7,7,0
+Bahrain,Sunday,7,8,0
+Bahrain,Sunday,7,9,0
+Bahrain,Sunday,7,10,0
+Bahrain,Sunday,7,11,0
+Bahrain,Sunday,7,12,0
+Bahrain,Sunday,7,13,0
+Bahrain,Sunday,7,14,0
+Bahrain,Sunday,7,15,0
+Bahrain,Sunday,7,16,0
+Bahrain,Sunday,7,17,0
+Bahrain,Sunday,7,18,0
+Bahrain,Sunday,7,19,0
+Bahrain,Sunday,7,20,0
+Bahrain,Sunday,7,21,0
+Bahrain,Sunday,7,22,0
+Bahrain,Sunday,7,23,0
+Belgium,Monday,1,0,0
+Belgium,Monday,1,1,0
+Belgium,Monday,1,2,0
+Belgium,Monday,1,3,0
+Belgium,Monday,1,4,0
+Belgium,Monday,1,5,0
+Belgium,Monday,1,6,0
+Belgium,Monday,1,7,0
+Belgium,Monday,1,8,15
+Belgium,Monday,1,9,15
+Belgium,Monday,1,10,42
+Belgium,Monday,1,11,26
+Belgium,Monday,1,12,39
+Belgium,Monday,1,13,24
+Belgium,Monday,1,14,20
+Belgium,Monday,1,15,0
+Belgium,Monday,1,16,25
+Belgium,Monday,1,17,0
+Belgium,Monday,1,18,0
+Belgium,Monday,1,19,0
+Belgium,Monday,1,20,0
+Belgium,Monday,1,21,0
+Belgium,Monday,1,22,0
+Belgium,Monday,1,23,0
+Belgium,Tuesday,2,0,0
+Belgium,Tuesday,2,1,0
+Belgium,Tuesday,2,2,0
+Belgium,Tuesday,2,3,0
+Belgium,Tuesday,2,4,0
+Belgium,Tuesday,2,5,0
+Belgium,Tuesday,2,6,0
+Belgium,Tuesday,2,7,0
+Belgium,Tuesday,2,8,0
+Belgium,Tuesday,2,9,91
+Belgium,Tuesday,2,10,56
+Belgium,Tuesday,2,11,0
+Belgium,Tuesday,2,12,21
+Belgium,Tuesday,2,13,22
+Belgium,Tuesday,2,14,61
+Belgium,Tuesday,2,15,30
+Belgium,Tuesday,2,16,49
+Belgium,Tuesday,2,17,2
+Belgium,Tuesday,2,18,0
+Belgium,Tuesday,2,19,0
+Belgium,Tuesday,2,20,0
+Belgium,Tuesday,2,21,0
+Belgium,Tuesday,2,22,0
+Belgium,Tuesday,2,23,0
+Belgium,Wednesday,3,0,0
+Belgium,Wednesday,3,1,0
+Belgium,Wednesday,3,2,0
+Belgium,Wednesday,3,3,0
+Belgium,Wednesday,3,4,0
+Belgium,Wednesday,3,5,0
+Belgium,Wednesday,3,6,0
+Belgium,Wednesday,3,7,0
+Belgium,Wednesday,3,8,17
+Belgium,Wednesday,3,9,90
+Belgium,Wednesday,3,10,0
+Belgium,Wednesday,3,11,3
+Belgium,Wednesday,3,12,40
+Belgium,Wednesday,3,13,38
+Belgium,Wednesday,3,14,149
+Belgium,Wednesday,3,15,1
+Belgium,Wednesday,3,16,20
+Belgium,Wednesday,3,17,0
+Belgium,Wednesday,3,18,0
+Belgium,Wednesday,3,19,0
+Belgium,Wednesday,3,20,0
+Belgium,Wednesday,3,21,0
+Belgium,Wednesday,3,22,0
+Belgium,Wednesday,3,23,0
+Belgium,Thursday,4,0,0
+Belgium,Thursday,4,1,0
+Belgium,Thursday,4,2,0
+Belgium,Thursday,4,3,0
+Belgium,Thursday,4,4,0
+Belgium,Thursday,4,5,0
+Belgium,Thursday,4,6,0
+Belgium,Thursday,4,7,0
+Belgium,Thursday,4,8,37
+Belgium,Thursday,4,9,29
+Belgium,Thursday,4,10,76
+Belgium,Thursday,4,11,2
+Belgium,Thursday,4,12,94
+Belgium,Thursday,4,13,113
+Belgium,Thursday,4,14,66
+Belgium,Thursday,4,15,34
+Belgium,Thursday,4,16,16
+Belgium,Thursday,4,17,31
+Belgium,Thursday,4,18,21
+Belgium,Thursday,4,19,0
+Belgium,Thursday,4,20,0
+Belgium,Thursday,4,21,0
+Belgium,Thursday,4,22,0
+Belgium,Thursday,4,23,0
+Belgium,Friday,5,0,0
+Belgium,Friday,5,1,0
+Belgium,Friday,5,2,0
+Belgium,Friday,5,3,0
+Belgium,Friday,5,4,0
+Belgium,Friday,5,5,0
+Belgium,Friday,5,6,0
+Belgium,Friday,5,7,0
+Belgium,Friday,5,8,0
+Belgium,Friday,5,9,117
+Belgium,Friday,5,10,133
+Belgium,Friday,5,11,55
+Belgium,Friday,5,12,15
+Belgium,Friday,5,13,56
+Belgium,Friday,5,14,55
+Belgium,Friday,5,15,42
+Belgium,Friday,5,16,31
+Belgium,Friday,5,17,1
+Belgium,Friday,5,18,0
+Belgium,Friday,5,19,0
+Belgium,Friday,5,20,0
+Belgium,Friday,5,21,0
+Belgium,Friday,5,22,0
+Belgium,Friday,5,23,0
+Belgium,Saturday,6,0,0
+Belgium,Saturday,6,1,0
+Belgium,Saturday,6,2,0
+Belgium,Saturday,6,3,0
+Belgium,Saturday,6,4,0
+Belgium,Saturday,6,5,0
+Belgium,Saturday,6,6,0
+Belgium,Saturday,6,7,0
+Belgium,Saturday,6,8,0
+Belgium,Saturday,6,9,0
+Belgium,Saturday,6,10,0
+Belgium,Saturday,6,11,0
+Belgium,Saturday,6,12,0
+Belgium,Saturday,6,13,0
+Belgium,Saturday,6,14,0
+Belgium,Saturday,6,15,0
+Belgium,Saturday,6,16,0
+Belgium,Saturday,6,17,0
+Belgium,Saturday,6,18,0
+Belgium,Saturday,6,19,0
+Belgium,Saturday,6,20,0
+Belgium,Saturday,6,21,0
+Belgium,Saturday,6,22,0
+Belgium,Saturday,6,23,0
+Belgium,Sunday,7,0,0
+Belgium,Sunday,7,1,0
+Belgium,Sunday,7,2,0
+Belgium,Sunday,7,3,0
+Belgium,Sunday,7,4,0
+Belgium,Sunday,7,5,0
+Belgium,Sunday,7,6,0
+Belgium,Sunday,7,7,0
+Belgium,Sunday,7,8,0
+Belgium,Sunday,7,9,0
+Belgium,Sunday,7,10,0
+Belgium,Sunday,7,11,0
+Belgium,Sunday,7,12,0
+Belgium,Sunday,7,13,41
+Belgium,Sunday,7,14,0
+Belgium,Sunday,7,15,108
+Belgium,Sunday,7,16,0
+Belgium,Sunday,7,17,0
+Belgium,Sunday,7,18,0
+Belgium,Sunday,7,19,0
+Belgium,Sunday,7,20,0
+Belgium,Sunday,7,21,0
+Belgium,Sunday,7,22,0
+Belgium,Sunday,7,23,0
+Brazil,Monday,1,0,0
+Brazil,Monday,1,1,0
+Brazil,Monday,1,2,0
+Brazil,Monday,1,3,0
+Brazil,Monday,1,4,0
+Brazil,Monday,1,5,0
+Brazil,Monday,1,6,0
+Brazil,Monday,1,7,0
+Brazil,Monday,1,8,0
+Brazil,Monday,1,9,0
+Brazil,Monday,1,10,0
+Brazil,Monday,1,11,0
+Brazil,Monday,1,12,0
+Brazil,Monday,1,13,0
+Brazil,Monday,1,14,0
+Brazil,Monday,1,15,0
+Brazil,Monday,1,16,0
+Brazil,Monday,1,17,0
+Brazil,Monday,1,18,0
+Brazil,Monday,1,19,0
+Brazil,Monday,1,20,0
+Brazil,Monday,1,21,0
+Brazil,Monday,1,22,0
+Brazil,Monday,1,23,0
+Brazil,Tuesday,2,0,0
+Brazil,Tuesday,2,1,0
+Brazil,Tuesday,2,2,0
+Brazil,Tuesday,2,3,0
+Brazil,Tuesday,2,4,0
+Brazil,Tuesday,2,5,0
+Brazil,Tuesday,2,6,0
+Brazil,Tuesday,2,7,0
+Brazil,Tuesday,2,8,0
+Brazil,Tuesday,2,9,0
+Brazil,Tuesday,2,10,0
+Brazil,Tuesday,2,11,0
+Brazil,Tuesday,2,12,0
+Brazil,Tuesday,2,13,0
+Brazil,Tuesday,2,14,0
+Brazil,Tuesday,2,15,0
+Brazil,Tuesday,2,16,0
+Brazil,Tuesday,2,17,0
+Brazil,Tuesday,2,18,0
+Brazil,Tuesday,2,19,0
+Brazil,Tuesday,2,20,0
+Brazil,Tuesday,2,21,0
+Brazil,Tuesday,2,22,0
+Brazil,Tuesday,2,23,0
+Brazil,Wednesday,3,0,0
+Brazil,Wednesday,3,1,0
+Brazil,Wednesday,3,2,0
+Brazil,Wednesday,3,3,0
+Brazil,Wednesday,3,4,0
+Brazil,Wednesday,3,5,0
+Brazil,Wednesday,3,6,0
+Brazil,Wednesday,3,7,0
+Brazil,Wednesday,3,8,0
+Brazil,Wednesday,3,9,0
+Brazil,Wednesday,3,10,0
+Brazil,Wednesday,3,11,0
+Brazil,Wednesday,3,12,0
+Brazil,Wednesday,3,13,0
+Brazil,Wednesday,3,14,0
+Brazil,Wednesday,3,15,0
+Brazil,Wednesday,3,16,0
+Brazil,Wednesday,3,17,0
+Brazil,Wednesday,3,18,0
+Brazil,Wednesday,3,19,0
+Brazil,Wednesday,3,20,0
+Brazil,Wednesday,3,21,0
+Brazil,Wednesday,3,22,0
+Brazil,Wednesday,3,23,0
+Brazil,Thursday,4,0,0
+Brazil,Thursday,4,1,0
+Brazil,Thursday,4,2,0
+Brazil,Thursday,4,3,0
+Brazil,Thursday,4,4,0
+Brazil,Thursday,4,5,0
+Brazil,Thursday,4,6,0
+Brazil,Thursday,4,7,0
+Brazil,Thursday,4,8,0
+Brazil,Thursday,4,9,0
+Brazil,Thursday,4,10,0
+Brazil,Thursday,4,11,0
+Brazil,Thursday,4,12,0
+Brazil,Thursday,4,13,0
+Brazil,Thursday,4,14,0
+Brazil,Thursday,4,15,0
+Brazil,Thursday,4,16,0
+Brazil,Thursday,4,17,0
+Brazil,Thursday,4,18,0
+Brazil,Thursday,4,19,0
+Brazil,Thursday,4,20,0
+Brazil,Thursday,4,21,0
+Brazil,Thursday,4,22,0
+Brazil,Thursday,4,23,0
+Brazil,Friday,5,0,0
+Brazil,Friday,5,1,0
+Brazil,Friday,5,2,0
+Brazil,Friday,5,3,0
+Brazil,Friday,5,4,0
+Brazil,Friday,5,5,0
+Brazil,Friday,5,6,0
+Brazil,Friday,5,7,0
+Brazil,Friday,5,8,0
+Brazil,Friday,5,9,0
+Brazil,Friday,5,10,32
+Brazil,Friday,5,11,0
+Brazil,Friday,5,12,0
+Brazil,Friday,5,13,0
+Brazil,Friday,5,14,0
+Brazil,Friday,5,15,0
+Brazil,Friday,5,16,0
+Brazil,Friday,5,17,0
+Brazil,Friday,5,18,0
+Brazil,Friday,5,19,0
+Brazil,Friday,5,20,0
+Brazil,Friday,5,21,0
+Brazil,Friday,5,22,0
+Brazil,Friday,5,23,0
+Brazil,Saturday,6,0,0
+Brazil,Saturday,6,1,0
+Brazil,Saturday,6,2,0
+Brazil,Saturday,6,3,0
+Brazil,Saturday,6,4,0
+Brazil,Saturday,6,5,0
+Brazil,Saturday,6,6,0
+Brazil,Saturday,6,7,0
+Brazil,Saturday,6,8,0
+Brazil,Saturday,6,9,0
+Brazil,Saturday,6,10,0
+Brazil,Saturday,6,11,0
+Brazil,Saturday,6,12,0
+Brazil,Saturday,6,13,0
+Brazil,Saturday,6,14,0
+Brazil,Saturday,6,15,0
+Brazil,Saturday,6,16,0
+Brazil,Saturday,6,17,0
+Brazil,Saturday,6,18,0
+Brazil,Saturday,6,19,0
+Brazil,Saturday,6,20,0
+Brazil,Saturday,6,21,0
+Brazil,Saturday,6,22,0
+Brazil,Saturday,6,23,0
+Brazil,Sunday,7,0,0
+Brazil,Sunday,7,1,0
+Brazil,Sunday,7,2,0
+Brazil,Sunday,7,3,0
+Brazil,Sunday,7,4,0
+Brazil,Sunday,7,5,0
+Brazil,Sunday,7,6,0
+Brazil,Sunday,7,7,0
+Brazil,Sunday,7,8,0
+Brazil,Sunday,7,9,0
+Brazil,Sunday,7,10,0
+Brazil,Sunday,7,11,0
+Brazil,Sunday,7,12,0
+Brazil,Sunday,7,13,0
+Brazil,Sunday,7,14,0
+Brazil,Sunday,7,15,0
+Brazil,Sunday,7,16,0
+Brazil,Sunday,7,17,0
+Brazil,Sunday,7,18,0
+Brazil,Sunday,7,19,0
+Brazil,Sunday,7,20,0
+Brazil,Sunday,7,21,0
+Brazil,Sunday,7,22,0
+Brazil,Sunday,7,23,0
+Canada,Monday,1,0,0
+Canada,Monday,1,1,0
+Canada,Monday,1,2,0
+Canada,Monday,1,3,0
+Canada,Monday,1,4,0
+Canada,Monday,1,5,0
+Canada,Monday,1,6,0
+Canada,Monday,1,7,0
+Canada,Monday,1,8,0
+Canada,Monday,1,9,57
+Canada,Monday,1,10,77
+Canada,Monday,1,11,0
+Canada,Monday,1,12,0
+Canada,Monday,1,13,10
+Canada,Monday,1,14,0
+Canada,Monday,1,15,0
+Canada,Monday,1,16,0
+Canada,Monday,1,17,0
+Canada,Monday,1,18,0
+Canada,Monday,1,19,0
+Canada,Monday,1,20,0
+Canada,Monday,1,21,0
+Canada,Monday,1,22,0
+Canada,Monday,1,23,0
+Canada,Tuesday,2,0,0
+Canada,Tuesday,2,1,0
+Canada,Tuesday,2,2,0
+Canada,Tuesday,2,3,0
+Canada,Tuesday,2,4,0
+Canada,Tuesday,2,5,0
+Canada,Tuesday,2,6,0
+Canada,Tuesday,2,7,0
+Canada,Tuesday,2,8,0
+Canada,Tuesday,2,9,0
+Canada,Tuesday,2,10,0
+Canada,Tuesday,2,11,0
+Canada,Tuesday,2,12,0
+Canada,Tuesday,2,13,0
+Canada,Tuesday,2,14,0
+Canada,Tuesday,2,15,0
+Canada,Tuesday,2,16,0
+Canada,Tuesday,2,17,0
+Canada,Tuesday,2,18,0
+Canada,Tuesday,2,19,0
+Canada,Tuesday,2,20,0
+Canada,Tuesday,2,21,0
+Canada,Tuesday,2,22,0
+Canada,Tuesday,2,23,0
+Canada,Wednesday,3,0,0
+Canada,Wednesday,3,1,0
+Canada,Wednesday,3,2,0
+Canada,Wednesday,3,3,0
+Canada,Wednesday,3,4,0
+Canada,Wednesday,3,5,0
+Canada,Wednesday,3,6,0
+Canada,Wednesday,3,7,0
+Canada,Wednesday,3,8,0
+Canada,Wednesday,3,9,0
+Canada,Wednesday,3,10,1
+Canada,Wednesday,3,11,0
+Canada,Wednesday,3,12,0
+Canada,Wednesday,3,13,0
+Canada,Wednesday,3,14,0
+Canada,Wednesday,3,15,0
+Canada,Wednesday,3,16,0
+Canada,Wednesday,3,17,0
+Canada,Wednesday,3,18,0
+Canada,Wednesday,3,19,0
+Canada,Wednesday,3,20,0
+Canada,Wednesday,3,21,0
+Canada,Wednesday,3,22,0
+Canada,Wednesday,3,23,0
+Canada,Thursday,4,0,0
+Canada,Thursday,4,1,0
+Canada,Thursday,4,2,0
+Canada,Thursday,4,3,0
+Canada,Thursday,4,4,0
+Canada,Thursday,4,5,0
+Canada,Thursday,4,6,0
+Canada,Thursday,4,7,0
+Canada,Thursday,4,8,0
+Canada,Thursday,4,9,0
+Canada,Thursday,4,10,0
+Canada,Thursday,4,11,5
+Canada,Thursday,4,12,0
+Canada,Thursday,4,13,0
+Canada,Thursday,4,14,0
+Canada,Thursday,4,15,0
+Canada,Thursday,4,16,0
+Canada,Thursday,4,17,0
+Canada,Thursday,4,18,0
+Canada,Thursday,4,19,0
+Canada,Thursday,4,20,0
+Canada,Thursday,4,21,0
+Canada,Thursday,4,22,0
+Canada,Thursday,4,23,0
+Canada,Friday,5,0,0
+Canada,Friday,5,1,0
+Canada,Friday,5,2,0
+Canada,Friday,5,3,0
+Canada,Friday,5,4,0
+Canada,Friday,5,5,0
+Canada,Friday,5,6,0
+Canada,Friday,5,7,0
+Canada,Friday,5,8,0
+Canada,Friday,5,9,0
+Canada,Friday,5,10,0
+Canada,Friday,5,11,0
+Canada,Friday,5,12,1
+Canada,Friday,5,13,0
+Canada,Friday,5,14,0
+Canada,Friday,5,15,0
+Canada,Friday,5,16,0
+Canada,Friday,5,17,0
+Canada,Friday,5,18,0
+Canada,Friday,5,19,0
+Canada,Friday,5,20,0
+Canada,Friday,5,21,0
+Canada,Friday,5,22,0
+Canada,Friday,5,23,0
+Canada,Saturday,6,0,0
+Canada,Saturday,6,1,0
+Canada,Saturday,6,2,0
+Canada,Saturday,6,3,0
+Canada,Saturday,6,4,0
+Canada,Saturday,6,5,0
+Canada,Saturday,6,6,0
+Canada,Saturday,6,7,0
+Canada,Saturday,6,8,0
+Canada,Saturday,6,9,0
+Canada,Saturday,6,10,0
+Canada,Saturday,6,11,0
+Canada,Saturday,6,12,0
+Canada,Saturday,6,13,0
+Canada,Saturday,6,14,0
+Canada,Saturday,6,15,0
+Canada,Saturday,6,16,0
+Canada,Saturday,6,17,0
+Canada,Saturday,6,18,0
+Canada,Saturday,6,19,0
+Canada,Saturday,6,20,0
+Canada,Saturday,6,21,0
+Canada,Saturday,6,22,0
+Canada,Saturday,6,23,0
+Canada,Sunday,7,0,0
+Canada,Sunday,7,1,0
+Canada,Sunday,7,2,0
+Canada,Sunday,7,3,0
+Canada,Sunday,7,4,0
+Canada,Sunday,7,5,0
+Canada,Sunday,7,6,0
+Canada,Sunday,7,7,0
+Canada,Sunday,7,8,0
+Canada,Sunday,7,9,0
+Canada,Sunday,7,10,0
+Canada,Sunday,7,11,0
+Canada,Sunday,7,12,0
+Canada,Sunday,7,13,0
+Canada,Sunday,7,14,0
+Canada,Sunday,7,15,0
+Canada,Sunday,7,16,0
+Canada,Sunday,7,17,0
+Canada,Sunday,7,18,0
+Canada,Sunday,7,19,0
+Canada,Sunday,7,20,0
+Canada,Sunday,7,21,0
+Canada,Sunday,7,22,0
+Canada,Sunday,7,23,0
+Channel Islands,Monday,1,0,0
+Channel Islands,Monday,1,1,0
+Channel Islands,Monday,1,2,0
+Channel Islands,Monday,1,3,0
+Channel Islands,Monday,1,4,0
+Channel Islands,Monday,1,5,0
+Channel Islands,Monday,1,6,0
+Channel Islands,Monday,1,7,0
+Channel Islands,Monday,1,8,0
+Channel Islands,Monday,1,9,0
+Channel Islands,Monday,1,10,53
+Channel Islands,Monday,1,11,0
+Channel Islands,Monday,1,12,17
+Channel Islands,Monday,1,13,0
+Channel Islands,Monday,1,14,13
+Channel Islands,Monday,1,15,2
+Channel Islands,Monday,1,16,0
+Channel Islands,Monday,1,17,0
+Channel Islands,Monday,1,18,0
+Channel Islands,Monday,1,19,0
+Channel Islands,Monday,1,20,0
+Channel Islands,Monday,1,21,0
+Channel Islands,Monday,1,22,0
+Channel Islands,Monday,1,23,0
+Channel Islands,Tuesday,2,0,0
+Channel Islands,Tuesday,2,1,0
+Channel Islands,Tuesday,2,2,0
+Channel Islands,Tuesday,2,3,0
+Channel Islands,Tuesday,2,4,0
+Channel Islands,Tuesday,2,5,0
+Channel Islands,Tuesday,2,6,0
+Channel Islands,Tuesday,2,7,0
+Channel Islands,Tuesday,2,8,0
+Channel Islands,Tuesday,2,9,0
+Channel Islands,Tuesday,2,10,66
+Channel Islands,Tuesday,2,11,0
+Channel Islands,Tuesday,2,12,57
+Channel Islands,Tuesday,2,13,0
+Channel Islands,Tuesday,2,14,10
+Channel Islands,Tuesday,2,15,0
+Channel Islands,Tuesday,2,16,0
+Channel Islands,Tuesday,2,17,2
+Channel Islands,Tuesday,2,18,0
+Channel Islands,Tuesday,2,19,0
+Channel Islands,Tuesday,2,20,0
+Channel Islands,Tuesday,2,21,0
+Channel Islands,Tuesday,2,22,0
+Channel Islands,Tuesday,2,23,0
+Channel Islands,Wednesday,3,0,0
+Channel Islands,Wednesday,3,1,0
+Channel Islands,Wednesday,3,2,0
+Channel Islands,Wednesday,3,3,0
+Channel Islands,Wednesday,3,4,0
+Channel Islands,Wednesday,3,5,0
+Channel Islands,Wednesday,3,6,0
+Channel Islands,Wednesday,3,7,0
+Channel Islands,Wednesday,3,8,81
+Channel Islands,Wednesday,3,9,10
+Channel Islands,Wednesday,3,10,0
+Channel Islands,Wednesday,3,11,120
+Channel Islands,Wednesday,3,12,0
+Channel Islands,Wednesday,3,13,0
+Channel Islands,Wednesday,3,14,0
+Channel Islands,Wednesday,3,15,2
+Channel Islands,Wednesday,3,16,2
+Channel Islands,Wednesday,3,17,0
+Channel Islands,Wednesday,3,18,0
+Channel Islands,Wednesday,3,19,0
+Channel Islands,Wednesday,3,20,0
+Channel Islands,Wednesday,3,21,0
+Channel Islands,Wednesday,3,22,0
+Channel Islands,Wednesday,3,23,0
+Channel Islands,Thursday,4,0,0
+Channel Islands,Thursday,4,1,0
+Channel Islands,Thursday,4,2,0
+Channel Islands,Thursday,4,3,0
+Channel Islands,Thursday,4,4,0
+Channel Islands,Thursday,4,5,0
+Channel Islands,Thursday,4,6,1
+Channel Islands,Thursday,4,7,0
+Channel Islands,Thursday,4,8,0
+Channel Islands,Thursday,4,9,39
+Channel Islands,Thursday,4,10,0
+Channel Islands,Thursday,4,11,51
+Channel Islands,Thursday,4,12,0
+Channel Islands,Thursday,4,13,0
+Channel Islands,Thursday,4,14,62
+Channel Islands,Thursday,4,15,0
+Channel Islands,Thursday,4,16,0
+Channel Islands,Thursday,4,17,0
+Channel Islands,Thursday,4,18,0
+Channel Islands,Thursday,4,19,0
+Channel Islands,Thursday,4,20,0
+Channel Islands,Thursday,4,21,0
+Channel Islands,Thursday,4,22,0
+Channel Islands,Thursday,4,23,0
+Channel Islands,Friday,5,0,0
+Channel Islands,Friday,5,1,0
+Channel Islands,Friday,5,2,0
+Channel Islands,Friday,5,3,0
+Channel Islands,Friday,5,4,0
+Channel Islands,Friday,5,5,0
+Channel Islands,Friday,5,6,0
+Channel Islands,Friday,5,7,0
+Channel Islands,Friday,5,8,0
+Channel Islands,Friday,5,9,0
+Channel Islands,Friday,5,10,0
+Channel Islands,Friday,5,11,0
+Channel Islands,Friday,5,12,21
+Channel Islands,Friday,5,13,81
+Channel Islands,Friday,5,14,0
+Channel Islands,Friday,5,15,0
+Channel Islands,Friday,5,16,0
+Channel Islands,Friday,5,17,0
+Channel Islands,Friday,5,18,0
+Channel Islands,Friday,5,19,0
+Channel Islands,Friday,5,20,0
+Channel Islands,Friday,5,21,0
+Channel Islands,Friday,5,22,0
+Channel Islands,Friday,5,23,0
+Channel Islands,Saturday,6,0,0
+Channel Islands,Saturday,6,1,0
+Channel Islands,Saturday,6,2,0
+Channel Islands,Saturday,6,3,0
+Channel Islands,Saturday,6,4,0
+Channel Islands,Saturday,6,5,0
+Channel Islands,Saturday,6,6,0
+Channel Islands,Saturday,6,7,0
+Channel Islands,Saturday,6,8,0
+Channel Islands,Saturday,6,9,0
+Channel Islands,Saturday,6,10,0
+Channel Islands,Saturday,6,11,0
+Channel Islands,Saturday,6,12,0
+Channel Islands,Saturday,6,13,0
+Channel Islands,Saturday,6,14,0
+Channel Islands,Saturday,6,15,0
+Channel Islands,Saturday,6,16,0
+Channel Islands,Saturday,6,17,0
+Channel Islands,Saturday,6,18,0
+Channel Islands,Saturday,6,19,0
+Channel Islands,Saturday,6,20,0
+Channel Islands,Saturday,6,21,0
+Channel Islands,Saturday,6,22,0
+Channel Islands,Saturday,6,23,0
+Channel Islands,Sunday,7,0,0
+Channel Islands,Sunday,7,1,0
+Channel Islands,Sunday,7,2,0
+Channel Islands,Sunday,7,3,0
+Channel Islands,Sunday,7,4,0
+Channel Islands,Sunday,7,5,0
+Channel Islands,Sunday,7,6,0
+Channel Islands,Sunday,7,7,0
+Channel Islands,Sunday,7,8,0
+Channel Islands,Sunday,7,9,0
+Channel Islands,Sunday,7,10,64
+Channel Islands,Sunday,7,11,4
+Channel Islands,Sunday,7,12,0
+Channel Islands,Sunday,7,13,0
+Channel Islands,Sunday,7,14,0
+Channel Islands,Sunday,7,15,0
+Channel Islands,Sunday,7,16,0
+Channel Islands,Sunday,7,17,0
+Channel Islands,Sunday,7,18,0
+Channel Islands,Sunday,7,19,0
+Channel Islands,Sunday,7,20,0
+Channel Islands,Sunday,7,21,0
+Channel Islands,Sunday,7,22,0
+Channel Islands,Sunday,7,23,0
+Cyprus,Monday,1,0,0
+Cyprus,Monday,1,1,0
+Cyprus,Monday,1,2,0
+Cyprus,Monday,1,3,0
+Cyprus,Monday,1,4,0
+Cyprus,Monday,1,5,0
+Cyprus,Monday,1,6,0
+Cyprus,Monday,1,7,0
+Cyprus,Monday,1,8,0
+Cyprus,Monday,1,9,1
+Cyprus,Monday,1,10,0
+Cyprus,Monday,1,11,0
+Cyprus,Monday,1,12,0
+Cyprus,Monday,1,13,33
+Cyprus,Monday,1,14,82
+Cyprus,Monday,1,15,0
+Cyprus,Monday,1,16,0
+Cyprus,Monday,1,17,0
+Cyprus,Monday,1,18,0
+Cyprus,Monday,1,19,0
+Cyprus,Monday,1,20,0
+Cyprus,Monday,1,21,0
+Cyprus,Monday,1,22,0
+Cyprus,Monday,1,23,0
+Cyprus,Tuesday,2,0,0
+Cyprus,Tuesday,2,1,0
+Cyprus,Tuesday,2,2,0
+Cyprus,Tuesday,2,3,0
+Cyprus,Tuesday,2,4,0
+Cyprus,Tuesday,2,5,0
+Cyprus,Tuesday,2,6,0
+Cyprus,Tuesday,2,7,0
+Cyprus,Tuesday,2,8,0
+Cyprus,Tuesday,2,9,0
+Cyprus,Tuesday,2,10,0
+Cyprus,Tuesday,2,11,0
+Cyprus,Tuesday,2,12,83
+Cyprus,Tuesday,2,13,2
+Cyprus,Tuesday,2,14,0
+Cyprus,Tuesday,2,15,0
+Cyprus,Tuesday,2,16,0
+Cyprus,Tuesday,2,17,0
+Cyprus,Tuesday,2,18,0
+Cyprus,Tuesday,2,19,0
+Cyprus,Tuesday,2,20,0
+Cyprus,Tuesday,2,21,0
+Cyprus,Tuesday,2,22,0
+Cyprus,Tuesday,2,23,0
+Cyprus,Wednesday,3,0,0
+Cyprus,Wednesday,3,1,0
+Cyprus,Wednesday,3,2,0
+Cyprus,Wednesday,3,3,0
+Cyprus,Wednesday,3,4,0
+Cyprus,Wednesday,3,5,0
+Cyprus,Wednesday,3,6,0
+Cyprus,Wednesday,3,7,0
+Cyprus,Wednesday,3,8,0
+Cyprus,Wednesday,3,9,41
+Cyprus,Wednesday,3,10,0
+Cyprus,Wednesday,3,11,0
+Cyprus,Wednesday,3,12,16
+Cyprus,Wednesday,3,13,2
+Cyprus,Wednesday,3,14,28
+Cyprus,Wednesday,3,15,0
+Cyprus,Wednesday,3,16,0
+Cyprus,Wednesday,3,17,0
+Cyprus,Wednesday,3,18,0
+Cyprus,Wednesday,3,19,0
+Cyprus,Wednesday,3,20,0
+Cyprus,Wednesday,3,21,0
+Cyprus,Wednesday,3,22,0
+Cyprus,Wednesday,3,23,0
+Cyprus,Thursday,4,0,0
+Cyprus,Thursday,4,1,0
+Cyprus,Thursday,4,2,0
+Cyprus,Thursday,4,3,0
+Cyprus,Thursday,4,4,0
+Cyprus,Thursday,4,5,0
+Cyprus,Thursday,4,6,0
+Cyprus,Thursday,4,7,0
+Cyprus,Thursday,4,8,0
+Cyprus,Thursday,4,9,0
+Cyprus,Thursday,4,10,0
+Cyprus,Thursday,4,11,0
+Cyprus,Thursday,4,12,153
+Cyprus,Thursday,4,13,0
+Cyprus,Thursday,4,14,0
+Cyprus,Thursday,4,15,0
+Cyprus,Thursday,4,16,0
+Cyprus,Thursday,4,17,1
+Cyprus,Thursday,4,18,0
+Cyprus,Thursday,4,19,0
+Cyprus,Thursday,4,20,0
+Cyprus,Thursday,4,21,0
+Cyprus,Thursday,4,22,0
+Cyprus,Thursday,4,23,0
+Cyprus,Friday,5,0,0
+Cyprus,Friday,5,1,0
+Cyprus,Friday,5,2,0
+Cyprus,Friday,5,3,0
+Cyprus,Friday,5,4,0
+Cyprus,Friday,5,5,0
+Cyprus,Friday,5,6,0
+Cyprus,Friday,5,7,0
+Cyprus,Friday,5,8,29
+Cyprus,Friday,5,9,0
+Cyprus,Friday,5,10,0
+Cyprus,Friday,5,11,4
+Cyprus,Friday,5,12,147
+Cyprus,Friday,5,13,0
+Cyprus,Friday,5,14,0
+Cyprus,Friday,5,15,0
+Cyprus,Friday,5,16,0
+Cyprus,Friday,5,17,0
+Cyprus,Friday,5,18,0
+Cyprus,Friday,5,19,0
+Cyprus,Friday,5,20,0
+Cyprus,Friday,5,21,0
+Cyprus,Friday,5,22,0
+Cyprus,Friday,5,23,0
+Cyprus,Saturday,6,0,0
+Cyprus,Saturday,6,1,0
+Cyprus,Saturday,6,2,0
+Cyprus,Saturday,6,3,0
+Cyprus,Saturday,6,4,0
+Cyprus,Saturday,6,5,0
+Cyprus,Saturday,6,6,0
+Cyprus,Saturday,6,7,0
+Cyprus,Saturday,6,8,0
+Cyprus,Saturday,6,9,0
+Cyprus,Saturday,6,10,0
+Cyprus,Saturday,6,11,0
+Cyprus,Saturday,6,12,0
+Cyprus,Saturday,6,13,0
+Cyprus,Saturday,6,14,0
+Cyprus,Saturday,6,15,0
+Cyprus,Saturday,6,16,0
+Cyprus,Saturday,6,17,0
+Cyprus,Saturday,6,18,0
+Cyprus,Saturday,6,19,0
+Cyprus,Saturday,6,20,0
+Cyprus,Saturday,6,21,0
+Cyprus,Saturday,6,22,0
+Cyprus,Saturday,6,23,0
+Cyprus,Sunday,7,0,0
+Cyprus,Sunday,7,1,0
+Cyprus,Sunday,7,2,0
+Cyprus,Sunday,7,3,0
+Cyprus,Sunday,7,4,0
+Cyprus,Sunday,7,5,0
+Cyprus,Sunday,7,6,0
+Cyprus,Sunday,7,7,0
+Cyprus,Sunday,7,8,0
+Cyprus,Sunday,7,9,0
+Cyprus,Sunday,7,10,0
+Cyprus,Sunday,7,11,0
+Cyprus,Sunday,7,12,0
+Cyprus,Sunday,7,13,0
+Cyprus,Sunday,7,14,0
+Cyprus,Sunday,7,15,0
+Cyprus,Sunday,7,16,0
+Cyprus,Sunday,7,17,0
+Cyprus,Sunday,7,18,0
+Cyprus,Sunday,7,19,0
+Cyprus,Sunday,7,20,0
+Cyprus,Sunday,7,21,0
+Cyprus,Sunday,7,22,0
+Cyprus,Sunday,7,23,0
+Czech Republic,Monday,1,0,0
+Czech Republic,Monday,1,1,0
+Czech Republic,Monday,1,2,0
+Czech Republic,Monday,1,3,0
+Czech Republic,Monday,1,4,0
+Czech Republic,Monday,1,5,0
+Czech Republic,Monday,1,6,0
+Czech Republic,Monday,1,7,0
+Czech Republic,Monday,1,8,15
+Czech Republic,Monday,1,9,0
+Czech Republic,Monday,1,10,0
+Czech Republic,Monday,1,11,0
+Czech Republic,Monday,1,12,0
+Czech Republic,Monday,1,13,0
+Czech Republic,Monday,1,14,0
+Czech Republic,Monday,1,15,0
+Czech Republic,Monday,1,16,0
+Czech Republic,Monday,1,17,0
+Czech Republic,Monday,1,18,0
+Czech Republic,Monday,1,19,0
+Czech Republic,Monday,1,20,0
+Czech Republic,Monday,1,21,0
+Czech Republic,Monday,1,22,0
+Czech Republic,Monday,1,23,0
+Czech Republic,Tuesday,2,0,0
+Czech Republic,Tuesday,2,1,0
+Czech Republic,Tuesday,2,2,0
+Czech Republic,Tuesday,2,3,0
+Czech Republic,Tuesday,2,4,0
+Czech Republic,Tuesday,2,5,0
+Czech Republic,Tuesday,2,6,0
+Czech Republic,Tuesday,2,7,0
+Czech Republic,Tuesday,2,8,0
+Czech Republic,Tuesday,2,9,0
+Czech Republic,Tuesday,2,10,0
+Czech Republic,Tuesday,2,11,0
+Czech Republic,Tuesday,2,12,0
+Czech Republic,Tuesday,2,13,0
+Czech Republic,Tuesday,2,14,0
+Czech Republic,Tuesday,2,15,0
+Czech Republic,Tuesday,2,16,0
+Czech Republic,Tuesday,2,17,0
+Czech Republic,Tuesday,2,18,0
+Czech Republic,Tuesday,2,19,0
+Czech Republic,Tuesday,2,20,0
+Czech Republic,Tuesday,2,21,0
+Czech Republic,Tuesday,2,22,0
+Czech Republic,Tuesday,2,23,0
+Czech Republic,Wednesday,3,0,0
+Czech Republic,Wednesday,3,1,0
+Czech Republic,Wednesday,3,2,0
+Czech Republic,Wednesday,3,3,0
+Czech Republic,Wednesday,3,4,0
+Czech Republic,Wednesday,3,5,0
+Czech Republic,Wednesday,3,6,0
+Czech Republic,Wednesday,3,7,0
+Czech Republic,Wednesday,3,8,0
+Czech Republic,Wednesday,3,9,0
+Czech Republic,Wednesday,3,10,0
+Czech Republic,Wednesday,3,11,0
+Czech Republic,Wednesday,3,12,0
+Czech Republic,Wednesday,3,13,0
+Czech Republic,Wednesday,3,14,0
+Czech Republic,Wednesday,3,15,0
+Czech Republic,Wednesday,3,16,0
+Czech Republic,Wednesday,3,17,0
+Czech Republic,Wednesday,3,18,0
+Czech Republic,Wednesday,3,19,0
+Czech Republic,Wednesday,3,20,0
+Czech Republic,Wednesday,3,21,0
+Czech Republic,Wednesday,3,22,0
+Czech Republic,Wednesday,3,23,0
+Czech Republic,Thursday,4,0,0
+Czech Republic,Thursday,4,1,0
+Czech Republic,Thursday,4,2,0
+Czech Republic,Thursday,4,3,0
+Czech Republic,Thursday,4,4,0
+Czech Republic,Thursday,4,5,0
+Czech Republic,Thursday,4,6,0
+Czech Republic,Thursday,4,7,0
+Czech Republic,Thursday,4,8,0
+Czech Republic,Thursday,4,9,0
+Czech Republic,Thursday,4,10,0
+Czech Republic,Thursday,4,11,0
+Czech Republic,Thursday,4,12,0
+Czech Republic,Thursday,4,13,0
+Czech Republic,Thursday,4,14,0
+Czech Republic,Thursday,4,15,0
+Czech Republic,Thursday,4,16,0
+Czech Republic,Thursday,4,17,0
+Czech Republic,Thursday,4,18,0
+Czech Republic,Thursday,4,19,0
+Czech Republic,Thursday,4,20,0
+Czech Republic,Thursday,4,21,0
+Czech Republic,Thursday,4,22,0
+Czech Republic,Thursday,4,23,0
+Czech Republic,Friday,5,0,0
+Czech Republic,Friday,5,1,0
+Czech Republic,Friday,5,2,0
+Czech Republic,Friday,5,3,0
+Czech Republic,Friday,5,4,0
+Czech Republic,Friday,5,5,0
+Czech Republic,Friday,5,6,0
+Czech Republic,Friday,5,7,0
+Czech Republic,Friday,5,8,0
+Czech Republic,Friday,5,9,2
+Czech Republic,Friday,5,10,10
+Czech Republic,Friday,5,11,0
+Czech Republic,Friday,5,12,0
+Czech Republic,Friday,5,13,0
+Czech Republic,Friday,5,14,0
+Czech Republic,Friday,5,15,3
+Czech Republic,Friday,5,16,0
+Czech Republic,Friday,5,17,0
+Czech Republic,Friday,5,18,0
+Czech Republic,Friday,5,19,0
+Czech Republic,Friday,5,20,0
+Czech Republic,Friday,5,21,0
+Czech Republic,Friday,5,22,0
+Czech Republic,Friday,5,23,0
+Czech Republic,Saturday,6,0,0
+Czech Republic,Saturday,6,1,0
+Czech Republic,Saturday,6,2,0
+Czech Republic,Saturday,6,3,0
+Czech Republic,Saturday,6,4,0
+Czech Republic,Saturday,6,5,0
+Czech Republic,Saturday,6,6,0
+Czech Republic,Saturday,6,7,0
+Czech Republic,Saturday,6,8,0
+Czech Republic,Saturday,6,9,0
+Czech Republic,Saturday,6,10,0
+Czech Republic,Saturday,6,11,0
+Czech Republic,Saturday,6,12,0
+Czech Republic,Saturday,6,13,0
+Czech Republic,Saturday,6,14,0
+Czech Republic,Saturday,6,15,0
+Czech Republic,Saturday,6,16,0
+Czech Republic,Saturday,6,17,0
+Czech Republic,Saturday,6,18,0
+Czech Republic,Saturday,6,19,0
+Czech Republic,Saturday,6,20,0
+Czech Republic,Saturday,6,21,0
+Czech Republic,Saturday,6,22,0
+Czech Republic,Saturday,6,23,0
+Czech Republic,Sunday,7,0,0
+Czech Republic,Sunday,7,1,0
+Czech Republic,Sunday,7,2,0
+Czech Republic,Sunday,7,3,0
+Czech Republic,Sunday,7,4,0
+Czech Republic,Sunday,7,5,0
+Czech Republic,Sunday,7,6,0
+Czech Republic,Sunday,7,7,0
+Czech Republic,Sunday,7,8,0
+Czech Republic,Sunday,7,9,0
+Czech Republic,Sunday,7,10,0
+Czech Republic,Sunday,7,11,0
+Czech Republic,Sunday,7,12,0
+Czech Republic,Sunday,7,13,0
+Czech Republic,Sunday,7,14,0
+Czech Republic,Sunday,7,15,0
+Czech Republic,Sunday,7,16,0
+Czech Republic,Sunday,7,17,0
+Czech Republic,Sunday,7,18,0
+Czech Republic,Sunday,7,19,0
+Czech Republic,Sunday,7,20,0
+Czech Republic,Sunday,7,21,0
+Czech Republic,Sunday,7,22,0
+Czech Republic,Sunday,7,23,0
+Denmark,Monday,1,0,0
+Denmark,Monday,1,1,0
+Denmark,Monday,1,2,0
+Denmark,Monday,1,3,0
+Denmark,Monday,1,4,0
+Denmark,Monday,1,5,0
+Denmark,Monday,1,6,0
+Denmark,Monday,1,7,0
+Denmark,Monday,1,8,0
+Denmark,Monday,1,9,0
+Denmark,Monday,1,10,16
+Denmark,Monday,1,11,17
+Denmark,Monday,1,12,29
+Denmark,Monday,1,13,0
+Denmark,Monday,1,14,0
+Denmark,Monday,1,15,5
+Denmark,Monday,1,16,11
+Denmark,Monday,1,17,0
+Denmark,Monday,1,18,0
+Denmark,Monday,1,19,0
+Denmark,Monday,1,20,0
+Denmark,Monday,1,21,0
+Denmark,Monday,1,22,0
+Denmark,Monday,1,23,0
+Denmark,Tuesday,2,0,0
+Denmark,Tuesday,2,1,0
+Denmark,Tuesday,2,2,0
+Denmark,Tuesday,2,3,0
+Denmark,Tuesday,2,4,0
+Denmark,Tuesday,2,5,0
+Denmark,Tuesday,2,6,0
+Denmark,Tuesday,2,7,0
+Denmark,Tuesday,2,8,0
+Denmark,Tuesday,2,9,3
+Denmark,Tuesday,2,10,0
+Denmark,Tuesday,2,11,0
+Denmark,Tuesday,2,12,0
+Denmark,Tuesday,2,13,0
+Denmark,Tuesday,2,14,12
+Denmark,Tuesday,2,15,0
+Denmark,Tuesday,2,16,0
+Denmark,Tuesday,2,17,0
+Denmark,Tuesday,2,18,0
+Denmark,Tuesday,2,19,0
+Denmark,Tuesday,2,20,0
+Denmark,Tuesday,2,21,0
+Denmark,Tuesday,2,22,0
+Denmark,Tuesday,2,23,0
+Denmark,Wednesday,3,0,0
+Denmark,Wednesday,3,1,0
+Denmark,Wednesday,3,2,0
+Denmark,Wednesday,3,3,0
+Denmark,Wednesday,3,4,0
+Denmark,Wednesday,3,5,0
+Denmark,Wednesday,3,6,0
+Denmark,Wednesday,3,7,0
+Denmark,Wednesday,3,8,0
+Denmark,Wednesday,3,9,17
+Denmark,Wednesday,3,10,35
+Denmark,Wednesday,3,11,0
+Denmark,Wednesday,3,12,20
+Denmark,Wednesday,3,13,0
+Denmark,Wednesday,3,14,0
+Denmark,Wednesday,3,15,0
+Denmark,Wednesday,3,16,0
+Denmark,Wednesday,3,17,27
+Denmark,Wednesday,3,18,0
+Denmark,Wednesday,3,19,0
+Denmark,Wednesday,3,20,0
+Denmark,Wednesday,3,21,0
+Denmark,Wednesday,3,22,0
+Denmark,Wednesday,3,23,0
+Denmark,Thursday,4,0,0
+Denmark,Thursday,4,1,0
+Denmark,Thursday,4,2,0
+Denmark,Thursday,4,3,0
+Denmark,Thursday,4,4,0
+Denmark,Thursday,4,5,0
+Denmark,Thursday,4,6,0
+Denmark,Thursday,4,7,19
+Denmark,Thursday,4,8,0
+Denmark,Thursday,4,9,0
+Denmark,Thursday,4,10,49
+Denmark,Thursday,4,11,0
+Denmark,Thursday,4,12,33
+Denmark,Thursday,4,13,28
+Denmark,Thursday,4,14,0
+Denmark,Thursday,4,15,0
+Denmark,Thursday,4,16,0
+Denmark,Thursday,4,17,0
+Denmark,Thursday,4,18,0
+Denmark,Thursday,4,19,56
+Denmark,Thursday,4,20,0
+Denmark,Thursday,4,21,0
+Denmark,Thursday,4,22,0
+Denmark,Thursday,4,23,0
+Denmark,Friday,5,0,0
+Denmark,Friday,5,1,0
+Denmark,Friday,5,2,0
+Denmark,Friday,5,3,0
+Denmark,Friday,5,4,0
+Denmark,Friday,5,5,0
+Denmark,Friday,5,6,0
+Denmark,Friday,5,7,0
+Denmark,Friday,5,8,6
+Denmark,Friday,5,9,0
+Denmark,Friday,5,10,5
+Denmark,Friday,5,11,1
+Denmark,Friday,5,12,0
+Denmark,Friday,5,13,0
+Denmark,Friday,5,14,0
+Denmark,Friday,5,15,0
+Denmark,Friday,5,16,0
+Denmark,Friday,5,17,0
+Denmark,Friday,5,18,0
+Denmark,Friday,5,19,0
+Denmark,Friday,5,20,0
+Denmark,Friday,5,21,0
+Denmark,Friday,5,22,0
+Denmark,Friday,5,23,0
+Denmark,Saturday,6,0,0
+Denmark,Saturday,6,1,0
+Denmark,Saturday,6,2,0
+Denmark,Saturday,6,3,0
+Denmark,Saturday,6,4,0
+Denmark,Saturday,6,5,0
+Denmark,Saturday,6,6,0
+Denmark,Saturday,6,7,0
+Denmark,Saturday,6,8,0
+Denmark,Saturday,6,9,0
+Denmark,Saturday,6,10,0
+Denmark,Saturday,6,11,0
+Denmark,Saturday,6,12,0
+Denmark,Saturday,6,13,0
+Denmark,Saturday,6,14,0
+Denmark,Saturday,6,15,0
+Denmark,Saturday,6,16,0
+Denmark,Saturday,6,17,0
+Denmark,Saturday,6,18,0
+Denmark,Saturday,6,19,0
+Denmark,Saturday,6,20,0
+Denmark,Saturday,6,21,0
+Denmark,Saturday,6,22,0
+Denmark,Saturday,6,23,0
+Denmark,Sunday,7,0,0
+Denmark,Sunday,7,1,0
+Denmark,Sunday,7,2,0
+Denmark,Sunday,7,3,0
+Denmark,Sunday,7,4,0
+Denmark,Sunday,7,5,0
+Denmark,Sunday,7,6,0
+Denmark,Sunday,7,7,0
+Denmark,Sunday,7,8,0
+Denmark,Sunday,7,9,0
+Denmark,Sunday,7,10,0
+Denmark,Sunday,7,11,0
+Denmark,Sunday,7,12,0
+Denmark,Sunday,7,13,0
+Denmark,Sunday,7,14,0
+Denmark,Sunday,7,15,0
+Denmark,Sunday,7,16,0
+Denmark,Sunday,7,17,0
+Denmark,Sunday,7,18,0
+Denmark,Sunday,7,19,0
+Denmark,Sunday,7,20,0
+Denmark,Sunday,7,21,0
+Denmark,Sunday,7,22,0
+Denmark,Sunday,7,23,0
+EIRE,Monday,1,0,0
+EIRE,Monday,1,1,0
+EIRE,Monday,1,2,0
+EIRE,Monday,1,3,0
+EIRE,Monday,1,4,0
+EIRE,Monday,1,5,0
+EIRE,Monday,1,6,0
+EIRE,Monday,1,7,39
+EIRE,Monday,1,8,172
+EIRE,Monday,1,9,111
+EIRE,Monday,1,10,403
+EIRE,Monday,1,11,67
+EIRE,Monday,1,12,475
+EIRE,Monday,1,13,205
+EIRE,Monday,1,14,149
+EIRE,Monday,1,15,43
+EIRE,Monday,1,16,0
+EIRE,Monday,1,17,6
+EIRE,Monday,1,18,0
+EIRE,Monday,1,19,0
+EIRE,Monday,1,20,0
+EIRE,Monday,1,21,0
+EIRE,Monday,1,22,0
+EIRE,Monday,1,23,0
+EIRE,Tuesday,2,0,0
+EIRE,Tuesday,2,1,0
+EIRE,Tuesday,2,2,0
+EIRE,Tuesday,2,3,0
+EIRE,Tuesday,2,4,0
+EIRE,Tuesday,2,5,0
+EIRE,Tuesday,2,6,0
+EIRE,Tuesday,2,7,0
+EIRE,Tuesday,2,8,70
+EIRE,Tuesday,2,9,240
+EIRE,Tuesday,2,10,184
+EIRE,Tuesday,2,11,150
+EIRE,Tuesday,2,12,173
+EIRE,Tuesday,2,13,104
+EIRE,Tuesday,2,14,284
+EIRE,Tuesday,2,15,128
+EIRE,Tuesday,2,16,6
+EIRE,Tuesday,2,17,58
+EIRE,Tuesday,2,18,2
+EIRE,Tuesday,2,19,0
+EIRE,Tuesday,2,20,0
+EIRE,Tuesday,2,21,0
+EIRE,Tuesday,2,22,0
+EIRE,Tuesday,2,23,0
+EIRE,Wednesday,3,0,0
+EIRE,Wednesday,3,1,0
+EIRE,Wednesday,3,2,0
+EIRE,Wednesday,3,3,0
+EIRE,Wednesday,3,4,0
+EIRE,Wednesday,3,5,0
+EIRE,Wednesday,3,6,0
+EIRE,Wednesday,3,7,0
+EIRE,Wednesday,3,8,145
+EIRE,Wednesday,3,9,111
+EIRE,Wednesday,3,10,317
+EIRE,Wednesday,3,11,70
+EIRE,Wednesday,3,12,176
+EIRE,Wednesday,3,13,302
+EIRE,Wednesday,3,14,216
+EIRE,Wednesday,3,15,33
+EIRE,Wednesday,3,16,34
+EIRE,Wednesday,3,17,61
+EIRE,Wednesday,3,18,0
+EIRE,Wednesday,3,19,0
+EIRE,Wednesday,3,20,0
+EIRE,Wednesday,3,21,0
+EIRE,Wednesday,3,22,0
+EIRE,Wednesday,3,23,0
+EIRE,Thursday,4,0,0
+EIRE,Thursday,4,1,0
+EIRE,Thursday,4,2,0
+EIRE,Thursday,4,3,0
+EIRE,Thursday,4,4,0
+EIRE,Thursday,4,5,0
+EIRE,Thursday,4,6,12
+EIRE,Thursday,4,7,0
+EIRE,Thursday,4,8,91
+EIRE,Thursday,4,9,105
+EIRE,Thursday,4,10,272
+EIRE,Thursday,4,11,132
+EIRE,Thursday,4,12,89
+EIRE,Thursday,4,13,160
+EIRE,Thursday,4,14,179
+EIRE,Thursday,4,15,162
+EIRE,Thursday,4,16,70
+EIRE,Thursday,4,17,141
+EIRE,Thursday,4,18,11
+EIRE,Thursday,4,19,87
+EIRE,Thursday,4,20,0
+EIRE,Thursday,4,21,0
+EIRE,Thursday,4,22,0
+EIRE,Thursday,4,23,0
+EIRE,Friday,5,0,0
+EIRE,Friday,5,1,0
+EIRE,Friday,5,2,0
+EIRE,Friday,5,3,0
+EIRE,Friday,5,4,0
+EIRE,Friday,5,5,0
+EIRE,Friday,5,6,0
+EIRE,Friday,5,7,27
+EIRE,Friday,5,8,54
+EIRE,Friday,5,9,163
+EIRE,Friday,5,10,250
+EIRE,Friday,5,11,99
+EIRE,Friday,5,12,252
+EIRE,Friday,5,13,63
+EIRE,Friday,5,14,474
+EIRE,Friday,5,15,85
+EIRE,Friday,5,16,17
+EIRE,Friday,5,17,147
+EIRE,Friday,5,18,0
+EIRE,Friday,5,19,0
+EIRE,Friday,5,20,0
+EIRE,Friday,5,21,0
+EIRE,Friday,5,22,0
+EIRE,Friday,5,23,0
+EIRE,Saturday,6,0,0
+EIRE,Saturday,6,1,0
+EIRE,Saturday,6,2,0
+EIRE,Saturday,6,3,0
+EIRE,Saturday,6,4,0
+EIRE,Saturday,6,5,0
+EIRE,Saturday,6,6,0
+EIRE,Saturday,6,7,0
+EIRE,Saturday,6,8,0
+EIRE,Saturday,6,9,0
+EIRE,Saturday,6,10,0
+EIRE,Saturday,6,11,0
+EIRE,Saturday,6,12,0
+EIRE,Saturday,6,13,0
+EIRE,Saturday,6,14,0
+EIRE,Saturday,6,15,0
+EIRE,Saturday,6,16,0
+EIRE,Saturday,6,17,0
+EIRE,Saturday,6,18,0
+EIRE,Saturday,6,19,0
+EIRE,Saturday,6,20,0
+EIRE,Saturday,6,21,0
+EIRE,Saturday,6,22,0
+EIRE,Saturday,6,23,0
+EIRE,Sunday,7,0,0
+EIRE,Sunday,7,1,0
+EIRE,Sunday,7,2,0
+EIRE,Sunday,7,3,0
+EIRE,Sunday,7,4,0
+EIRE,Sunday,7,5,0
+EIRE,Sunday,7,6,0
+EIRE,Sunday,7,7,0
+EIRE,Sunday,7,8,0
+EIRE,Sunday,7,9,0
+EIRE,Sunday,7,10,33
+EIRE,Sunday,7,11,187
+EIRE,Sunday,7,12,3
+EIRE,Sunday,7,13,72
+EIRE,Sunday,7,14,109
+EIRE,Sunday,7,15,71
+EIRE,Sunday,7,16,45
+EIRE,Sunday,7,17,0
+EIRE,Sunday,7,18,0
+EIRE,Sunday,7,19,0
+EIRE,Sunday,7,20,0
+EIRE,Sunday,7,21,0
+EIRE,Sunday,7,22,0
+EIRE,Sunday,7,23,0
+European Community,Monday,1,0,0
+European Community,Monday,1,1,0
+European Community,Monday,1,2,0
+European Community,Monday,1,3,0
+European Community,Monday,1,4,0
+European Community,Monday,1,5,0
+European Community,Monday,1,6,0
+European Community,Monday,1,7,0
+European Community,Monday,1,8,0
+European Community,Monday,1,9,0
+European Community,Monday,1,10,0
+European Community,Monday,1,11,0
+European Community,Monday,1,12,0
+European Community,Monday,1,13,0
+European Community,Monday,1,14,0
+European Community,Monday,1,15,0
+European Community,Monday,1,16,1
+European Community,Monday,1,17,0
+European Community,Monday,1,18,0
+European Community,Monday,1,19,0
+European Community,Monday,1,20,0
+European Community,Monday,1,21,0
+European Community,Monday,1,22,0
+European Community,Monday,1,23,0
+European Community,Tuesday,2,0,0
+European Community,Tuesday,2,1,0
+European Community,Tuesday,2,2,0
+European Community,Tuesday,2,3,0
+European Community,Tuesday,2,4,0
+European Community,Tuesday,2,5,0
+European Community,Tuesday,2,6,0
+European Community,Tuesday,2,7,0
+European Community,Tuesday,2,8,0
+European Community,Tuesday,2,9,0
+European Community,Tuesday,2,10,11
+European Community,Tuesday,2,11,0
+European Community,Tuesday,2,12,0
+European Community,Tuesday,2,13,0
+European Community,Tuesday,2,14,0
+European Community,Tuesday,2,15,0
+European Community,Tuesday,2,16,0
+European Community,Tuesday,2,17,0
+European Community,Tuesday,2,18,0
+European Community,Tuesday,2,19,0
+European Community,Tuesday,2,20,0
+European Community,Tuesday,2,21,0
+European Community,Tuesday,2,22,0
+European Community,Tuesday,2,23,0
+European Community,Wednesday,3,0,0
+European Community,Wednesday,3,1,0
+European Community,Wednesday,3,2,0
+European Community,Wednesday,3,3,0
+European Community,Wednesday,3,4,0
+European Community,Wednesday,3,5,0
+European Community,Wednesday,3,6,0
+European Community,Wednesday,3,7,0
+European Community,Wednesday,3,8,0
+European Community,Wednesday,3,9,0
+European Community,Wednesday,3,10,0
+European Community,Wednesday,3,11,0
+European Community,Wednesday,3,12,0
+European Community,Wednesday,3,13,0
+European Community,Wednesday,3,14,0
+European Community,Wednesday,3,15,0
+European Community,Wednesday,3,16,0
+European Community,Wednesday,3,17,0
+European Community,Wednesday,3,18,0
+European Community,Wednesday,3,19,0
+European Community,Wednesday,3,20,0
+European Community,Wednesday,3,21,0
+European Community,Wednesday,3,22,0
+European Community,Wednesday,3,23,0
+European Community,Thursday,4,0,0
+European Community,Thursday,4,1,0
+European Community,Thursday,4,2,0
+European Community,Thursday,4,3,0
+European Community,Thursday,4,4,0
+European Community,Thursday,4,5,0
+European Community,Thursday,4,6,0
+European Community,Thursday,4,7,0
+European Community,Thursday,4,8,0
+European Community,Thursday,4,9,0
+European Community,Thursday,4,10,29
+European Community,Thursday,4,11,0
+European Community,Thursday,4,12,0
+European Community,Thursday,4,13,0
+European Community,Thursday,4,14,0
+European Community,Thursday,4,15,0
+European Community,Thursday,4,16,0
+European Community,Thursday,4,17,0
+European Community,Thursday,4,18,0
+European Community,Thursday,4,19,0
+European Community,Thursday,4,20,0
+European Community,Thursday,4,21,0
+European Community,Thursday,4,22,0
+European Community,Thursday,4,23,0
+European Community,Friday,5,0,0
+European Community,Friday,5,1,0
+European Community,Friday,5,2,0
+European Community,Friday,5,3,0
+European Community,Friday,5,4,0
+European Community,Friday,5,5,0
+European Community,Friday,5,6,0
+European Community,Friday,5,7,0
+European Community,Friday,5,8,0
+European Community,Friday,5,9,1
+European Community,Friday,5,10,0
+European Community,Friday,5,11,0
+European Community,Friday,5,12,0
+European Community,Friday,5,13,0
+European Community,Friday,5,14,0
+European Community,Friday,5,15,0
+European Community,Friday,5,16,0
+European Community,Friday,5,17,0
+European Community,Friday,5,18,0
+European Community,Friday,5,19,0
+European Community,Friday,5,20,0
+European Community,Friday,5,21,0
+European Community,Friday,5,22,0
+European Community,Friday,5,23,0
+European Community,Saturday,6,0,0
+European Community,Saturday,6,1,0
+European Community,Saturday,6,2,0
+European Community,Saturday,6,3,0
+European Community,Saturday,6,4,0
+European Community,Saturday,6,5,0
+European Community,Saturday,6,6,0
+European Community,Saturday,6,7,0
+European Community,Saturday,6,8,0
+European Community,Saturday,6,9,0
+European Community,Saturday,6,10,0
+European Community,Saturday,6,11,0
+European Community,Saturday,6,12,0
+European Community,Saturday,6,13,0
+European Community,Saturday,6,14,0
+European Community,Saturday,6,15,0
+European Community,Saturday,6,16,0
+European Community,Saturday,6,17,0
+European Community,Saturday,6,18,0
+European Community,Saturday,6,19,0
+European Community,Saturday,6,20,0
+European Community,Saturday,6,21,0
+European Community,Saturday,6,22,0
+European Community,Saturday,6,23,0
+European Community,Sunday,7,0,0
+European Community,Sunday,7,1,0
+European Community,Sunday,7,2,0
+European Community,Sunday,7,3,0
+European Community,Sunday,7,4,0
+European Community,Sunday,7,5,0
+European Community,Sunday,7,6,0
+European Community,Sunday,7,7,0
+European Community,Sunday,7,8,0
+European Community,Sunday,7,9,0
+European Community,Sunday,7,10,0
+European Community,Sunday,7,11,0
+European Community,Sunday,7,12,19
+European Community,Sunday,7,13,0
+European Community,Sunday,7,14,0
+European Community,Sunday,7,15,0
+European Community,Sunday,7,16,0
+European Community,Sunday,7,17,0
+European Community,Sunday,7,18,0
+European Community,Sunday,7,19,0
+European Community,Sunday,7,20,0
+European Community,Sunday,7,21,0
+European Community,Sunday,7,22,0
+European Community,Sunday,7,23,0
+Finland,Monday,1,0,0
+Finland,Monday,1,1,0
+Finland,Monday,1,2,0
+Finland,Monday,1,3,0
+Finland,Monday,1,4,0
+Finland,Monday,1,5,0
+Finland,Monday,1,6,0
+Finland,Monday,1,7,0
+Finland,Monday,1,8,15
+Finland,Monday,1,9,0
+Finland,Monday,1,10,21
+Finland,Monday,1,11,0
+Finland,Monday,1,12,0
+Finland,Monday,1,13,0
+Finland,Monday,1,14,0
+Finland,Monday,1,15,10
+Finland,Monday,1,16,2
+Finland,Monday,1,17,0
+Finland,Monday,1,18,0
+Finland,Monday,1,19,0
+Finland,Monday,1,20,0
+Finland,Monday,1,21,0
+Finland,Monday,1,22,0
+Finland,Monday,1,23,0
+Finland,Tuesday,2,0,0
+Finland,Tuesday,2,1,0
+Finland,Tuesday,2,2,0
+Finland,Tuesday,2,3,0
+Finland,Tuesday,2,4,0
+Finland,Tuesday,2,5,0
+Finland,Tuesday,2,6,0
+Finland,Tuesday,2,7,0
+Finland,Tuesday,2,8,0
+Finland,Tuesday,2,9,193
+Finland,Tuesday,2,10,18
+Finland,Tuesday,2,11,0
+Finland,Tuesday,2,12,29
+Finland,Tuesday,2,13,0
+Finland,Tuesday,2,14,2
+Finland,Tuesday,2,15,4
+Finland,Tuesday,2,16,1
+Finland,Tuesday,2,17,0
+Finland,Tuesday,2,18,0
+Finland,Tuesday,2,19,0
+Finland,Tuesday,2,20,0
+Finland,Tuesday,2,21,0
+Finland,Tuesday,2,22,0
+Finland,Tuesday,2,23,0
+Finland,Wednesday,3,0,0
+Finland,Wednesday,3,1,0
+Finland,Wednesday,3,2,0
+Finland,Wednesday,3,3,0
+Finland,Wednesday,3,4,0
+Finland,Wednesday,3,5,0
+Finland,Wednesday,3,6,0
+Finland,Wednesday,3,7,0
+Finland,Wednesday,3,8,0
+Finland,Wednesday,3,9,0
+Finland,Wednesday,3,10,29
+Finland,Wednesday,3,11,5
+Finland,Wednesday,3,12,0
+Finland,Wednesday,3,13,0
+Finland,Wednesday,3,14,0
+Finland,Wednesday,3,15,12
+Finland,Wednesday,3,16,0
+Finland,Wednesday,3,17,33
+Finland,Wednesday,3,18,0
+Finland,Wednesday,3,19,0
+Finland,Wednesday,3,20,0
+Finland,Wednesday,3,21,0
+Finland,Wednesday,3,22,0
+Finland,Wednesday,3,23,0
+Finland,Thursday,4,0,0
+Finland,Thursday,4,1,0
+Finland,Thursday,4,2,0
+Finland,Thursday,4,3,0
+Finland,Thursday,4,4,0
+Finland,Thursday,4,5,0
+Finland,Thursday,4,6,0
+Finland,Thursday,4,7,0
+Finland,Thursday,4,8,54
+Finland,Thursday,4,9,3
+Finland,Thursday,4,10,65
+Finland,Thursday,4,11,12
+Finland,Thursday,4,12,24
+Finland,Thursday,4,13,31
+Finland,Thursday,4,14,13
+Finland,Thursday,4,15,0
+Finland,Thursday,4,16,0
+Finland,Thursday,4,17,4
+Finland,Thursday,4,18,15
+Finland,Thursday,4,19,17
+Finland,Thursday,4,20,0
+Finland,Thursday,4,21,0
+Finland,Thursday,4,22,0
+Finland,Thursday,4,23,0
+Finland,Friday,5,0,0
+Finland,Friday,5,1,0
+Finland,Friday,5,2,0
+Finland,Friday,5,3,0
+Finland,Friday,5,4,0
+Finland,Friday,5,5,0
+Finland,Friday,5,6,0
+Finland,Friday,5,7,0
+Finland,Friday,5,8,30
+Finland,Friday,5,9,4
+Finland,Friday,5,10,0
+Finland,Friday,5,11,16
+Finland,Friday,5,12,4
+Finland,Friday,5,13,5
+Finland,Friday,5,14,11
+Finland,Friday,5,15,0
+Finland,Friday,5,16,0
+Finland,Friday,5,17,0
+Finland,Friday,5,18,0
+Finland,Friday,5,19,0
+Finland,Friday,5,20,0
+Finland,Friday,5,21,0
+Finland,Friday,5,22,0
+Finland,Friday,5,23,0
+Finland,Saturday,6,0,0
+Finland,Saturday,6,1,0
+Finland,Saturday,6,2,0
+Finland,Saturday,6,3,0
+Finland,Saturday,6,4,0
+Finland,Saturday,6,5,0
+Finland,Saturday,6,6,0
+Finland,Saturday,6,7,0
+Finland,Saturday,6,8,0
+Finland,Saturday,6,9,0
+Finland,Saturday,6,10,0
+Finland,Saturday,6,11,0
+Finland,Saturday,6,12,0
+Finland,Saturday,6,13,0
+Finland,Saturday,6,14,0
+Finland,Saturday,6,15,0
+Finland,Saturday,6,16,0
+Finland,Saturday,6,17,0
+Finland,Saturday,6,18,0
+Finland,Saturday,6,19,0
+Finland,Saturday,6,20,0
+Finland,Saturday,6,21,0
+Finland,Saturday,6,22,0
+Finland,Saturday,6,23,0
+Finland,Sunday,7,0,0
+Finland,Sunday,7,1,0
+Finland,Sunday,7,2,0
+Finland,Sunday,7,3,0
+Finland,Sunday,7,4,0
+Finland,Sunday,7,5,0
+Finland,Sunday,7,6,0
+Finland,Sunday,7,7,0
+Finland,Sunday,7,8,0
+Finland,Sunday,7,9,0
+Finland,Sunday,7,10,0
+Finland,Sunday,7,11,0
+Finland,Sunday,7,12,0
+Finland,Sunday,7,13,3
+Finland,Sunday,7,14,0
+Finland,Sunday,7,15,10
+Finland,Sunday,7,16,0
+Finland,Sunday,7,17,0
+Finland,Sunday,7,18,0
+Finland,Sunday,7,19,0
+Finland,Sunday,7,20,0
+Finland,Sunday,7,21,0
+Finland,Sunday,7,22,0
+Finland,Sunday,7,23,0
+France,Monday,1,0,0
+France,Monday,1,1,0
+France,Monday,1,2,0
+France,Monday,1,3,0
+France,Monday,1,4,0
+France,Monday,1,5,0
+France,Monday,1,6,0
+France,Monday,1,7,0
+France,Monday,1,8,71
+France,Monday,1,9,184
+France,Monday,1,10,115
+France,Monday,1,11,201
+France,Monday,1,12,206
+France,Monday,1,13,207
+France,Monday,1,14,130
+France,Monday,1,15,120
+France,Monday,1,16,66
+France,Monday,1,17,0
+France,Monday,1,18,0
+France,Monday,1,19,0
+France,Monday,1,20,0
+France,Monday,1,21,0
+France,Monday,1,22,0
+France,Monday,1,23,0
+France,Tuesday,2,0,0
+France,Tuesday,2,1,0
+France,Tuesday,2,2,0
+France,Tuesday,2,3,0
+France,Tuesday,2,4,0
+France,Tuesday,2,5,0
+France,Tuesday,2,6,0
+France,Tuesday,2,7,4
+France,Tuesday,2,8,65
+France,Tuesday,2,9,133
+France,Tuesday,2,10,176
+France,Tuesday,2,11,89
+France,Tuesday,2,12,209
+France,Tuesday,2,13,106
+France,Tuesday,2,14,347
+France,Tuesday,2,15,94
+France,Tuesday,2,16,61
+France,Tuesday,2,17,0
+France,Tuesday,2,18,0
+France,Tuesday,2,19,0
+France,Tuesday,2,20,0
+France,Tuesday,2,21,0
+France,Tuesday,2,22,0
+France,Tuesday,2,23,0
+France,Wednesday,3,0,0
+France,Wednesday,3,1,0
+France,Wednesday,3,2,0
+France,Wednesday,3,3,0
+France,Wednesday,3,4,0
+France,Wednesday,3,5,0
+France,Wednesday,3,6,0
+France,Wednesday,3,7,0
+France,Wednesday,3,8,112
+France,Wednesday,3,9,287
+France,Wednesday,3,10,164
+France,Wednesday,3,11,183
+France,Wednesday,3,12,222
+France,Wednesday,3,13,290
+France,Wednesday,3,14,219
+France,Wednesday,3,15,280
+France,Wednesday,3,16,122
+France,Wednesday,3,17,0
+France,Wednesday,3,18,0
+France,Wednesday,3,19,0
+France,Wednesday,3,20,0
+France,Wednesday,3,21,0
+France,Wednesday,3,22,0
+France,Wednesday,3,23,0
+France,Thursday,4,0,0
+France,Thursday,4,1,0
+France,Thursday,4,2,0
+France,Thursday,4,3,0
+France,Thursday,4,4,0
+France,Thursday,4,5,0
+France,Thursday,4,6,0
+France,Thursday,4,7,0
+France,Thursday,4,8,51
+France,Thursday,4,9,155
+France,Thursday,4,10,420
+France,Thursday,4,11,206
+France,Thursday,4,12,134
+France,Thursday,4,13,135
+France,Thursday,4,14,193
+France,Thursday,4,15,239
+France,Thursday,4,16,135
+France,Thursday,4,17,132
+France,Thursday,4,18,32
+France,Thursday,4,19,2
+France,Thursday,4,20,0
+France,Thursday,4,21,0
+France,Thursday,4,22,0
+France,Thursday,4,23,0
+France,Friday,5,0,0
+France,Friday,5,1,0
+France,Friday,5,2,0
+France,Friday,5,3,0
+France,Friday,5,4,0
+France,Friday,5,5,0
+France,Friday,5,6,0
+France,Friday,5,7,61
+France,Friday,5,8,45
+France,Friday,5,9,173
+France,Friday,5,10,389
+France,Friday,5,11,215
+France,Friday,5,12,223
+France,Friday,5,13,331
+France,Friday,5,14,33
+France,Friday,5,15,135
+France,Friday,5,16,2
+France,Friday,5,17,3
+France,Friday,5,18,1
+France,Friday,5,19,0
+France,Friday,5,20,0
+France,Friday,5,21,0
+France,Friday,5,22,0
+France,Friday,5,23,0
+France,Saturday,6,0,0
+France,Saturday,6,1,0
+France,Saturday,6,2,0
+France,Saturday,6,3,0
+France,Saturday,6,4,0
+France,Saturday,6,5,0
+France,Saturday,6,6,0
+France,Saturday,6,7,0
+France,Saturday,6,8,0
+France,Saturday,6,9,0
+France,Saturday,6,10,0
+France,Saturday,6,11,0
+France,Saturday,6,12,0
+France,Saturday,6,13,0
+France,Saturday,6,14,0
+France,Saturday,6,15,0
+France,Saturday,6,16,0
+France,Saturday,6,17,0
+France,Saturday,6,18,0
+France,Saturday,6,19,0
+France,Saturday,6,20,0
+France,Saturday,6,21,0
+France,Saturday,6,22,0
+France,Saturday,6,23,0
+France,Sunday,7,0,0
+France,Sunday,7,1,0
+France,Sunday,7,2,0
+France,Sunday,7,3,0
+France,Sunday,7,4,0
+France,Sunday,7,5,0
+France,Sunday,7,6,0
+France,Sunday,7,7,0
+France,Sunday,7,8,0
+France,Sunday,7,9,0
+France,Sunday,7,10,43
+France,Sunday,7,11,139
+France,Sunday,7,12,55
+France,Sunday,7,13,127
+France,Sunday,7,14,106
+France,Sunday,7,15,82
+France,Sunday,7,16,97
+France,Sunday,7,17,0
+France,Sunday,7,18,0
+France,Sunday,7,19,0
+France,Sunday,7,20,0
+France,Sunday,7,21,0
+France,Sunday,7,22,0
+France,Sunday,7,23,0
+Germany,Monday,1,0,0
+Germany,Monday,1,1,0
+Germany,Monday,1,2,0
+Germany,Monday,1,3,0
+Germany,Monday,1,4,0
+Germany,Monday,1,5,0
+Germany,Monday,1,6,0
+Germany,Monday,1,7,0
+Germany,Monday,1,8,16
+Germany,Monday,1,9,118
+Germany,Monday,1,10,461
+Germany,Monday,1,11,271
+Germany,Monday,1,12,147
+Germany,Monday,1,13,372
+Germany,Monday,1,14,176
+Germany,Monday,1,15,178
+Germany,Monday,1,16,10
+Germany,Monday,1,17,4
+Germany,Monday,1,18,0
+Germany,Monday,1,19,0
+Germany,Monday,1,20,0
+Germany,Monday,1,21,0
+Germany,Monday,1,22,0
+Germany,Monday,1,23,0
+Germany,Tuesday,2,0,0
+Germany,Tuesday,2,1,0
+Germany,Tuesday,2,2,0
+Germany,Tuesday,2,3,0
+Germany,Tuesday,2,4,0
+Germany,Tuesday,2,5,0
+Germany,Tuesday,2,6,0
+Germany,Tuesday,2,7,0
+Germany,Tuesday,2,8,56
+Germany,Tuesday,2,9,82
+Germany,Tuesday,2,10,187
+Germany,Tuesday,2,11,90
+Germany,Tuesday,2,12,233
+Germany,Tuesday,2,13,213
+Germany,Tuesday,2,14,132
+Germany,Tuesday,2,15,275
+Germany,Tuesday,2,16,9
+Germany,Tuesday,2,17,0
+Germany,Tuesday,2,18,0
+Germany,Tuesday,2,19,0
+Germany,Tuesday,2,20,0
+Germany,Tuesday,2,21,0
+Germany,Tuesday,2,22,0
+Germany,Tuesday,2,23,0
+Germany,Wednesday,3,0,0
+Germany,Wednesday,3,1,0
+Germany,Wednesday,3,2,0
+Germany,Wednesday,3,3,0
+Germany,Wednesday,3,4,0
+Germany,Wednesday,3,5,0
+Germany,Wednesday,3,6,0
+Germany,Wednesday,3,7,0
+Germany,Wednesday,3,8,95
+Germany,Wednesday,3,9,222
+Germany,Wednesday,3,10,159
+Germany,Wednesday,3,11,155
+Germany,Wednesday,3,12,210
+Germany,Wednesday,3,13,166
+Germany,Wednesday,3,14,158
+Germany,Wednesday,3,15,153
+Germany,Wednesday,3,16,61
+Germany,Wednesday,3,17,29
+Germany,Wednesday,3,18,0
+Germany,Wednesday,3,19,0
+Germany,Wednesday,3,20,0
+Germany,Wednesday,3,21,0
+Germany,Wednesday,3,22,0
+Germany,Wednesday,3,23,0
+Germany,Thursday,4,0,0
+Germany,Thursday,4,1,0
+Germany,Thursday,4,2,0
+Germany,Thursday,4,3,0
+Germany,Thursday,4,4,0
+Germany,Thursday,4,5,0
+Germany,Thursday,4,6,0
+Germany,Thursday,4,7,0
+Germany,Thursday,4,8,90
+Germany,Thursday,4,9,405
+Germany,Thursday,4,10,134
+Germany,Thursday,4,11,114
+Germany,Thursday,4,12,339
+Germany,Thursday,4,13,305
+Germany,Thursday,4,14,298
+Germany,Thursday,4,15,365
+Germany,Thursday,4,16,49
+Germany,Thursday,4,17,173
+Germany,Thursday,4,18,20
+Germany,Thursday,4,19,1
+Germany,Thursday,4,20,0
+Germany,Thursday,4,21,0
+Germany,Thursday,4,22,0
+Germany,Thursday,4,23,0
+Germany,Friday,5,0,0
+Germany,Friday,5,1,0
+Germany,Friday,5,2,0
+Germany,Friday,5,3,0
+Germany,Friday,5,4,0
+Germany,Friday,5,5,0
+Germany,Friday,5,6,0
+Germany,Friday,5,7,0
+Germany,Friday,5,8,138
+Germany,Friday,5,9,258
+Germany,Friday,5,10,230
+Germany,Friday,5,11,274
+Germany,Friday,5,12,404
+Germany,Friday,5,13,194
+Germany,Friday,5,14,262
+Germany,Friday,5,15,203
+Germany,Friday,5,16,1
+Germany,Friday,5,17,3
+Germany,Friday,5,18,0
+Germany,Friday,5,19,0
+Germany,Friday,5,20,0
+Germany,Friday,5,21,0
+Germany,Friday,5,22,0
+Germany,Friday,5,23,0
+Germany,Saturday,6,0,0
+Germany,Saturday,6,1,0
+Germany,Saturday,6,2,0
+Germany,Saturday,6,3,0
+Germany,Saturday,6,4,0
+Germany,Saturday,6,5,0
+Germany,Saturday,6,6,0
+Germany,Saturday,6,7,0
+Germany,Saturday,6,8,0
+Germany,Saturday,6,9,0
+Germany,Saturday,6,10,0
+Germany,Saturday,6,11,0
+Germany,Saturday,6,12,0
+Germany,Saturday,6,13,0
+Germany,Saturday,6,14,0
+Germany,Saturday,6,15,0
+Germany,Saturday,6,16,0
+Germany,Saturday,6,17,0
+Germany,Saturday,6,18,0
+Germany,Saturday,6,19,0
+Germany,Saturday,6,20,0
+Germany,Saturday,6,21,0
+Germany,Saturday,6,22,0
+Germany,Saturday,6,23,0
+Germany,Sunday,7,0,0
+Germany,Sunday,7,1,0
+Germany,Sunday,7,2,0
+Germany,Sunday,7,3,0
+Germany,Sunday,7,4,0
+Germany,Sunday,7,5,0
+Germany,Sunday,7,6,0
+Germany,Sunday,7,7,0
+Germany,Sunday,7,8,0
+Germany,Sunday,7,9,2
+Germany,Sunday,7,10,21
+Germany,Sunday,7,11,163
+Germany,Sunday,7,12,104
+Germany,Sunday,7,13,216
+Germany,Sunday,7,14,253
+Germany,Sunday,7,15,38
+Germany,Sunday,7,16,0
+Germany,Sunday,7,17,0
+Germany,Sunday,7,18,0
+Germany,Sunday,7,19,0
+Germany,Sunday,7,20,0
+Germany,Sunday,7,21,0
+Germany,Sunday,7,22,0
+Germany,Sunday,7,23,0
+Greece,Monday,1,0,0
+Greece,Monday,1,1,0
+Greece,Monday,1,2,0
+Greece,Monday,1,3,0
+Greece,Monday,1,4,0
+Greece,Monday,1,5,0
+Greece,Monday,1,6,0
+Greece,Monday,1,7,0
+Greece,Monday,1,8,0
+Greece,Monday,1,9,0
+Greece,Monday,1,10,0
+Greece,Monday,1,11,32
+Greece,Monday,1,12,0
+Greece,Monday,1,13,0
+Greece,Monday,1,14,25
+Greece,Monday,1,15,0
+Greece,Monday,1,16,0
+Greece,Monday,1,17,0
+Greece,Monday,1,18,0
+Greece,Monday,1,19,0
+Greece,Monday,1,20,0
+Greece,Monday,1,21,0
+Greece,Monday,1,22,0
+Greece,Monday,1,23,0
+Greece,Tuesday,2,0,0
+Greece,Tuesday,2,1,0
+Greece,Tuesday,2,2,0
+Greece,Tuesday,2,3,0
+Greece,Tuesday,2,4,0
+Greece,Tuesday,2,5,0
+Greece,Tuesday,2,6,0
+Greece,Tuesday,2,7,0
+Greece,Tuesday,2,8,0
+Greece,Tuesday,2,9,36
+Greece,Tuesday,2,10,0
+Greece,Tuesday,2,11,0
+Greece,Tuesday,2,12,0
+Greece,Tuesday,2,13,0
+Greece,Tuesday,2,14,0
+Greece,Tuesday,2,15,0
+Greece,Tuesday,2,16,0
+Greece,Tuesday,2,17,0
+Greece,Tuesday,2,18,0
+Greece,Tuesday,2,19,0
+Greece,Tuesday,2,20,0
+Greece,Tuesday,2,21,0
+Greece,Tuesday,2,22,0
+Greece,Tuesday,2,23,0
+Greece,Wednesday,3,0,0
+Greece,Wednesday,3,1,0
+Greece,Wednesday,3,2,0
+Greece,Wednesday,3,3,0
+Greece,Wednesday,3,4,0
+Greece,Wednesday,3,5,0
+Greece,Wednesday,3,6,0
+Greece,Wednesday,3,7,0
+Greece,Wednesday,3,8,0
+Greece,Wednesday,3,9,0
+Greece,Wednesday,3,10,0
+Greece,Wednesday,3,11,0
+Greece,Wednesday,3,12,0
+Greece,Wednesday,3,13,0
+Greece,Wednesday,3,14,0
+Greece,Wednesday,3,15,0
+Greece,Wednesday,3,16,0
+Greece,Wednesday,3,17,0
+Greece,Wednesday,3,18,0
+Greece,Wednesday,3,19,0
+Greece,Wednesday,3,20,0
+Greece,Wednesday,3,21,0
+Greece,Wednesday,3,22,0
+Greece,Wednesday,3,23,0
+Greece,Thursday,4,0,0
+Greece,Thursday,4,1,0
+Greece,Thursday,4,2,0
+Greece,Thursday,4,3,0
+Greece,Thursday,4,4,0
+Greece,Thursday,4,5,0
+Greece,Thursday,4,6,0
+Greece,Thursday,4,7,0
+Greece,Thursday,4,8,0
+Greece,Thursday,4,9,0
+Greece,Thursday,4,10,0
+Greece,Thursday,4,11,0
+Greece,Thursday,4,12,0
+Greece,Thursday,4,13,0
+Greece,Thursday,4,14,0
+Greece,Thursday,4,15,0
+Greece,Thursday,4,16,0
+Greece,Thursday,4,17,0
+Greece,Thursday,4,18,0
+Greece,Thursday,4,19,0
+Greece,Thursday,4,20,0
+Greece,Thursday,4,21,0
+Greece,Thursday,4,22,0
+Greece,Thursday,4,23,0
+Greece,Friday,5,0,0
+Greece,Friday,5,1,0
+Greece,Friday,5,2,0
+Greece,Friday,5,3,0
+Greece,Friday,5,4,0
+Greece,Friday,5,5,0
+Greece,Friday,5,6,0
+Greece,Friday,5,7,0
+Greece,Friday,5,8,22
+Greece,Friday,5,9,0
+Greece,Friday,5,10,31
+Greece,Friday,5,11,0
+Greece,Friday,5,12,0
+Greece,Friday,5,13,0
+Greece,Friday,5,14,0
+Greece,Friday,5,15,0
+Greece,Friday,5,16,0
+Greece,Friday,5,17,0
+Greece,Friday,5,18,0
+Greece,Friday,5,19,0
+Greece,Friday,5,20,0
+Greece,Friday,5,21,0
+Greece,Friday,5,22,0
+Greece,Friday,5,23,0
+Greece,Saturday,6,0,0
+Greece,Saturday,6,1,0
+Greece,Saturday,6,2,0
+Greece,Saturday,6,3,0
+Greece,Saturday,6,4,0
+Greece,Saturday,6,5,0
+Greece,Saturday,6,6,0
+Greece,Saturday,6,7,0
+Greece,Saturday,6,8,0
+Greece,Saturday,6,9,0
+Greece,Saturday,6,10,0
+Greece,Saturday,6,11,0
+Greece,Saturday,6,12,0
+Greece,Saturday,6,13,0
+Greece,Saturday,6,14,0
+Greece,Saturday,6,15,0
+Greece,Saturday,6,16,0
+Greece,Saturday,6,17,0
+Greece,Saturday,6,18,0
+Greece,Saturday,6,19,0
+Greece,Saturday,6,20,0
+Greece,Saturday,6,21,0
+Greece,Saturday,6,22,0
+Greece,Saturday,6,23,0
+Greece,Sunday,7,0,0
+Greece,Sunday,7,1,0
+Greece,Sunday,7,2,0
+Greece,Sunday,7,3,0
+Greece,Sunday,7,4,0
+Greece,Sunday,7,5,0
+Greece,Sunday,7,6,0
+Greece,Sunday,7,7,0
+Greece,Sunday,7,8,0
+Greece,Sunday,7,9,0
+Greece,Sunday,7,10,0
+Greece,Sunday,7,11,0
+Greece,Sunday,7,12,0
+Greece,Sunday,7,13,0
+Greece,Sunday,7,14,0
+Greece,Sunday,7,15,0
+Greece,Sunday,7,16,0
+Greece,Sunday,7,17,0
+Greece,Sunday,7,18,0
+Greece,Sunday,7,19,0
+Greece,Sunday,7,20,0
+Greece,Sunday,7,21,0
+Greece,Sunday,7,22,0
+Greece,Sunday,7,23,0
+Hong Kong,Monday,1,0,0
+Hong Kong,Monday,1,1,0
+Hong Kong,Monday,1,2,0
+Hong Kong,Monday,1,3,0
+Hong Kong,Monday,1,4,0
+Hong Kong,Monday,1,5,0
+Hong Kong,Monday,1,6,0
+Hong Kong,Monday,1,7,0
+Hong Kong,Monday,1,8,0
+Hong Kong,Monday,1,9,0
+Hong Kong,Monday,1,10,0
+Hong Kong,Monday,1,11,0
+Hong Kong,Monday,1,12,0
+Hong Kong,Monday,1,13,2
+Hong Kong,Monday,1,14,57
+Hong Kong,Monday,1,15,0
+Hong Kong,Monday,1,16,2
+Hong Kong,Monday,1,17,0
+Hong Kong,Monday,1,18,0
+Hong Kong,Monday,1,19,0
+Hong Kong,Monday,1,20,0
+Hong Kong,Monday,1,21,0
+Hong Kong,Monday,1,22,0
+Hong Kong,Monday,1,23,0
+Hong Kong,Tuesday,2,0,0
+Hong Kong,Tuesday,2,1,0
+Hong Kong,Tuesday,2,2,0
+Hong Kong,Tuesday,2,3,0
+Hong Kong,Tuesday,2,4,0
+Hong Kong,Tuesday,2,5,0
+Hong Kong,Tuesday,2,6,0
+Hong Kong,Tuesday,2,7,0
+Hong Kong,Tuesday,2,8,0
+Hong Kong,Tuesday,2,9,83
+Hong Kong,Tuesday,2,10,0
+Hong Kong,Tuesday,2,11,0
+Hong Kong,Tuesday,2,12,27
+Hong Kong,Tuesday,2,13,1
+Hong Kong,Tuesday,2,14,0
+Hong Kong,Tuesday,2,15,0
+Hong Kong,Tuesday,2,16,0
+Hong Kong,Tuesday,2,17,0
+Hong Kong,Tuesday,2,18,0
+Hong Kong,Tuesday,2,19,0
+Hong Kong,Tuesday,2,20,0
+Hong Kong,Tuesday,2,21,0
+Hong Kong,Tuesday,2,22,0
+Hong Kong,Tuesday,2,23,0
+Hong Kong,Wednesday,3,0,0
+Hong Kong,Wednesday,3,1,0
+Hong Kong,Wednesday,3,2,0
+Hong Kong,Wednesday,3,3,0
+Hong Kong,Wednesday,3,4,0
+Hong Kong,Wednesday,3,5,0
+Hong Kong,Wednesday,3,6,0
+Hong Kong,Wednesday,3,7,0
+Hong Kong,Wednesday,3,8,0
+Hong Kong,Wednesday,3,9,0
+Hong Kong,Wednesday,3,10,16
+Hong Kong,Wednesday,3,11,0
+Hong Kong,Wednesday,3,12,0
+Hong Kong,Wednesday,3,13,0
+Hong Kong,Wednesday,3,14,0
+Hong Kong,Wednesday,3,15,0
+Hong Kong,Wednesday,3,16,0
+Hong Kong,Wednesday,3,17,0
+Hong Kong,Wednesday,3,18,0
+Hong Kong,Wednesday,3,19,0
+Hong Kong,Wednesday,3,20,0
+Hong Kong,Wednesday,3,21,0
+Hong Kong,Wednesday,3,22,0
+Hong Kong,Wednesday,3,23,0
+Hong Kong,Thursday,4,0,0
+Hong Kong,Thursday,4,1,0
+Hong Kong,Thursday,4,2,0
+Hong Kong,Thursday,4,3,0
+Hong Kong,Thursday,4,4,0
+Hong Kong,Thursday,4,5,0
+Hong Kong,Thursday,4,6,0
+Hong Kong,Thursday,4,7,0
+Hong Kong,Thursday,4,8,0
+Hong Kong,Thursday,4,9,0
+Hong Kong,Thursday,4,10,0
+Hong Kong,Thursday,4,11,0
+Hong Kong,Thursday,4,12,0
+Hong Kong,Thursday,4,13,0
+Hong Kong,Thursday,4,14,0
+Hong Kong,Thursday,4,15,0
+Hong Kong,Thursday,4,16,0
+Hong Kong,Thursday,4,17,0
+Hong Kong,Thursday,4,18,0
+Hong Kong,Thursday,4,19,0
+Hong Kong,Thursday,4,20,0
+Hong Kong,Thursday,4,21,0
+Hong Kong,Thursday,4,22,0
+Hong Kong,Thursday,4,23,0
+Hong Kong,Friday,5,0,0
+Hong Kong,Friday,5,1,0
+Hong Kong,Friday,5,2,0
+Hong Kong,Friday,5,3,0
+Hong Kong,Friday,5,4,0
+Hong Kong,Friday,5,5,0
+Hong Kong,Friday,5,6,0
+Hong Kong,Friday,5,7,0
+Hong Kong,Friday,5,8,7
+Hong Kong,Friday,5,9,0
+Hong Kong,Friday,5,10,0
+Hong Kong,Friday,5,11,0
+Hong Kong,Friday,5,12,0
+Hong Kong,Friday,5,13,0
+Hong Kong,Friday,5,14,93
+Hong Kong,Friday,5,15,0
+Hong Kong,Friday,5,16,0
+Hong Kong,Friday,5,17,0
+Hong Kong,Friday,5,18,0
+Hong Kong,Friday,5,19,0
+Hong Kong,Friday,5,20,0
+Hong Kong,Friday,5,21,0
+Hong Kong,Friday,5,22,0
+Hong Kong,Friday,5,23,0
+Hong Kong,Saturday,6,0,0
+Hong Kong,Saturday,6,1,0
+Hong Kong,Saturday,6,2,0
+Hong Kong,Saturday,6,3,0
+Hong Kong,Saturday,6,4,0
+Hong Kong,Saturday,6,5,0
+Hong Kong,Saturday,6,6,0
+Hong Kong,Saturday,6,7,0
+Hong Kong,Saturday,6,8,0
+Hong Kong,Saturday,6,9,0
+Hong Kong,Saturday,6,10,0
+Hong Kong,Saturday,6,11,0
+Hong Kong,Saturday,6,12,0
+Hong Kong,Saturday,6,13,0
+Hong Kong,Saturday,6,14,0
+Hong Kong,Saturday,6,15,0
+Hong Kong,Saturday,6,16,0
+Hong Kong,Saturday,6,17,0
+Hong Kong,Saturday,6,18,0
+Hong Kong,Saturday,6,19,0
+Hong Kong,Saturday,6,20,0
+Hong Kong,Saturday,6,21,0
+Hong Kong,Saturday,6,22,0
+Hong Kong,Saturday,6,23,0
+Hong Kong,Sunday,7,0,0
+Hong Kong,Sunday,7,1,0
+Hong Kong,Sunday,7,2,0
+Hong Kong,Sunday,7,3,0
+Hong Kong,Sunday,7,4,0
+Hong Kong,Sunday,7,5,0
+Hong Kong,Sunday,7,6,0
+Hong Kong,Sunday,7,7,0
+Hong Kong,Sunday,7,8,0
+Hong Kong,Sunday,7,9,0
+Hong Kong,Sunday,7,10,0
+Hong Kong,Sunday,7,11,0
+Hong Kong,Sunday,7,12,0
+Hong Kong,Sunday,7,13,0
+Hong Kong,Sunday,7,14,0
+Hong Kong,Sunday,7,15,0
+Hong Kong,Sunday,7,16,0
+Hong Kong,Sunday,7,17,0
+Hong Kong,Sunday,7,18,0
+Hong Kong,Sunday,7,19,0
+Hong Kong,Sunday,7,20,0
+Hong Kong,Sunday,7,21,0
+Hong Kong,Sunday,7,22,0
+Hong Kong,Sunday,7,23,0
+Iceland,Monday,1,0,0
+Iceland,Monday,1,1,0
+Iceland,Monday,1,2,0
+Iceland,Monday,1,3,0
+Iceland,Monday,1,4,0
+Iceland,Monday,1,5,0
+Iceland,Monday,1,6,0
+Iceland,Monday,1,7,0
+Iceland,Monday,1,8,0
+Iceland,Monday,1,9,0
+Iceland,Monday,1,10,0
+Iceland,Monday,1,11,0
+Iceland,Monday,1,12,47
+Iceland,Monday,1,13,0
+Iceland,Monday,1,14,0
+Iceland,Monday,1,15,0
+Iceland,Monday,1,16,0
+Iceland,Monday,1,17,0
+Iceland,Monday,1,18,0
+Iceland,Monday,1,19,0
+Iceland,Monday,1,20,0
+Iceland,Monday,1,21,0
+Iceland,Monday,1,22,0
+Iceland,Monday,1,23,0
+Iceland,Tuesday,2,0,0
+Iceland,Tuesday,2,1,0
+Iceland,Tuesday,2,2,0
+Iceland,Tuesday,2,3,0
+Iceland,Tuesday,2,4,0
+Iceland,Tuesday,2,5,0
+Iceland,Tuesday,2,6,0
+Iceland,Tuesday,2,7,0
+Iceland,Tuesday,2,8,22
+Iceland,Tuesday,2,9,0
+Iceland,Tuesday,2,10,0
+Iceland,Tuesday,2,11,0
+Iceland,Tuesday,2,12,0
+Iceland,Tuesday,2,13,0
+Iceland,Tuesday,2,14,31
+Iceland,Tuesday,2,15,0
+Iceland,Tuesday,2,16,0
+Iceland,Tuesday,2,17,0
+Iceland,Tuesday,2,18,0
+Iceland,Tuesday,2,19,0
+Iceland,Tuesday,2,20,0
+Iceland,Tuesday,2,21,0
+Iceland,Tuesday,2,22,0
+Iceland,Tuesday,2,23,0
+Iceland,Wednesday,3,0,0
+Iceland,Wednesday,3,1,0
+Iceland,Wednesday,3,2,0
+Iceland,Wednesday,3,3,0
+Iceland,Wednesday,3,4,0
+Iceland,Wednesday,3,5,0
+Iceland,Wednesday,3,6,0
+Iceland,Wednesday,3,7,0
+Iceland,Wednesday,3,8,0
+Iceland,Wednesday,3,9,0
+Iceland,Wednesday,3,10,0
+Iceland,Wednesday,3,11,0
+Iceland,Wednesday,3,12,0
+Iceland,Wednesday,3,13,0
+Iceland,Wednesday,3,14,29
+Iceland,Wednesday,3,15,11
+Iceland,Wednesday,3,16,0
+Iceland,Wednesday,3,17,0
+Iceland,Wednesday,3,18,0
+Iceland,Wednesday,3,19,0
+Iceland,Wednesday,3,20,0
+Iceland,Wednesday,3,21,0
+Iceland,Wednesday,3,22,0
+Iceland,Wednesday,3,23,0
+Iceland,Thursday,4,0,0
+Iceland,Thursday,4,1,0
+Iceland,Thursday,4,2,0
+Iceland,Thursday,4,3,0
+Iceland,Thursday,4,4,0
+Iceland,Thursday,4,5,0
+Iceland,Thursday,4,6,0
+Iceland,Thursday,4,7,0
+Iceland,Thursday,4,8,0
+Iceland,Thursday,4,9,0
+Iceland,Thursday,4,10,24
+Iceland,Thursday,4,11,0
+Iceland,Thursday,4,12,0
+Iceland,Thursday,4,13,18
+Iceland,Thursday,4,14,0
+Iceland,Thursday,4,15,0
+Iceland,Thursday,4,16,0
+Iceland,Thursday,4,17,0
+Iceland,Thursday,4,18,0
+Iceland,Thursday,4,19,0
+Iceland,Thursday,4,20,0
+Iceland,Thursday,4,21,0
+Iceland,Thursday,4,22,0
+Iceland,Thursday,4,23,0
+Iceland,Friday,5,0,0
+Iceland,Friday,5,1,0
+Iceland,Friday,5,2,0
+Iceland,Friday,5,3,0
+Iceland,Friday,5,4,0
+Iceland,Friday,5,5,0
+Iceland,Friday,5,6,0
+Iceland,Friday,5,7,0
+Iceland,Friday,5,8,0
+Iceland,Friday,5,9,0
+Iceland,Friday,5,10,0
+Iceland,Friday,5,11,0
+Iceland,Friday,5,12,0
+Iceland,Friday,5,13,0
+Iceland,Friday,5,14,0
+Iceland,Friday,5,15,0
+Iceland,Friday,5,16,0
+Iceland,Friday,5,17,0
+Iceland,Friday,5,18,0
+Iceland,Friday,5,19,0
+Iceland,Friday,5,20,0
+Iceland,Friday,5,21,0
+Iceland,Friday,5,22,0
+Iceland,Friday,5,23,0
+Iceland,Saturday,6,0,0
+Iceland,Saturday,6,1,0
+Iceland,Saturday,6,2,0
+Iceland,Saturday,6,3,0
+Iceland,Saturday,6,4,0
+Iceland,Saturday,6,5,0
+Iceland,Saturday,6,6,0
+Iceland,Saturday,6,7,0
+Iceland,Saturday,6,8,0
+Iceland,Saturday,6,9,0
+Iceland,Saturday,6,10,0
+Iceland,Saturday,6,11,0
+Iceland,Saturday,6,12,0
+Iceland,Saturday,6,13,0
+Iceland,Saturday,6,14,0
+Iceland,Saturday,6,15,0
+Iceland,Saturday,6,16,0
+Iceland,Saturday,6,17,0
+Iceland,Saturday,6,18,0
+Iceland,Saturday,6,19,0
+Iceland,Saturday,6,20,0
+Iceland,Saturday,6,21,0
+Iceland,Saturday,6,22,0
+Iceland,Saturday,6,23,0
+Iceland,Sunday,7,0,0
+Iceland,Sunday,7,1,0
+Iceland,Sunday,7,2,0
+Iceland,Sunday,7,3,0
+Iceland,Sunday,7,4,0
+Iceland,Sunday,7,5,0
+Iceland,Sunday,7,6,0
+Iceland,Sunday,7,7,0
+Iceland,Sunday,7,8,0
+Iceland,Sunday,7,9,0
+Iceland,Sunday,7,10,0
+Iceland,Sunday,7,11,0
+Iceland,Sunday,7,12,0
+Iceland,Sunday,7,13,0
+Iceland,Sunday,7,14,0
+Iceland,Sunday,7,15,0
+Iceland,Sunday,7,16,0
+Iceland,Sunday,7,17,0
+Iceland,Sunday,7,18,0
+Iceland,Sunday,7,19,0
+Iceland,Sunday,7,20,0
+Iceland,Sunday,7,21,0
+Iceland,Sunday,7,22,0
+Iceland,Sunday,7,23,0
+Israel,Monday,1,0,0
+Israel,Monday,1,1,0
+Israel,Monday,1,2,0
+Israel,Monday,1,3,0
+Israel,Monday,1,4,0
+Israel,Monday,1,5,0
+Israel,Monday,1,6,0
+Israel,Monday,1,7,0
+Israel,Monday,1,8,0
+Israel,Monday,1,9,14
+Israel,Monday,1,10,0
+Israel,Monday,1,11,0
+Israel,Monday,1,12,0
+Israel,Monday,1,13,0
+Israel,Monday,1,14,0
+Israel,Monday,1,15,0
+Israel,Monday,1,16,0
+Israel,Monday,1,17,0
+Israel,Monday,1,18,0
+Israel,Monday,1,19,0
+Israel,Monday,1,20,0
+Israel,Monday,1,21,0
+Israel,Monday,1,22,0
+Israel,Monday,1,23,0
+Israel,Tuesday,2,0,0
+Israel,Tuesday,2,1,0
+Israel,Tuesday,2,2,0
+Israel,Tuesday,2,3,0
+Israel,Tuesday,2,4,0
+Israel,Tuesday,2,5,0
+Israel,Tuesday,2,6,0
+Israel,Tuesday,2,7,0
+Israel,Tuesday,2,8,0
+Israel,Tuesday,2,9,0
+Israel,Tuesday,2,10,0
+Israel,Tuesday,2,11,0
+Israel,Tuesday,2,12,0
+Israel,Tuesday,2,13,0
+Israel,Tuesday,2,14,34
+Israel,Tuesday,2,15,0
+Israel,Tuesday,2,16,0
+Israel,Tuesday,2,17,0
+Israel,Tuesday,2,18,0
+Israel,Tuesday,2,19,0
+Israel,Tuesday,2,20,0
+Israel,Tuesday,2,21,0
+Israel,Tuesday,2,22,0
+Israel,Tuesday,2,23,0
+Israel,Wednesday,3,0,0
+Israel,Wednesday,3,1,0
+Israel,Wednesday,3,2,0
+Israel,Wednesday,3,3,0
+Israel,Wednesday,3,4,0
+Israel,Wednesday,3,5,0
+Israel,Wednesday,3,6,0
+Israel,Wednesday,3,7,0
+Israel,Wednesday,3,8,0
+Israel,Wednesday,3,9,0
+Israel,Wednesday,3,10,16
+Israel,Wednesday,3,11,0
+Israel,Wednesday,3,12,0
+Israel,Wednesday,3,13,0
+Israel,Wednesday,3,14,2
+Israel,Wednesday,3,15,0
+Israel,Wednesday,3,16,0
+Israel,Wednesday,3,17,0
+Israel,Wednesday,3,18,0
+Israel,Wednesday,3,19,0
+Israel,Wednesday,3,20,0
+Israel,Wednesday,3,21,0
+Israel,Wednesday,3,22,0
+Israel,Wednesday,3,23,0
+Israel,Thursday,4,0,0
+Israel,Thursday,4,1,0
+Israel,Thursday,4,2,0
+Israel,Thursday,4,3,0
+Israel,Thursday,4,4,0
+Israel,Thursday,4,5,0
+Israel,Thursday,4,6,0
+Israel,Thursday,4,7,0
+Israel,Thursday,4,8,171
+Israel,Thursday,4,9,0
+Israel,Thursday,4,10,27
+Israel,Thursday,4,11,0
+Israel,Thursday,4,12,0
+Israel,Thursday,4,13,0
+Israel,Thursday,4,14,0
+Israel,Thursday,4,15,0
+Israel,Thursday,4,16,0
+Israel,Thursday,4,17,0
+Israel,Thursday,4,18,0
+Israel,Thursday,4,19,0
+Israel,Thursday,4,20,0
+Israel,Thursday,4,21,0
+Israel,Thursday,4,22,0
+Israel,Thursday,4,23,0
+Israel,Friday,5,0,0
+Israel,Friday,5,1,0
+Israel,Friday,5,2,0
+Israel,Friday,5,3,0
+Israel,Friday,5,4,0
+Israel,Friday,5,5,0
+Israel,Friday,5,6,0
+Israel,Friday,5,7,0
+Israel,Friday,5,8,0
+Israel,Friday,5,9,0
+Israel,Friday,5,10,6
+Israel,Friday,5,11,0
+Israel,Friday,5,12,27
+Israel,Friday,5,13,0
+Israel,Friday,5,14,0
+Israel,Friday,5,15,0
+Israel,Friday,5,16,0
+Israel,Friday,5,17,0
+Israel,Friday,5,18,0
+Israel,Friday,5,19,0
+Israel,Friday,5,20,0
+Israel,Friday,5,21,0
+Israel,Friday,5,22,0
+Israel,Friday,5,23,0
+Israel,Saturday,6,0,0
+Israel,Saturday,6,1,0
+Israel,Saturday,6,2,0
+Israel,Saturday,6,3,0
+Israel,Saturday,6,4,0
+Israel,Saturday,6,5,0
+Israel,Saturday,6,6,0
+Israel,Saturday,6,7,0
+Israel,Saturday,6,8,0
+Israel,Saturday,6,9,0
+Israel,Saturday,6,10,0
+Israel,Saturday,6,11,0
+Israel,Saturday,6,12,0
+Israel,Saturday,6,13,0
+Israel,Saturday,6,14,0
+Israel,Saturday,6,15,0
+Israel,Saturday,6,16,0
+Israel,Saturday,6,17,0
+Israel,Saturday,6,18,0
+Israel,Saturday,6,19,0
+Israel,Saturday,6,20,0
+Israel,Saturday,6,21,0
+Israel,Saturday,6,22,0
+Israel,Saturday,6,23,0
+Israel,Sunday,7,0,0
+Israel,Sunday,7,1,0
+Israel,Sunday,7,2,0
+Israel,Sunday,7,3,0
+Israel,Sunday,7,4,0
+Israel,Sunday,7,5,0
+Israel,Sunday,7,6,0
+Israel,Sunday,7,7,0
+Israel,Sunday,7,8,0
+Israel,Sunday,7,9,0
+Israel,Sunday,7,10,0
+Israel,Sunday,7,11,0
+Israel,Sunday,7,12,0
+Israel,Sunday,7,13,0
+Israel,Sunday,7,14,0
+Israel,Sunday,7,15,0
+Israel,Sunday,7,16,0
+Israel,Sunday,7,17,0
+Israel,Sunday,7,18,0
+Israel,Sunday,7,19,0
+Israel,Sunday,7,20,0
+Israel,Sunday,7,21,0
+Israel,Sunday,7,22,0
+Israel,Sunday,7,23,0
+Italy,Monday,1,0,0
+Italy,Monday,1,1,0
+Italy,Monday,1,2,0
+Italy,Monday,1,3,0
+Italy,Monday,1,4,0
+Italy,Monday,1,5,0
+Italy,Monday,1,6,0
+Italy,Monday,1,7,0
+Italy,Monday,1,8,0
+Italy,Monday,1,9,74
+Italy,Monday,1,10,0
+Italy,Monday,1,11,1
+Italy,Monday,1,12,65
+Italy,Monday,1,13,0
+Italy,Monday,1,14,2
+Italy,Monday,1,15,0
+Italy,Monday,1,16,0
+Italy,Monday,1,17,0
+Italy,Monday,1,18,0
+Italy,Monday,1,19,0
+Italy,Monday,1,20,0
+Italy,Monday,1,21,0
+Italy,Monday,1,22,0
+Italy,Monday,1,23,0
+Italy,Tuesday,2,0,0
+Italy,Tuesday,2,1,0
+Italy,Tuesday,2,2,0
+Italy,Tuesday,2,3,0
+Italy,Tuesday,2,4,0
+Italy,Tuesday,2,5,0
+Italy,Tuesday,2,6,0
+Italy,Tuesday,2,7,0
+Italy,Tuesday,2,8,13
+Italy,Tuesday,2,9,8
+Italy,Tuesday,2,10,1
+Italy,Tuesday,2,11,0
+Italy,Tuesday,2,12,14
+Italy,Tuesday,2,13,89
+Italy,Tuesday,2,14,47
+Italy,Tuesday,2,15,16
+Italy,Tuesday,2,16,11
+Italy,Tuesday,2,17,0
+Italy,Tuesday,2,18,0
+Italy,Tuesday,2,19,0
+Italy,Tuesday,2,20,0
+Italy,Tuesday,2,21,0
+Italy,Tuesday,2,22,0
+Italy,Tuesday,2,23,0
+Italy,Wednesday,3,0,0
+Italy,Wednesday,3,1,0
+Italy,Wednesday,3,2,0
+Italy,Wednesday,3,3,0
+Italy,Wednesday,3,4,0
+Italy,Wednesday,3,5,0
+Italy,Wednesday,3,6,0
+Italy,Wednesday,3,7,0
+Italy,Wednesday,3,8,0
+Italy,Wednesday,3,9,17
+Italy,Wednesday,3,10,1
+Italy,Wednesday,3,11,0
+Italy,Wednesday,3,12,5
+Italy,Wednesday,3,13,0
+Italy,Wednesday,3,14,48
+Italy,Wednesday,3,15,5
+Italy,Wednesday,3,16,1
+Italy,Wednesday,3,17,0
+Italy,Wednesday,3,18,0
+Italy,Wednesday,3,19,0
+Italy,Wednesday,3,20,0
+Italy,Wednesday,3,21,0
+Italy,Wednesday,3,22,0
+Italy,Wednesday,3,23,0
+Italy,Thursday,4,0,0
+Italy,Thursday,4,1,0
+Italy,Thursday,4,2,0
+Italy,Thursday,4,3,0
+Italy,Thursday,4,4,0
+Italy,Thursday,4,5,0
+Italy,Thursday,4,6,0
+Italy,Thursday,4,7,0
+Italy,Thursday,4,8,0
+Italy,Thursday,4,9,9
+Italy,Thursday,4,10,23
+Italy,Thursday,4,11,14
+Italy,Thursday,4,12,18
+Italy,Thursday,4,13,0
+Italy,Thursday,4,14,0
+Italy,Thursday,4,15,70
+Italy,Thursday,4,16,51
+Italy,Thursday,4,17,5
+Italy,Thursday,4,18,6
+Italy,Thursday,4,19,0
+Italy,Thursday,4,20,0
+Italy,Thursday,4,21,0
+Italy,Thursday,4,22,0
+Italy,Thursday,4,23,0
+Italy,Friday,5,0,0
+Italy,Friday,5,1,0
+Italy,Friday,5,2,0
+Italy,Friday,5,3,0
+Italy,Friday,5,4,0
+Italy,Friday,5,5,0
+Italy,Friday,5,6,0
+Italy,Friday,5,7,0
+Italy,Friday,5,8,0
+Italy,Friday,5,9,12
+Italy,Friday,5,10,0
+Italy,Friday,5,11,11
+Italy,Friday,5,12,13
+Italy,Friday,5,13,99
+Italy,Friday,5,14,0
+Italy,Friday,5,15,42
+Italy,Friday,5,16,0
+Italy,Friday,5,17,0
+Italy,Friday,5,18,0
+Italy,Friday,5,19,0
+Italy,Friday,5,20,0
+Italy,Friday,5,21,0
+Italy,Friday,5,22,0
+Italy,Friday,5,23,0
+Italy,Saturday,6,0,0
+Italy,Saturday,6,1,0
+Italy,Saturday,6,2,0
+Italy,Saturday,6,3,0
+Italy,Saturday,6,4,0
+Italy,Saturday,6,5,0
+Italy,Saturday,6,6,0
+Italy,Saturday,6,7,0
+Italy,Saturday,6,8,0
+Italy,Saturday,6,9,0
+Italy,Saturday,6,10,0
+Italy,Saturday,6,11,0
+Italy,Saturday,6,12,0
+Italy,Saturday,6,13,0
+Italy,Saturday,6,14,0
+Italy,Saturday,6,15,0
+Italy,Saturday,6,16,0
+Italy,Saturday,6,17,0
+Italy,Saturday,6,18,0
+Italy,Saturday,6,19,0
+Italy,Saturday,6,20,0
+Italy,Saturday,6,21,0
+Italy,Saturday,6,22,0
+Italy,Saturday,6,23,0
+Italy,Sunday,7,0,0
+Italy,Sunday,7,1,0
+Italy,Sunday,7,2,0
+Italy,Sunday,7,3,0
+Italy,Sunday,7,4,0
+Italy,Sunday,7,5,0
+Italy,Sunday,7,6,0
+Italy,Sunday,7,7,0
+Italy,Sunday,7,8,0
+Italy,Sunday,7,9,0
+Italy,Sunday,7,10,0
+Italy,Sunday,7,11,0
+Italy,Sunday,7,12,0
+Italy,Sunday,7,13,12
+Italy,Sunday,7,14,0
+Italy,Sunday,7,15,0
+Italy,Sunday,7,16,0
+Italy,Sunday,7,17,0
+Italy,Sunday,7,18,0
+Italy,Sunday,7,19,0
+Italy,Sunday,7,20,0
+Italy,Sunday,7,21,0
+Italy,Sunday,7,22,0
+Italy,Sunday,7,23,0
+Japan,Monday,1,0,0
+Japan,Monday,1,1,0
+Japan,Monday,1,2,0
+Japan,Monday,1,3,0
+Japan,Monday,1,4,0
+Japan,Monday,1,5,0
+Japan,Monday,1,6,0
+Japan,Monday,1,7,0
+Japan,Monday,1,8,0
+Japan,Monday,1,9,14
+Japan,Monday,1,10,1
+Japan,Monday,1,11,1
+Japan,Monday,1,12,0
+Japan,Monday,1,13,12
+Japan,Monday,1,14,0
+Japan,Monday,1,15,0
+Japan,Monday,1,16,2
+Japan,Monday,1,17,0
+Japan,Monday,1,18,0
+Japan,Monday,1,19,0
+Japan,Monday,1,20,0
+Japan,Monday,1,21,0
+Japan,Monday,1,22,0
+Japan,Monday,1,23,0
+Japan,Tuesday,2,0,0
+Japan,Tuesday,2,1,0
+Japan,Tuesday,2,2,0
+Japan,Tuesday,2,3,0
+Japan,Tuesday,2,4,0
+Japan,Tuesday,2,5,0
+Japan,Tuesday,2,6,0
+Japan,Tuesday,2,7,0
+Japan,Tuesday,2,8,0
+Japan,Tuesday,2,9,0
+Japan,Tuesday,2,10,0
+Japan,Tuesday,2,11,24
+Japan,Tuesday,2,12,0
+Japan,Tuesday,2,13,32
+Japan,Tuesday,2,14,0
+Japan,Tuesday,2,15,1
+Japan,Tuesday,2,16,0
+Japan,Tuesday,2,17,0
+Japan,Tuesday,2,18,0
+Japan,Tuesday,2,19,0
+Japan,Tuesday,2,20,0
+Japan,Tuesday,2,21,0
+Japan,Tuesday,2,22,0
+Japan,Tuesday,2,23,0
+Japan,Wednesday,3,0,0
+Japan,Wednesday,3,1,0
+Japan,Wednesday,3,2,0
+Japan,Wednesday,3,3,0
+Japan,Wednesday,3,4,0
+Japan,Wednesday,3,5,0
+Japan,Wednesday,3,6,0
+Japan,Wednesday,3,7,0
+Japan,Wednesday,3,8,0
+Japan,Wednesday,3,9,56
+Japan,Wednesday,3,10,6
+Japan,Wednesday,3,11,48
+Japan,Wednesday,3,12,0
+Japan,Wednesday,3,13,1
+Japan,Wednesday,3,14,0
+Japan,Wednesday,3,15,0
+Japan,Wednesday,3,16,6
+Japan,Wednesday,3,17,0
+Japan,Wednesday,3,18,0
+Japan,Wednesday,3,19,0
+Japan,Wednesday,3,20,0
+Japan,Wednesday,3,21,0
+Japan,Wednesday,3,22,0
+Japan,Wednesday,3,23,0
+Japan,Thursday,4,0,0
+Japan,Thursday,4,1,0
+Japan,Thursday,4,2,0
+Japan,Thursday,4,3,0
+Japan,Thursday,4,4,0
+Japan,Thursday,4,5,0
+Japan,Thursday,4,6,0
+Japan,Thursday,4,7,0
+Japan,Thursday,4,8,0
+Japan,Thursday,4,9,0
+Japan,Thursday,4,10,32
+Japan,Thursday,4,11,0
+Japan,Thursday,4,12,0
+Japan,Thursday,4,13,0
+Japan,Thursday,4,14,0
+Japan,Thursday,4,15,0
+Japan,Thursday,4,16,0
+Japan,Thursday,4,17,0
+Japan,Thursday,4,18,4
+Japan,Thursday,4,19,0
+Japan,Thursday,4,20,0
+Japan,Thursday,4,21,0
+Japan,Thursday,4,22,0
+Japan,Thursday,4,23,0
+Japan,Friday,5,0,0
+Japan,Friday,5,1,0
+Japan,Friday,5,2,0
+Japan,Friday,5,3,0
+Japan,Friday,5,4,0
+Japan,Friday,5,5,0
+Japan,Friday,5,6,0
+Japan,Friday,5,7,0
+Japan,Friday,5,8,0
+Japan,Friday,5,9,12
+Japan,Friday,5,10,37
+Japan,Friday,5,11,0
+Japan,Friday,5,12,3
+Japan,Friday,5,13,0
+Japan,Friday,5,14,0
+Japan,Friday,5,15,0
+Japan,Friday,5,16,0
+Japan,Friday,5,17,0
+Japan,Friday,5,18,0
+Japan,Friday,5,19,0
+Japan,Friday,5,20,0
+Japan,Friday,5,21,0
+Japan,Friday,5,22,0
+Japan,Friday,5,23,0
+Japan,Saturday,6,0,0
+Japan,Saturday,6,1,0
+Japan,Saturday,6,2,0
+Japan,Saturday,6,3,0
+Japan,Saturday,6,4,0
+Japan,Saturday,6,5,0
+Japan,Saturday,6,6,0
+Japan,Saturday,6,7,0
+Japan,Saturday,6,8,0
+Japan,Saturday,6,9,0
+Japan,Saturday,6,10,0
+Japan,Saturday,6,11,0
+Japan,Saturday,6,12,0
+Japan,Saturday,6,13,0
+Japan,Saturday,6,14,0
+Japan,Saturday,6,15,0
+Japan,Saturday,6,16,0
+Japan,Saturday,6,17,0
+Japan,Saturday,6,18,0
+Japan,Saturday,6,19,0
+Japan,Saturday,6,20,0
+Japan,Saturday,6,21,0
+Japan,Saturday,6,22,0
+Japan,Saturday,6,23,0
+Japan,Sunday,7,0,0
+Japan,Sunday,7,1,0
+Japan,Sunday,7,2,0
+Japan,Sunday,7,3,0
+Japan,Sunday,7,4,0
+Japan,Sunday,7,5,0
+Japan,Sunday,7,6,0
+Japan,Sunday,7,7,0
+Japan,Sunday,7,8,0
+Japan,Sunday,7,9,0
+Japan,Sunday,7,10,0
+Japan,Sunday,7,11,48
+Japan,Sunday,7,12,0
+Japan,Sunday,7,13,0
+Japan,Sunday,7,14,2
+Japan,Sunday,7,15,16
+Japan,Sunday,7,16,0
+Japan,Sunday,7,17,0
+Japan,Sunday,7,18,0
+Japan,Sunday,7,19,0
+Japan,Sunday,7,20,0
+Japan,Sunday,7,21,0
+Japan,Sunday,7,22,0
+Japan,Sunday,7,23,0
+Lebanon,Monday,1,0,0
+Lebanon,Monday,1,1,0
+Lebanon,Monday,1,2,0
+Lebanon,Monday,1,3,0
+Lebanon,Monday,1,4,0
+Lebanon,Monday,1,5,0
+Lebanon,Monday,1,6,0
+Lebanon,Monday,1,7,0
+Lebanon,Monday,1,8,0
+Lebanon,Monday,1,9,0
+Lebanon,Monday,1,10,0
+Lebanon,Monday,1,11,0
+Lebanon,Monday,1,12,0
+Lebanon,Monday,1,13,0
+Lebanon,Monday,1,14,0
+Lebanon,Monday,1,15,0
+Lebanon,Monday,1,16,0
+Lebanon,Monday,1,17,0
+Lebanon,Monday,1,18,0
+Lebanon,Monday,1,19,0
+Lebanon,Monday,1,20,0
+Lebanon,Monday,1,21,0
+Lebanon,Monday,1,22,0
+Lebanon,Monday,1,23,0
+Lebanon,Tuesday,2,0,0
+Lebanon,Tuesday,2,1,0
+Lebanon,Tuesday,2,2,0
+Lebanon,Tuesday,2,3,0
+Lebanon,Tuesday,2,4,0
+Lebanon,Tuesday,2,5,0
+Lebanon,Tuesday,2,6,0
+Lebanon,Tuesday,2,7,0
+Lebanon,Tuesday,2,8,0
+Lebanon,Tuesday,2,9,0
+Lebanon,Tuesday,2,10,0
+Lebanon,Tuesday,2,11,0
+Lebanon,Tuesday,2,12,0
+Lebanon,Tuesday,2,13,0
+Lebanon,Tuesday,2,14,0
+Lebanon,Tuesday,2,15,0
+Lebanon,Tuesday,2,16,0
+Lebanon,Tuesday,2,17,0
+Lebanon,Tuesday,2,18,0
+Lebanon,Tuesday,2,19,0
+Lebanon,Tuesday,2,20,0
+Lebanon,Tuesday,2,21,0
+Lebanon,Tuesday,2,22,0
+Lebanon,Tuesday,2,23,0
+Lebanon,Wednesday,3,0,0
+Lebanon,Wednesday,3,1,0
+Lebanon,Wednesday,3,2,0
+Lebanon,Wednesday,3,3,0
+Lebanon,Wednesday,3,4,0
+Lebanon,Wednesday,3,5,0
+Lebanon,Wednesday,3,6,0
+Lebanon,Wednesday,3,7,0
+Lebanon,Wednesday,3,8,0
+Lebanon,Wednesday,3,9,0
+Lebanon,Wednesday,3,10,0
+Lebanon,Wednesday,3,11,0
+Lebanon,Wednesday,3,12,0
+Lebanon,Wednesday,3,13,0
+Lebanon,Wednesday,3,14,0
+Lebanon,Wednesday,3,15,0
+Lebanon,Wednesday,3,16,0
+Lebanon,Wednesday,3,17,0
+Lebanon,Wednesday,3,18,0
+Lebanon,Wednesday,3,19,0
+Lebanon,Wednesday,3,20,0
+Lebanon,Wednesday,3,21,0
+Lebanon,Wednesday,3,22,0
+Lebanon,Wednesday,3,23,0
+Lebanon,Thursday,4,0,0
+Lebanon,Thursday,4,1,0
+Lebanon,Thursday,4,2,0
+Lebanon,Thursday,4,3,0
+Lebanon,Thursday,4,4,0
+Lebanon,Thursday,4,5,0
+Lebanon,Thursday,4,6,0
+Lebanon,Thursday,4,7,0
+Lebanon,Thursday,4,8,0
+Lebanon,Thursday,4,9,0
+Lebanon,Thursday,4,10,45
+Lebanon,Thursday,4,11,0
+Lebanon,Thursday,4,12,0
+Lebanon,Thursday,4,13,0
+Lebanon,Thursday,4,14,0
+Lebanon,Thursday,4,15,0
+Lebanon,Thursday,4,16,0
+Lebanon,Thursday,4,17,0
+Lebanon,Thursday,4,18,0
+Lebanon,Thursday,4,19,0
+Lebanon,Thursday,4,20,0
+Lebanon,Thursday,4,21,0
+Lebanon,Thursday,4,22,0
+Lebanon,Thursday,4,23,0
+Lebanon,Friday,5,0,0
+Lebanon,Friday,5,1,0
+Lebanon,Friday,5,2,0
+Lebanon,Friday,5,3,0
+Lebanon,Friday,5,4,0
+Lebanon,Friday,5,5,0
+Lebanon,Friday,5,6,0
+Lebanon,Friday,5,7,0
+Lebanon,Friday,5,8,0
+Lebanon,Friday,5,9,0
+Lebanon,Friday,5,10,0
+Lebanon,Friday,5,11,0
+Lebanon,Friday,5,12,0
+Lebanon,Friday,5,13,0
+Lebanon,Friday,5,14,0
+Lebanon,Friday,5,15,0
+Lebanon,Friday,5,16,0
+Lebanon,Friday,5,17,0
+Lebanon,Friday,5,18,0
+Lebanon,Friday,5,19,0
+Lebanon,Friday,5,20,0
+Lebanon,Friday,5,21,0
+Lebanon,Friday,5,22,0
+Lebanon,Friday,5,23,0
+Lebanon,Saturday,6,0,0
+Lebanon,Saturday,6,1,0
+Lebanon,Saturday,6,2,0
+Lebanon,Saturday,6,3,0
+Lebanon,Saturday,6,4,0
+Lebanon,Saturday,6,5,0
+Lebanon,Saturday,6,6,0
+Lebanon,Saturday,6,7,0
+Lebanon,Saturday,6,8,0
+Lebanon,Saturday,6,9,0
+Lebanon,Saturday,6,10,0
+Lebanon,Saturday,6,11,0
+Lebanon,Saturday,6,12,0
+Lebanon,Saturday,6,13,0
+Lebanon,Saturday,6,14,0
+Lebanon,Saturday,6,15,0
+Lebanon,Saturday,6,16,0
+Lebanon,Saturday,6,17,0
+Lebanon,Saturday,6,18,0
+Lebanon,Saturday,6,19,0
+Lebanon,Saturday,6,20,0
+Lebanon,Saturday,6,21,0
+Lebanon,Saturday,6,22,0
+Lebanon,Saturday,6,23,0
+Lebanon,Sunday,7,0,0
+Lebanon,Sunday,7,1,0
+Lebanon,Sunday,7,2,0
+Lebanon,Sunday,7,3,0
+Lebanon,Sunday,7,4,0
+Lebanon,Sunday,7,5,0
+Lebanon,Sunday,7,6,0
+Lebanon,Sunday,7,7,0
+Lebanon,Sunday,7,8,0
+Lebanon,Sunday,7,9,0
+Lebanon,Sunday,7,10,0
+Lebanon,Sunday,7,11,0
+Lebanon,Sunday,7,12,0
+Lebanon,Sunday,7,13,0
+Lebanon,Sunday,7,14,0
+Lebanon,Sunday,7,15,0
+Lebanon,Sunday,7,16,0
+Lebanon,Sunday,7,17,0
+Lebanon,Sunday,7,18,0
+Lebanon,Sunday,7,19,0
+Lebanon,Sunday,7,20,0
+Lebanon,Sunday,7,21,0
+Lebanon,Sunday,7,22,0
+Lebanon,Sunday,7,23,0
+Lithuania,Monday,1,0,0
+Lithuania,Monday,1,1,0
+Lithuania,Monday,1,2,0
+Lithuania,Monday,1,3,0
+Lithuania,Monday,1,4,0
+Lithuania,Monday,1,5,0
+Lithuania,Monday,1,6,0
+Lithuania,Monday,1,7,0
+Lithuania,Monday,1,8,0
+Lithuania,Monday,1,9,0
+Lithuania,Monday,1,10,0
+Lithuania,Monday,1,11,0
+Lithuania,Monday,1,12,0
+Lithuania,Monday,1,13,0
+Lithuania,Monday,1,14,0
+Lithuania,Monday,1,15,0
+Lithuania,Monday,1,16,0
+Lithuania,Monday,1,17,0
+Lithuania,Monday,1,18,0
+Lithuania,Monday,1,19,0
+Lithuania,Monday,1,20,0
+Lithuania,Monday,1,21,0
+Lithuania,Monday,1,22,0
+Lithuania,Monday,1,23,0
+Lithuania,Tuesday,2,0,0
+Lithuania,Tuesday,2,1,0
+Lithuania,Tuesday,2,2,0
+Lithuania,Tuesday,2,3,0
+Lithuania,Tuesday,2,4,0
+Lithuania,Tuesday,2,5,0
+Lithuania,Tuesday,2,6,0
+Lithuania,Tuesday,2,7,0
+Lithuania,Tuesday,2,8,0
+Lithuania,Tuesday,2,9,0
+Lithuania,Tuesday,2,10,0
+Lithuania,Tuesday,2,11,0
+Lithuania,Tuesday,2,12,0
+Lithuania,Tuesday,2,13,0
+Lithuania,Tuesday,2,14,0
+Lithuania,Tuesday,2,15,0
+Lithuania,Tuesday,2,16,0
+Lithuania,Tuesday,2,17,0
+Lithuania,Tuesday,2,18,0
+Lithuania,Tuesday,2,19,0
+Lithuania,Tuesday,2,20,0
+Lithuania,Tuesday,2,21,0
+Lithuania,Tuesday,2,22,0
+Lithuania,Tuesday,2,23,0
+Lithuania,Wednesday,3,0,0
+Lithuania,Wednesday,3,1,0
+Lithuania,Wednesday,3,2,0
+Lithuania,Wednesday,3,3,0
+Lithuania,Wednesday,3,4,0
+Lithuania,Wednesday,3,5,0
+Lithuania,Wednesday,3,6,0
+Lithuania,Wednesday,3,7,0
+Lithuania,Wednesday,3,8,0
+Lithuania,Wednesday,3,9,0
+Lithuania,Wednesday,3,10,0
+Lithuania,Wednesday,3,11,0
+Lithuania,Wednesday,3,12,0
+Lithuania,Wednesday,3,13,0
+Lithuania,Wednesday,3,14,1
+Lithuania,Wednesday,3,15,0
+Lithuania,Wednesday,3,16,0
+Lithuania,Wednesday,3,17,0
+Lithuania,Wednesday,3,18,0
+Lithuania,Wednesday,3,19,0
+Lithuania,Wednesday,3,20,0
+Lithuania,Wednesday,3,21,0
+Lithuania,Wednesday,3,22,0
+Lithuania,Wednesday,3,23,0
+Lithuania,Thursday,4,0,0
+Lithuania,Thursday,4,1,0
+Lithuania,Thursday,4,2,0
+Lithuania,Thursday,4,3,0
+Lithuania,Thursday,4,4,0
+Lithuania,Thursday,4,5,0
+Lithuania,Thursday,4,6,0
+Lithuania,Thursday,4,7,0
+Lithuania,Thursday,4,8,0
+Lithuania,Thursday,4,9,0
+Lithuania,Thursday,4,10,0
+Lithuania,Thursday,4,11,0
+Lithuania,Thursday,4,12,0
+Lithuania,Thursday,4,13,0
+Lithuania,Thursday,4,14,0
+Lithuania,Thursday,4,15,0
+Lithuania,Thursday,4,16,0
+Lithuania,Thursday,4,17,0
+Lithuania,Thursday,4,18,0
+Lithuania,Thursday,4,19,0
+Lithuania,Thursday,4,20,0
+Lithuania,Thursday,4,21,0
+Lithuania,Thursday,4,22,0
+Lithuania,Thursday,4,23,0
+Lithuania,Friday,5,0,0
+Lithuania,Friday,5,1,0
+Lithuania,Friday,5,2,0
+Lithuania,Friday,5,3,0
+Lithuania,Friday,5,4,0
+Lithuania,Friday,5,5,0
+Lithuania,Friday,5,6,0
+Lithuania,Friday,5,7,0
+Lithuania,Friday,5,8,0
+Lithuania,Friday,5,9,0
+Lithuania,Friday,5,10,0
+Lithuania,Friday,5,11,0
+Lithuania,Friday,5,12,0
+Lithuania,Friday,5,13,0
+Lithuania,Friday,5,14,0
+Lithuania,Friday,5,15,0
+Lithuania,Friday,5,16,0
+Lithuania,Friday,5,17,0
+Lithuania,Friday,5,18,0
+Lithuania,Friday,5,19,0
+Lithuania,Friday,5,20,0
+Lithuania,Friday,5,21,0
+Lithuania,Friday,5,22,0
+Lithuania,Friday,5,23,0
+Lithuania,Saturday,6,0,0
+Lithuania,Saturday,6,1,0
+Lithuania,Saturday,6,2,0
+Lithuania,Saturday,6,3,0
+Lithuania,Saturday,6,4,0
+Lithuania,Saturday,6,5,0
+Lithuania,Saturday,6,6,0
+Lithuania,Saturday,6,7,0
+Lithuania,Saturday,6,8,0
+Lithuania,Saturday,6,9,0
+Lithuania,Saturday,6,10,0
+Lithuania,Saturday,6,11,0
+Lithuania,Saturday,6,12,0
+Lithuania,Saturday,6,13,0
+Lithuania,Saturday,6,14,0
+Lithuania,Saturday,6,15,0
+Lithuania,Saturday,6,16,0
+Lithuania,Saturday,6,17,0
+Lithuania,Saturday,6,18,0
+Lithuania,Saturday,6,19,0
+Lithuania,Saturday,6,20,0
+Lithuania,Saturday,6,21,0
+Lithuania,Saturday,6,22,0
+Lithuania,Saturday,6,23,0
+Lithuania,Sunday,7,0,0
+Lithuania,Sunday,7,1,0
+Lithuania,Sunday,7,2,0
+Lithuania,Sunday,7,3,0
+Lithuania,Sunday,7,4,0
+Lithuania,Sunday,7,5,0
+Lithuania,Sunday,7,6,0
+Lithuania,Sunday,7,7,0
+Lithuania,Sunday,7,8,0
+Lithuania,Sunday,7,9,0
+Lithuania,Sunday,7,10,0
+Lithuania,Sunday,7,11,0
+Lithuania,Sunday,7,12,34
+Lithuania,Sunday,7,13,0
+Lithuania,Sunday,7,14,0
+Lithuania,Sunday,7,15,0
+Lithuania,Sunday,7,16,0
+Lithuania,Sunday,7,17,0
+Lithuania,Sunday,7,18,0
+Lithuania,Sunday,7,19,0
+Lithuania,Sunday,7,20,0
+Lithuania,Sunday,7,21,0
+Lithuania,Sunday,7,22,0
+Lithuania,Sunday,7,23,0
+Malta,Monday,1,0,0
+Malta,Monday,1,1,0
+Malta,Monday,1,2,0
+Malta,Monday,1,3,0
+Malta,Monday,1,4,0
+Malta,Monday,1,5,0
+Malta,Monday,1,6,0
+Malta,Monday,1,7,0
+Malta,Monday,1,8,0
+Malta,Monday,1,9,10
+Malta,Monday,1,10,0
+Malta,Monday,1,11,0
+Malta,Monday,1,12,0
+Malta,Monday,1,13,0
+Malta,Monday,1,14,45
+Malta,Monday,1,15,0
+Malta,Monday,1,16,0
+Malta,Monday,1,17,0
+Malta,Monday,1,18,0
+Malta,Monday,1,19,0
+Malta,Monday,1,20,0
+Malta,Monday,1,21,0
+Malta,Monday,1,22,0
+Malta,Monday,1,23,0
+Malta,Tuesday,2,0,0
+Malta,Tuesday,2,1,0
+Malta,Tuesday,2,2,0
+Malta,Tuesday,2,3,0
+Malta,Tuesday,2,4,0
+Malta,Tuesday,2,5,0
+Malta,Tuesday,2,6,0
+Malta,Tuesday,2,7,0
+Malta,Tuesday,2,8,0
+Malta,Tuesday,2,9,0
+Malta,Tuesday,2,10,2
+Malta,Tuesday,2,11,0
+Malta,Tuesday,2,12,0
+Malta,Tuesday,2,13,0
+Malta,Tuesday,2,14,0
+Malta,Tuesday,2,15,0
+Malta,Tuesday,2,16,0
+Malta,Tuesday,2,17,0
+Malta,Tuesday,2,18,0
+Malta,Tuesday,2,19,0
+Malta,Tuesday,2,20,0
+Malta,Tuesday,2,21,0
+Malta,Tuesday,2,22,0
+Malta,Tuesday,2,23,0
+Malta,Wednesday,3,0,0
+Malta,Wednesday,3,1,0
+Malta,Wednesday,3,2,0
+Malta,Wednesday,3,3,0
+Malta,Wednesday,3,4,0
+Malta,Wednesday,3,5,0
+Malta,Wednesday,3,6,0
+Malta,Wednesday,3,7,0
+Malta,Wednesday,3,8,44
+Malta,Wednesday,3,9,1
+Malta,Wednesday,3,10,0
+Malta,Wednesday,3,11,0
+Malta,Wednesday,3,12,0
+Malta,Wednesday,3,13,5
+Malta,Wednesday,3,14,0
+Malta,Wednesday,3,15,0
+Malta,Wednesday,3,16,0
+Malta,Wednesday,3,17,0
+Malta,Wednesday,3,18,0
+Malta,Wednesday,3,19,0
+Malta,Wednesday,3,20,0
+Malta,Wednesday,3,21,0
+Malta,Wednesday,3,22,0
+Malta,Wednesday,3,23,0
+Malta,Thursday,4,0,0
+Malta,Thursday,4,1,0
+Malta,Thursday,4,2,0
+Malta,Thursday,4,3,0
+Malta,Thursday,4,4,0
+Malta,Thursday,4,5,0
+Malta,Thursday,4,6,0
+Malta,Thursday,4,7,0
+Malta,Thursday,4,8,13
+Malta,Thursday,4,9,5
+Malta,Thursday,4,10,0
+Malta,Thursday,4,11,0
+Malta,Thursday,4,12,0
+Malta,Thursday,4,13,0
+Malta,Thursday,4,14,2
+Malta,Thursday,4,15,0
+Malta,Thursday,4,16,0
+Malta,Thursday,4,17,0
+Malta,Thursday,4,18,0
+Malta,Thursday,4,19,0
+Malta,Thursday,4,20,0
+Malta,Thursday,4,21,0
+Malta,Thursday,4,22,0
+Malta,Thursday,4,23,0
+Malta,Friday,5,0,0
+Malta,Friday,5,1,0
+Malta,Friday,5,2,0
+Malta,Friday,5,3,0
+Malta,Friday,5,4,0
+Malta,Friday,5,5,0
+Malta,Friday,5,6,0
+Malta,Friday,5,7,0
+Malta,Friday,5,8,0
+Malta,Friday,5,9,0
+Malta,Friday,5,10,0
+Malta,Friday,5,11,0
+Malta,Friday,5,12,0
+Malta,Friday,5,13,0
+Malta,Friday,5,14,0
+Malta,Friday,5,15,0
+Malta,Friday,5,16,0
+Malta,Friday,5,17,0
+Malta,Friday,5,18,0
+Malta,Friday,5,19,0
+Malta,Friday,5,20,0
+Malta,Friday,5,21,0
+Malta,Friday,5,22,0
+Malta,Friday,5,23,0
+Malta,Saturday,6,0,0
+Malta,Saturday,6,1,0
+Malta,Saturday,6,2,0
+Malta,Saturday,6,3,0
+Malta,Saturday,6,4,0
+Malta,Saturday,6,5,0
+Malta,Saturday,6,6,0
+Malta,Saturday,6,7,0
+Malta,Saturday,6,8,0
+Malta,Saturday,6,9,0
+Malta,Saturday,6,10,0
+Malta,Saturday,6,11,0
+Malta,Saturday,6,12,0
+Malta,Saturday,6,13,0
+Malta,Saturday,6,14,0
+Malta,Saturday,6,15,0
+Malta,Saturday,6,16,0
+Malta,Saturday,6,17,0
+Malta,Saturday,6,18,0
+Malta,Saturday,6,19,0
+Malta,Saturday,6,20,0
+Malta,Saturday,6,21,0
+Malta,Saturday,6,22,0
+Malta,Saturday,6,23,0
+Malta,Sunday,7,0,0
+Malta,Sunday,7,1,0
+Malta,Sunday,7,2,0
+Malta,Sunday,7,3,0
+Malta,Sunday,7,4,0
+Malta,Sunday,7,5,0
+Malta,Sunday,7,6,0
+Malta,Sunday,7,7,0
+Malta,Sunday,7,8,0
+Malta,Sunday,7,9,0
+Malta,Sunday,7,10,0
+Malta,Sunday,7,11,0
+Malta,Sunday,7,12,0
+Malta,Sunday,7,13,0
+Malta,Sunday,7,14,0
+Malta,Sunday,7,15,0
+Malta,Sunday,7,16,0
+Malta,Sunday,7,17,0
+Malta,Sunday,7,18,0
+Malta,Sunday,7,19,0
+Malta,Sunday,7,20,0
+Malta,Sunday,7,21,0
+Malta,Sunday,7,22,0
+Malta,Sunday,7,23,0
+Netherlands,Monday,1,0,0
+Netherlands,Monday,1,1,0
+Netherlands,Monday,1,2,0
+Netherlands,Monday,1,3,0
+Netherlands,Monday,1,4,0
+Netherlands,Monday,1,5,0
+Netherlands,Monday,1,6,0
+Netherlands,Monday,1,7,0
+Netherlands,Monday,1,8,8
+Netherlands,Monday,1,9,84
+Netherlands,Monday,1,10,135
+Netherlands,Monday,1,11,104
+Netherlands,Monday,1,12,0
+Netherlands,Monday,1,13,0
+Netherlands,Monday,1,14,9
+Netherlands,Monday,1,15,0
+Netherlands,Monday,1,16,0
+Netherlands,Monday,1,17,0
+Netherlands,Monday,1,18,0
+Netherlands,Monday,1,19,0
+Netherlands,Monday,1,20,0
+Netherlands,Monday,1,21,0
+Netherlands,Monday,1,22,0
+Netherlands,Monday,1,23,0
+Netherlands,Tuesday,2,0,0
+Netherlands,Tuesday,2,1,0
+Netherlands,Tuesday,2,2,0
+Netherlands,Tuesday,2,3,0
+Netherlands,Tuesday,2,4,0
+Netherlands,Tuesday,2,5,0
+Netherlands,Tuesday,2,6,0
+Netherlands,Tuesday,2,7,0
+Netherlands,Tuesday,2,8,83
+Netherlands,Tuesday,2,9,62
+Netherlands,Tuesday,2,10,0
+Netherlands,Tuesday,2,11,196
+Netherlands,Tuesday,2,12,12
+Netherlands,Tuesday,2,13,125
+Netherlands,Tuesday,2,14,50
+Netherlands,Tuesday,2,15,98
+Netherlands,Tuesday,2,16,14
+Netherlands,Tuesday,2,17,0
+Netherlands,Tuesday,2,18,0
+Netherlands,Tuesday,2,19,0
+Netherlands,Tuesday,2,20,0
+Netherlands,Tuesday,2,21,0
+Netherlands,Tuesday,2,22,0
+Netherlands,Tuesday,2,23,0
+Netherlands,Wednesday,3,0,0
+Netherlands,Wednesday,3,1,0
+Netherlands,Wednesday,3,2,0
+Netherlands,Wednesday,3,3,0
+Netherlands,Wednesday,3,4,0
+Netherlands,Wednesday,3,5,0
+Netherlands,Wednesday,3,6,0
+Netherlands,Wednesday,3,7,0
+Netherlands,Wednesday,3,8,31
+Netherlands,Wednesday,3,9,29
+Netherlands,Wednesday,3,10,55
+Netherlands,Wednesday,3,11,20
+Netherlands,Wednesday,3,12,44
+Netherlands,Wednesday,3,13,9
+Netherlands,Wednesday,3,14,79
+Netherlands,Wednesday,3,15,85
+Netherlands,Wednesday,3,16,0
+Netherlands,Wednesday,3,17,0
+Netherlands,Wednesday,3,18,0
+Netherlands,Wednesday,3,19,0
+Netherlands,Wednesday,3,20,0
+Netherlands,Wednesday,3,21,0
+Netherlands,Wednesday,3,22,0
+Netherlands,Wednesday,3,23,0
+Netherlands,Thursday,4,0,0
+Netherlands,Thursday,4,1,0
+Netherlands,Thursday,4,2,0
+Netherlands,Thursday,4,3,0
+Netherlands,Thursday,4,4,0
+Netherlands,Thursday,4,5,0
+Netherlands,Thursday,4,6,1
+Netherlands,Thursday,4,7,0
+Netherlands,Thursday,4,8,0
+Netherlands,Thursday,4,9,34
+Netherlands,Thursday,4,10,172
+Netherlands,Thursday,4,11,73
+Netherlands,Thursday,4,12,176
+Netherlands,Thursday,4,13,0
+Netherlands,Thursday,4,14,0
+Netherlands,Thursday,4,15,55
+Netherlands,Thursday,4,16,119
+Netherlands,Thursday,4,17,2
+Netherlands,Thursday,4,18,0
+Netherlands,Thursday,4,19,0
+Netherlands,Thursday,4,20,0
+Netherlands,Thursday,4,21,0
+Netherlands,Thursday,4,22,0
+Netherlands,Thursday,4,23,0
+Netherlands,Friday,5,0,0
+Netherlands,Friday,5,1,0
+Netherlands,Friday,5,2,0
+Netherlands,Friday,5,3,0
+Netherlands,Friday,5,4,0
+Netherlands,Friday,5,5,0
+Netherlands,Friday,5,6,0
+Netherlands,Friday,5,7,15
+Netherlands,Friday,5,8,16
+Netherlands,Friday,5,9,0
+Netherlands,Friday,5,10,0
+Netherlands,Friday,5,11,106
+Netherlands,Friday,5,12,107
+Netherlands,Friday,5,13,0
+Netherlands,Friday,5,14,82
+Netherlands,Friday,5,15,20
+Netherlands,Friday,5,16,0
+Netherlands,Friday,5,17,0
+Netherlands,Friday,5,18,0
+Netherlands,Friday,5,19,0
+Netherlands,Friday,5,20,0
+Netherlands,Friday,5,21,0
+Netherlands,Friday,5,22,0
+Netherlands,Friday,5,23,0
+Netherlands,Saturday,6,0,0
+Netherlands,Saturday,6,1,0
+Netherlands,Saturday,6,2,0
+Netherlands,Saturday,6,3,0
+Netherlands,Saturday,6,4,0
+Netherlands,Saturday,6,5,0
+Netherlands,Saturday,6,6,0
+Netherlands,Saturday,6,7,0
+Netherlands,Saturday,6,8,0
+Netherlands,Saturday,6,9,0
+Netherlands,Saturday,6,10,0
+Netherlands,Saturday,6,11,0
+Netherlands,Saturday,6,12,0
+Netherlands,Saturday,6,13,0
+Netherlands,Saturday,6,14,0
+Netherlands,Saturday,6,15,0
+Netherlands,Saturday,6,16,0
+Netherlands,Saturday,6,17,0
+Netherlands,Saturday,6,18,0
+Netherlands,Saturday,6,19,0
+Netherlands,Saturday,6,20,0
+Netherlands,Saturday,6,21,0
+Netherlands,Saturday,6,22,0
+Netherlands,Saturday,6,23,0
+Netherlands,Sunday,7,0,0
+Netherlands,Sunday,7,1,0
+Netherlands,Sunday,7,2,0
+Netherlands,Sunday,7,3,0
+Netherlands,Sunday,7,4,0
+Netherlands,Sunday,7,5,0
+Netherlands,Sunday,7,6,0
+Netherlands,Sunday,7,7,0
+Netherlands,Sunday,7,8,0
+Netherlands,Sunday,7,9,0
+Netherlands,Sunday,7,10,0
+Netherlands,Sunday,7,11,61
+Netherlands,Sunday,7,12,0
+Netherlands,Sunday,7,13,0
+Netherlands,Sunday,7,14,0
+Netherlands,Sunday,7,15,0
+Netherlands,Sunday,7,16,0
+Netherlands,Sunday,7,17,0
+Netherlands,Sunday,7,18,0
+Netherlands,Sunday,7,19,0
+Netherlands,Sunday,7,20,0
+Netherlands,Sunday,7,21,0
+Netherlands,Sunday,7,22,0
+Netherlands,Sunday,7,23,0
+Norway,Monday,1,0,0
+Norway,Monday,1,1,0
+Norway,Monday,1,2,0
+Norway,Monday,1,3,0
+Norway,Monday,1,4,0
+Norway,Monday,1,5,0
+Norway,Monday,1,6,0
+Norway,Monday,1,7,0
+Norway,Monday,1,8,0
+Norway,Monday,1,9,0
+Norway,Monday,1,10,0
+Norway,Monday,1,11,0
+Norway,Monday,1,12,7
+Norway,Monday,1,13,128
+Norway,Monday,1,14,0
+Norway,Monday,1,15,0
+Norway,Monday,1,16,0
+Norway,Monday,1,17,0
+Norway,Monday,1,18,0
+Norway,Monday,1,19,0
+Norway,Monday,1,20,0
+Norway,Monday,1,21,0
+Norway,Monday,1,22,0
+Norway,Monday,1,23,0
+Norway,Tuesday,2,0,0
+Norway,Tuesday,2,1,0
+Norway,Tuesday,2,2,0
+Norway,Tuesday,2,3,0
+Norway,Tuesday,2,4,0
+Norway,Tuesday,2,5,0
+Norway,Tuesday,2,6,0
+Norway,Tuesday,2,7,0
+Norway,Tuesday,2,8,0
+Norway,Tuesday,2,9,0
+Norway,Tuesday,2,10,0
+Norway,Tuesday,2,11,0
+Norway,Tuesday,2,12,0
+Norway,Tuesday,2,13,0
+Norway,Tuesday,2,14,113
+Norway,Tuesday,2,15,7
+Norway,Tuesday,2,16,15
+Norway,Tuesday,2,17,0
+Norway,Tuesday,2,18,0
+Norway,Tuesday,2,19,0
+Norway,Tuesday,2,20,0
+Norway,Tuesday,2,21,0
+Norway,Tuesday,2,22,0
+Norway,Tuesday,2,23,0
+Norway,Wednesday,3,0,0
+Norway,Wednesday,3,1,0
+Norway,Wednesday,3,2,0
+Norway,Wednesday,3,3,0
+Norway,Wednesday,3,4,0
+Norway,Wednesday,3,5,0
+Norway,Wednesday,3,6,0
+Norway,Wednesday,3,7,0
+Norway,Wednesday,3,8,15
+Norway,Wednesday,3,9,0
+Norway,Wednesday,3,10,0
+Norway,Wednesday,3,11,1
+Norway,Wednesday,3,12,32
+Norway,Wednesday,3,13,74
+Norway,Wednesday,3,14,82
+Norway,Wednesday,3,15,0
+Norway,Wednesday,3,16,91
+Norway,Wednesday,3,17,4
+Norway,Wednesday,3,18,0
+Norway,Wednesday,3,19,0
+Norway,Wednesday,3,20,0
+Norway,Wednesday,3,21,0
+Norway,Wednesday,3,22,0
+Norway,Wednesday,3,23,0
+Norway,Thursday,4,0,0
+Norway,Thursday,4,1,0
+Norway,Thursday,4,2,0
+Norway,Thursday,4,3,0
+Norway,Thursday,4,4,0
+Norway,Thursday,4,5,0
+Norway,Thursday,4,6,0
+Norway,Thursday,4,7,0
+Norway,Thursday,4,8,0
+Norway,Thursday,4,9,20
+Norway,Thursday,4,10,0
+Norway,Thursday,4,11,0
+Norway,Thursday,4,12,16
+Norway,Thursday,4,13,58
+Norway,Thursday,4,14,15
+Norway,Thursday,4,15,11
+Norway,Thursday,4,16,7
+Norway,Thursday,4,17,0
+Norway,Thursday,4,18,0
+Norway,Thursday,4,19,0
+Norway,Thursday,4,20,0
+Norway,Thursday,4,21,0
+Norway,Thursday,4,22,0
+Norway,Thursday,4,23,0
+Norway,Friday,5,0,0
+Norway,Friday,5,1,0
+Norway,Friday,5,2,0
+Norway,Friday,5,3,0
+Norway,Friday,5,4,0
+Norway,Friday,5,5,0
+Norway,Friday,5,6,0
+Norway,Friday,5,7,0
+Norway,Friday,5,8,65
+Norway,Friday,5,9,62
+Norway,Friday,5,10,1
+Norway,Friday,5,11,32
+Norway,Friday,5,12,0
+Norway,Friday,5,13,214
+Norway,Friday,5,14,0
+Norway,Friday,5,15,0
+Norway,Friday,5,16,0
+Norway,Friday,5,17,0
+Norway,Friday,5,18,0
+Norway,Friday,5,19,0
+Norway,Friday,5,20,0
+Norway,Friday,5,21,0
+Norway,Friday,5,22,0
+Norway,Friday,5,23,0
+Norway,Saturday,6,0,0
+Norway,Saturday,6,1,0
+Norway,Saturday,6,2,0
+Norway,Saturday,6,3,0
+Norway,Saturday,6,4,0
+Norway,Saturday,6,5,0
+Norway,Saturday,6,6,0
+Norway,Saturday,6,7,0
+Norway,Saturday,6,8,0
+Norway,Saturday,6,9,0
+Norway,Saturday,6,10,0
+Norway,Saturday,6,11,0
+Norway,Saturday,6,12,0
+Norway,Saturday,6,13,0
+Norway,Saturday,6,14,0
+Norway,Saturday,6,15,0
+Norway,Saturday,6,16,0
+Norway,Saturday,6,17,0
+Norway,Saturday,6,18,0
+Norway,Saturday,6,19,0
+Norway,Saturday,6,20,0
+Norway,Saturday,6,21,0
+Norway,Saturday,6,22,0
+Norway,Saturday,6,23,0
+Norway,Sunday,7,0,0
+Norway,Sunday,7,1,0
+Norway,Sunday,7,2,0
+Norway,Sunday,7,3,0
+Norway,Sunday,7,4,0
+Norway,Sunday,7,5,0
+Norway,Sunday,7,6,0
+Norway,Sunday,7,7,0
+Norway,Sunday,7,8,0
+Norway,Sunday,7,9,0
+Norway,Sunday,7,10,0
+Norway,Sunday,7,11,0
+Norway,Sunday,7,12,0
+Norway,Sunday,7,13,16
+Norway,Sunday,7,14,0
+Norway,Sunday,7,15,0
+Norway,Sunday,7,16,0
+Norway,Sunday,7,17,0
+Norway,Sunday,7,18,0
+Norway,Sunday,7,19,0
+Norway,Sunday,7,20,0
+Norway,Sunday,7,21,0
+Norway,Sunday,7,22,0
+Norway,Sunday,7,23,0
+Poland,Monday,1,0,0
+Poland,Monday,1,1,0
+Poland,Monday,1,2,0
+Poland,Monday,1,3,0
+Poland,Monday,1,4,0
+Poland,Monday,1,5,0
+Poland,Monday,1,6,0
+Poland,Monday,1,7,0
+Poland,Monday,1,8,0
+Poland,Monday,1,9,0
+Poland,Monday,1,10,41
+Poland,Monday,1,11,1
+Poland,Monday,1,12,17
+Poland,Monday,1,13,0
+Poland,Monday,1,14,0
+Poland,Monday,1,15,0
+Poland,Monday,1,16,0
+Poland,Monday,1,17,0
+Poland,Monday,1,18,0
+Poland,Monday,1,19,0
+Poland,Monday,1,20,0
+Poland,Monday,1,21,0
+Poland,Monday,1,22,0
+Poland,Monday,1,23,0
+Poland,Tuesday,2,0,0
+Poland,Tuesday,2,1,0
+Poland,Tuesday,2,2,0
+Poland,Tuesday,2,3,0
+Poland,Tuesday,2,4,0
+Poland,Tuesday,2,5,0
+Poland,Tuesday,2,6,0
+Poland,Tuesday,2,7,0
+Poland,Tuesday,2,8,25
+Poland,Tuesday,2,9,0
+Poland,Tuesday,2,10,0
+Poland,Tuesday,2,11,19
+Poland,Tuesday,2,12,2
+Poland,Tuesday,2,13,9
+Poland,Tuesday,2,14,0
+Poland,Tuesday,2,15,0
+Poland,Tuesday,2,16,0
+Poland,Tuesday,2,17,0
+Poland,Tuesday,2,18,0
+Poland,Tuesday,2,19,0
+Poland,Tuesday,2,20,0
+Poland,Tuesday,2,21,0
+Poland,Tuesday,2,22,0
+Poland,Tuesday,2,23,0
+Poland,Wednesday,3,0,0
+Poland,Wednesday,3,1,0
+Poland,Wednesday,3,2,0
+Poland,Wednesday,3,3,0
+Poland,Wednesday,3,4,0
+Poland,Wednesday,3,5,0
+Poland,Wednesday,3,6,0
+Poland,Wednesday,3,7,0
+Poland,Wednesday,3,8,0
+Poland,Wednesday,3,9,15
+Poland,Wednesday,3,10,16
+Poland,Wednesday,3,11,45
+Poland,Wednesday,3,12,27
+Poland,Wednesday,3,13,31
+Poland,Wednesday,3,14,3
+Poland,Wednesday,3,15,0
+Poland,Wednesday,3,16,0
+Poland,Wednesday,3,17,0
+Poland,Wednesday,3,18,0
+Poland,Wednesday,3,19,0
+Poland,Wednesday,3,20,0
+Poland,Wednesday,3,21,0
+Poland,Wednesday,3,22,0
+Poland,Wednesday,3,23,0
+Poland,Thursday,4,0,0
+Poland,Thursday,4,1,0
+Poland,Thursday,4,2,0
+Poland,Thursday,4,3,0
+Poland,Thursday,4,4,0
+Poland,Thursday,4,5,0
+Poland,Thursday,4,6,0
+Poland,Thursday,4,7,0
+Poland,Thursday,4,8,0
+Poland,Thursday,4,9,0
+Poland,Thursday,4,10,0
+Poland,Thursday,4,11,0
+Poland,Thursday,4,12,0
+Poland,Thursday,4,13,15
+Poland,Thursday,4,14,0
+Poland,Thursday,4,15,11
+Poland,Thursday,4,16,0
+Poland,Thursday,4,17,0
+Poland,Thursday,4,18,0
+Poland,Thursday,4,19,0
+Poland,Thursday,4,20,0
+Poland,Thursday,4,21,0
+Poland,Thursday,4,22,0
+Poland,Thursday,4,23,0
+Poland,Friday,5,0,0
+Poland,Friday,5,1,0
+Poland,Friday,5,2,0
+Poland,Friday,5,3,0
+Poland,Friday,5,4,0
+Poland,Friday,5,5,0
+Poland,Friday,5,6,0
+Poland,Friday,5,7,0
+Poland,Friday,5,8,0
+Poland,Friday,5,9,0
+Poland,Friday,5,10,44
+Poland,Friday,5,11,0
+Poland,Friday,5,12,0
+Poland,Friday,5,13,17
+Poland,Friday,5,14,0
+Poland,Friday,5,15,0
+Poland,Friday,5,16,0
+Poland,Friday,5,17,3
+Poland,Friday,5,18,0
+Poland,Friday,5,19,0
+Poland,Friday,5,20,0
+Poland,Friday,5,21,0
+Poland,Friday,5,22,0
+Poland,Friday,5,23,0
+Poland,Saturday,6,0,0
+Poland,Saturday,6,1,0
+Poland,Saturday,6,2,0
+Poland,Saturday,6,3,0
+Poland,Saturday,6,4,0
+Poland,Saturday,6,5,0
+Poland,Saturday,6,6,0
+Poland,Saturday,6,7,0
+Poland,Saturday,6,8,0
+Poland,Saturday,6,9,0
+Poland,Saturday,6,10,0
+Poland,Saturday,6,11,0
+Poland,Saturday,6,12,0
+Poland,Saturday,6,13,0
+Poland,Saturday,6,14,0
+Poland,Saturday,6,15,0
+Poland,Saturday,6,16,0
+Poland,Saturday,6,17,0
+Poland,Saturday,6,18,0
+Poland,Saturday,6,19,0
+Poland,Saturday,6,20,0
+Poland,Saturday,6,21,0
+Poland,Saturday,6,22,0
+Poland,Saturday,6,23,0
+Poland,Sunday,7,0,0
+Poland,Sunday,7,1,0
+Poland,Sunday,7,2,0
+Poland,Sunday,7,3,0
+Poland,Sunday,7,4,0
+Poland,Sunday,7,5,0
+Poland,Sunday,7,6,0
+Poland,Sunday,7,7,0
+Poland,Sunday,7,8,0
+Poland,Sunday,7,9,0
+Poland,Sunday,7,10,0
+Poland,Sunday,7,11,0
+Poland,Sunday,7,12,0
+Poland,Sunday,7,13,0
+Poland,Sunday,7,14,0
+Poland,Sunday,7,15,0
+Poland,Sunday,7,16,0
+Poland,Sunday,7,17,0
+Poland,Sunday,7,18,0
+Poland,Sunday,7,19,0
+Poland,Sunday,7,20,0
+Poland,Sunday,7,21,0
+Poland,Sunday,7,22,0
+Poland,Sunday,7,23,0
+Portugal,Monday,1,0,0
+Portugal,Monday,1,1,0
+Portugal,Monday,1,2,0
+Portugal,Monday,1,3,0
+Portugal,Monday,1,4,0
+Portugal,Monday,1,5,0
+Portugal,Monday,1,6,0
+Portugal,Monday,1,7,0
+Portugal,Monday,1,8,0
+Portugal,Monday,1,9,14
+Portugal,Monday,1,10,62
+Portugal,Monday,1,11,87
+Portugal,Monday,1,12,0
+Portugal,Monday,1,13,0
+Portugal,Monday,1,14,51
+Portugal,Monday,1,15,15
+Portugal,Monday,1,16,0
+Portugal,Monday,1,17,0
+Portugal,Monday,1,18,0
+Portugal,Monday,1,19,0
+Portugal,Monday,1,20,0
+Portugal,Monday,1,21,0
+Portugal,Monday,1,22,0
+Portugal,Monday,1,23,0
+Portugal,Tuesday,2,0,0
+Portugal,Tuesday,2,1,0
+Portugal,Tuesday,2,2,0
+Portugal,Tuesday,2,3,0
+Portugal,Tuesday,2,4,0
+Portugal,Tuesday,2,5,0
+Portugal,Tuesday,2,6,0
+Portugal,Tuesday,2,7,0
+Portugal,Tuesday,2,8,22
+Portugal,Tuesday,2,9,91
+Portugal,Tuesday,2,10,0
+Portugal,Tuesday,2,11,0
+Portugal,Tuesday,2,12,56
+Portugal,Tuesday,2,13,39
+Portugal,Tuesday,2,14,14
+Portugal,Tuesday,2,15,3
+Portugal,Tuesday,2,16,1
+Portugal,Tuesday,2,17,0
+Portugal,Tuesday,2,18,0
+Portugal,Tuesday,2,19,0
+Portugal,Tuesday,2,20,0
+Portugal,Tuesday,2,21,0
+Portugal,Tuesday,2,22,0
+Portugal,Tuesday,2,23,0
+Portugal,Wednesday,3,0,0
+Portugal,Wednesday,3,1,0
+Portugal,Wednesday,3,2,0
+Portugal,Wednesday,3,3,0
+Portugal,Wednesday,3,4,0
+Portugal,Wednesday,3,5,0
+Portugal,Wednesday,3,6,0
+Portugal,Wednesday,3,7,0
+Portugal,Wednesday,3,8,0
+Portugal,Wednesday,3,9,0
+Portugal,Wednesday,3,10,97
+Portugal,Wednesday,3,11,0
+Portugal,Wednesday,3,12,38
+Portugal,Wednesday,3,13,149
+Portugal,Wednesday,3,14,2
+Portugal,Wednesday,3,15,18
+Portugal,Wednesday,3,16,0
+Portugal,Wednesday,3,17,0
+Portugal,Wednesday,3,18,0
+Portugal,Wednesday,3,19,0
+Portugal,Wednesday,3,20,0
+Portugal,Wednesday,3,21,0
+Portugal,Wednesday,3,22,0
+Portugal,Wednesday,3,23,0
+Portugal,Thursday,4,0,0
+Portugal,Thursday,4,1,0
+Portugal,Thursday,4,2,0
+Portugal,Thursday,4,3,0
+Portugal,Thursday,4,4,0
+Portugal,Thursday,4,5,0
+Portugal,Thursday,4,6,0
+Portugal,Thursday,4,7,0
+Portugal,Thursday,4,8,2
+Portugal,Thursday,4,9,1
+Portugal,Thursday,4,10,25
+Portugal,Thursday,4,11,61
+Portugal,Thursday,4,12,90
+Portugal,Thursday,4,13,0
+Portugal,Thursday,4,14,223
+Portugal,Thursday,4,15,0
+Portugal,Thursday,4,16,0
+Portugal,Thursday,4,17,36
+Portugal,Thursday,4,18,0
+Portugal,Thursday,4,19,78
+Portugal,Thursday,4,20,0
+Portugal,Thursday,4,21,0
+Portugal,Thursday,4,22,0
+Portugal,Thursday,4,23,0
+Portugal,Friday,5,0,0
+Portugal,Friday,5,1,0
+Portugal,Friday,5,2,0
+Portugal,Friday,5,3,0
+Portugal,Friday,5,4,0
+Portugal,Friday,5,5,0
+Portugal,Friday,5,6,0
+Portugal,Friday,5,7,0
+Portugal,Friday,5,8,0
+Portugal,Friday,5,9,0
+Portugal,Friday,5,10,55
+Portugal,Friday,5,11,56
+Portugal,Friday,5,12,41
+Portugal,Friday,5,13,14
+Portugal,Friday,5,14,0
+Portugal,Friday,5,15,8
+Portugal,Friday,5,16,0
+Portugal,Friday,5,17,0
+Portugal,Friday,5,18,0
+Portugal,Friday,5,19,0
+Portugal,Friday,5,20,0
+Portugal,Friday,5,21,0
+Portugal,Friday,5,22,0
+Portugal,Friday,5,23,0
+Portugal,Saturday,6,0,0
+Portugal,Saturday,6,1,0
+Portugal,Saturday,6,2,0
+Portugal,Saturday,6,3,0
+Portugal,Saturday,6,4,0
+Portugal,Saturday,6,5,0
+Portugal,Saturday,6,6,0
+Portugal,Saturday,6,7,0
+Portugal,Saturday,6,8,0
+Portugal,Saturday,6,9,0
+Portugal,Saturday,6,10,0
+Portugal,Saturday,6,11,0
+Portugal,Saturday,6,12,0
+Portugal,Saturday,6,13,0
+Portugal,Saturday,6,14,0
+Portugal,Saturday,6,15,0
+Portugal,Saturday,6,16,0
+Portugal,Saturday,6,17,0
+Portugal,Saturday,6,18,0
+Portugal,Saturday,6,19,0
+Portugal,Saturday,6,20,0
+Portugal,Saturday,6,21,0
+Portugal,Saturday,6,22,0
+Portugal,Saturday,6,23,0
+Portugal,Sunday,7,0,0
+Portugal,Sunday,7,1,0
+Portugal,Sunday,7,2,0
+Portugal,Sunday,7,3,0
+Portugal,Sunday,7,4,0
+Portugal,Sunday,7,5,0
+Portugal,Sunday,7,6,0
+Portugal,Sunday,7,7,0
+Portugal,Sunday,7,8,0
+Portugal,Sunday,7,9,0
+Portugal,Sunday,7,10,0
+Portugal,Sunday,7,11,0
+Portugal,Sunday,7,12,17
+Portugal,Sunday,7,13,0
+Portugal,Sunday,7,14,0
+Portugal,Sunday,7,15,53
+Portugal,Sunday,7,16,0
+Portugal,Sunday,7,17,0
+Portugal,Sunday,7,18,0
+Portugal,Sunday,7,19,0
+Portugal,Sunday,7,20,0
+Portugal,Sunday,7,21,0
+Portugal,Sunday,7,22,0
+Portugal,Sunday,7,23,0
+RSA,Monday,1,0,0
+RSA,Monday,1,1,0
+RSA,Monday,1,2,0
+RSA,Monday,1,3,0
+RSA,Monday,1,4,0
+RSA,Monday,1,5,0
+RSA,Monday,1,6,0
+RSA,Monday,1,7,0
+RSA,Monday,1,8,0
+RSA,Monday,1,9,0
+RSA,Monday,1,10,0
+RSA,Monday,1,11,0
+RSA,Monday,1,12,0
+RSA,Monday,1,13,0
+RSA,Monday,1,14,0
+RSA,Monday,1,15,0
+RSA,Monday,1,16,0
+RSA,Monday,1,17,0
+RSA,Monday,1,18,0
+RSA,Monday,1,19,0
+RSA,Monday,1,20,0
+RSA,Monday,1,21,0
+RSA,Monday,1,22,0
+RSA,Monday,1,23,0
+RSA,Tuesday,2,0,0
+RSA,Tuesday,2,1,0
+RSA,Tuesday,2,2,0
+RSA,Tuesday,2,3,0
+RSA,Tuesday,2,4,0
+RSA,Tuesday,2,5,0
+RSA,Tuesday,2,6,0
+RSA,Tuesday,2,7,0
+RSA,Tuesday,2,8,0
+RSA,Tuesday,2,9,0
+RSA,Tuesday,2,10,0
+RSA,Tuesday,2,11,0
+RSA,Tuesday,2,12,0
+RSA,Tuesday,2,13,0
+RSA,Tuesday,2,14,0
+RSA,Tuesday,2,15,0
+RSA,Tuesday,2,16,0
+RSA,Tuesday,2,17,0
+RSA,Tuesday,2,18,0
+RSA,Tuesday,2,19,0
+RSA,Tuesday,2,20,0
+RSA,Tuesday,2,21,0
+RSA,Tuesday,2,22,0
+RSA,Tuesday,2,23,0
+RSA,Wednesday,3,0,0
+RSA,Wednesday,3,1,0
+RSA,Wednesday,3,2,0
+RSA,Wednesday,3,3,0
+RSA,Wednesday,3,4,0
+RSA,Wednesday,3,5,0
+RSA,Wednesday,3,6,0
+RSA,Wednesday,3,7,0
+RSA,Wednesday,3,8,0
+RSA,Wednesday,3,9,0
+RSA,Wednesday,3,10,0
+RSA,Wednesday,3,11,0
+RSA,Wednesday,3,12,0
+RSA,Wednesday,3,13,0
+RSA,Wednesday,3,14,0
+RSA,Wednesday,3,15,0
+RSA,Wednesday,3,16,0
+RSA,Wednesday,3,17,0
+RSA,Wednesday,3,18,0
+RSA,Wednesday,3,19,0
+RSA,Wednesday,3,20,0
+RSA,Wednesday,3,21,0
+RSA,Wednesday,3,22,0
+RSA,Wednesday,3,23,0
+RSA,Thursday,4,0,0
+RSA,Thursday,4,1,0
+RSA,Thursday,4,2,0
+RSA,Thursday,4,3,0
+RSA,Thursday,4,4,0
+RSA,Thursday,4,5,0
+RSA,Thursday,4,6,0
+RSA,Thursday,4,7,0
+RSA,Thursday,4,8,0
+RSA,Thursday,4,9,0
+RSA,Thursday,4,10,0
+RSA,Thursday,4,11,0
+RSA,Thursday,4,12,58
+RSA,Thursday,4,13,0
+RSA,Thursday,4,14,0
+RSA,Thursday,4,15,0
+RSA,Thursday,4,16,0
+RSA,Thursday,4,17,0
+RSA,Thursday,4,18,0
+RSA,Thursday,4,19,0
+RSA,Thursday,4,20,0
+RSA,Thursday,4,21,0
+RSA,Thursday,4,22,0
+RSA,Thursday,4,23,0
+RSA,Friday,5,0,0
+RSA,Friday,5,1,0
+RSA,Friday,5,2,0
+RSA,Friday,5,3,0
+RSA,Friday,5,4,0
+RSA,Friday,5,5,0
+RSA,Friday,5,6,0
+RSA,Friday,5,7,0
+RSA,Friday,5,8,0
+RSA,Friday,5,9,0
+RSA,Friday,5,10,0
+RSA,Friday,5,11,0
+RSA,Friday,5,12,0
+RSA,Friday,5,13,0
+RSA,Friday,5,14,0
+RSA,Friday,5,15,0
+RSA,Friday,5,16,0
+RSA,Friday,5,17,0
+RSA,Friday,5,18,0
+RSA,Friday,5,19,0
+RSA,Friday,5,20,0
+RSA,Friday,5,21,0
+RSA,Friday,5,22,0
+RSA,Friday,5,23,0
+RSA,Saturday,6,0,0
+RSA,Saturday,6,1,0
+RSA,Saturday,6,2,0
+RSA,Saturday,6,3,0
+RSA,Saturday,6,4,0
+RSA,Saturday,6,5,0
+RSA,Saturday,6,6,0
+RSA,Saturday,6,7,0
+RSA,Saturday,6,8,0
+RSA,Saturday,6,9,0
+RSA,Saturday,6,10,0
+RSA,Saturday,6,11,0
+RSA,Saturday,6,12,0
+RSA,Saturday,6,13,0
+RSA,Saturday,6,14,0
+RSA,Saturday,6,15,0
+RSA,Saturday,6,16,0
+RSA,Saturday,6,17,0
+RSA,Saturday,6,18,0
+RSA,Saturday,6,19,0
+RSA,Saturday,6,20,0
+RSA,Saturday,6,21,0
+RSA,Saturday,6,22,0
+RSA,Saturday,6,23,0
+RSA,Sunday,7,0,0
+RSA,Sunday,7,1,0
+RSA,Sunday,7,2,0
+RSA,Sunday,7,3,0
+RSA,Sunday,7,4,0
+RSA,Sunday,7,5,0
+RSA,Sunday,7,6,0
+RSA,Sunday,7,7,0
+RSA,Sunday,7,8,0
+RSA,Sunday,7,9,0
+RSA,Sunday,7,10,0
+RSA,Sunday,7,11,0
+RSA,Sunday,7,12,0
+RSA,Sunday,7,13,0
+RSA,Sunday,7,14,0
+RSA,Sunday,7,15,0
+RSA,Sunday,7,16,0
+RSA,Sunday,7,17,0
+RSA,Sunday,7,18,0
+RSA,Sunday,7,19,0
+RSA,Sunday,7,20,0
+RSA,Sunday,7,21,0
+RSA,Sunday,7,22,0
+RSA,Sunday,7,23,0
+Saudi Arabia,Monday,1,0,0
+Saudi Arabia,Monday,1,1,0
+Saudi Arabia,Monday,1,2,0
+Saudi Arabia,Monday,1,3,0
+Saudi Arabia,Monday,1,4,0
+Saudi Arabia,Monday,1,5,0
+Saudi Arabia,Monday,1,6,0
+Saudi Arabia,Monday,1,7,0
+Saudi Arabia,Monday,1,8,0
+Saudi Arabia,Monday,1,9,0
+Saudi Arabia,Monday,1,10,0
+Saudi Arabia,Monday,1,11,0
+Saudi Arabia,Monday,1,12,0
+Saudi Arabia,Monday,1,13,0
+Saudi Arabia,Monday,1,14,0
+Saudi Arabia,Monday,1,15,0
+Saudi Arabia,Monday,1,16,0
+Saudi Arabia,Monday,1,17,0
+Saudi Arabia,Monday,1,18,0
+Saudi Arabia,Monday,1,19,0
+Saudi Arabia,Monday,1,20,0
+Saudi Arabia,Monday,1,21,0
+Saudi Arabia,Monday,1,22,0
+Saudi Arabia,Monday,1,23,0
+Saudi Arabia,Tuesday,2,0,0
+Saudi Arabia,Tuesday,2,1,0
+Saudi Arabia,Tuesday,2,2,0
+Saudi Arabia,Tuesday,2,3,0
+Saudi Arabia,Tuesday,2,4,0
+Saudi Arabia,Tuesday,2,5,0
+Saudi Arabia,Tuesday,2,6,0
+Saudi Arabia,Tuesday,2,7,0
+Saudi Arabia,Tuesday,2,8,0
+Saudi Arabia,Tuesday,2,9,0
+Saudi Arabia,Tuesday,2,10,0
+Saudi Arabia,Tuesday,2,11,0
+Saudi Arabia,Tuesday,2,12,0
+Saudi Arabia,Tuesday,2,13,0
+Saudi Arabia,Tuesday,2,14,0
+Saudi Arabia,Tuesday,2,15,0
+Saudi Arabia,Tuesday,2,16,0
+Saudi Arabia,Tuesday,2,17,0
+Saudi Arabia,Tuesday,2,18,0
+Saudi Arabia,Tuesday,2,19,0
+Saudi Arabia,Tuesday,2,20,0
+Saudi Arabia,Tuesday,2,21,0
+Saudi Arabia,Tuesday,2,22,0
+Saudi Arabia,Tuesday,2,23,0
+Saudi Arabia,Wednesday,3,0,0
+Saudi Arabia,Wednesday,3,1,0
+Saudi Arabia,Wednesday,3,2,0
+Saudi Arabia,Wednesday,3,3,0
+Saudi Arabia,Wednesday,3,4,0
+Saudi Arabia,Wednesday,3,5,0
+Saudi Arabia,Wednesday,3,6,0
+Saudi Arabia,Wednesday,3,7,0
+Saudi Arabia,Wednesday,3,8,0
+Saudi Arabia,Wednesday,3,9,0
+Saudi Arabia,Wednesday,3,10,0
+Saudi Arabia,Wednesday,3,11,0
+Saudi Arabia,Wednesday,3,12,0
+Saudi Arabia,Wednesday,3,13,0
+Saudi Arabia,Wednesday,3,14,0
+Saudi Arabia,Wednesday,3,15,0
+Saudi Arabia,Wednesday,3,16,0
+Saudi Arabia,Wednesday,3,17,0
+Saudi Arabia,Wednesday,3,18,0
+Saudi Arabia,Wednesday,3,19,0
+Saudi Arabia,Wednesday,3,20,0
+Saudi Arabia,Wednesday,3,21,0
+Saudi Arabia,Wednesday,3,22,0
+Saudi Arabia,Wednesday,3,23,0
+Saudi Arabia,Thursday,4,0,0
+Saudi Arabia,Thursday,4,1,0
+Saudi Arabia,Thursday,4,2,0
+Saudi Arabia,Thursday,4,3,0
+Saudi Arabia,Thursday,4,4,0
+Saudi Arabia,Thursday,4,5,0
+Saudi Arabia,Thursday,4,6,0
+Saudi Arabia,Thursday,4,7,0
+Saudi Arabia,Thursday,4,8,0
+Saudi Arabia,Thursday,4,9,0
+Saudi Arabia,Thursday,4,10,9
+Saudi Arabia,Thursday,4,11,1
+Saudi Arabia,Thursday,4,12,0
+Saudi Arabia,Thursday,4,13,0
+Saudi Arabia,Thursday,4,14,0
+Saudi Arabia,Thursday,4,15,0
+Saudi Arabia,Thursday,4,16,0
+Saudi Arabia,Thursday,4,17,0
+Saudi Arabia,Thursday,4,18,0
+Saudi Arabia,Thursday,4,19,0
+Saudi Arabia,Thursday,4,20,0
+Saudi Arabia,Thursday,4,21,0
+Saudi Arabia,Thursday,4,22,0
+Saudi Arabia,Thursday,4,23,0
+Saudi Arabia,Friday,5,0,0
+Saudi Arabia,Friday,5,1,0
+Saudi Arabia,Friday,5,2,0
+Saudi Arabia,Friday,5,3,0
+Saudi Arabia,Friday,5,4,0
+Saudi Arabia,Friday,5,5,0
+Saudi Arabia,Friday,5,6,0
+Saudi Arabia,Friday,5,7,0
+Saudi Arabia,Friday,5,8,0
+Saudi Arabia,Friday,5,9,0
+Saudi Arabia,Friday,5,10,0
+Saudi Arabia,Friday,5,11,0
+Saudi Arabia,Friday,5,12,0
+Saudi Arabia,Friday,5,13,0
+Saudi Arabia,Friday,5,14,0
+Saudi Arabia,Friday,5,15,0
+Saudi Arabia,Friday,5,16,0
+Saudi Arabia,Friday,5,17,0
+Saudi Arabia,Friday,5,18,0
+Saudi Arabia,Friday,5,19,0
+Saudi Arabia,Friday,5,20,0
+Saudi Arabia,Friday,5,21,0
+Saudi Arabia,Friday,5,22,0
+Saudi Arabia,Friday,5,23,0
+Saudi Arabia,Saturday,6,0,0
+Saudi Arabia,Saturday,6,1,0
+Saudi Arabia,Saturday,6,2,0
+Saudi Arabia,Saturday,6,3,0
+Saudi Arabia,Saturday,6,4,0
+Saudi Arabia,Saturday,6,5,0
+Saudi Arabia,Saturday,6,6,0
+Saudi Arabia,Saturday,6,7,0
+Saudi Arabia,Saturday,6,8,0
+Saudi Arabia,Saturday,6,9,0
+Saudi Arabia,Saturday,6,10,0
+Saudi Arabia,Saturday,6,11,0
+Saudi Arabia,Saturday,6,12,0
+Saudi Arabia,Saturday,6,13,0
+Saudi Arabia,Saturday,6,14,0
+Saudi Arabia,Saturday,6,15,0
+Saudi Arabia,Saturday,6,16,0
+Saudi Arabia,Saturday,6,17,0
+Saudi Arabia,Saturday,6,18,0
+Saudi Arabia,Saturday,6,19,0
+Saudi Arabia,Saturday,6,20,0
+Saudi Arabia,Saturday,6,21,0
+Saudi Arabia,Saturday,6,22,0
+Saudi Arabia,Saturday,6,23,0
+Saudi Arabia,Sunday,7,0,0
+Saudi Arabia,Sunday,7,1,0
+Saudi Arabia,Sunday,7,2,0
+Saudi Arabia,Sunday,7,3,0
+Saudi Arabia,Sunday,7,4,0
+Saudi Arabia,Sunday,7,5,0
+Saudi Arabia,Sunday,7,6,0
+Saudi Arabia,Sunday,7,7,0
+Saudi Arabia,Sunday,7,8,0
+Saudi Arabia,Sunday,7,9,0
+Saudi Arabia,Sunday,7,10,0
+Saudi Arabia,Sunday,7,11,0
+Saudi Arabia,Sunday,7,12,0
+Saudi Arabia,Sunday,7,13,0
+Saudi Arabia,Sunday,7,14,0
+Saudi Arabia,Sunday,7,15,0
+Saudi Arabia,Sunday,7,16,0
+Saudi Arabia,Sunday,7,17,0
+Saudi Arabia,Sunday,7,18,0
+Saudi Arabia,Sunday,7,19,0
+Saudi Arabia,Sunday,7,20,0
+Saudi Arabia,Sunday,7,21,0
+Saudi Arabia,Sunday,7,22,0
+Saudi Arabia,Sunday,7,23,0
+Singapore,Monday,1,0,0
+Singapore,Monday,1,1,0
+Singapore,Monday,1,2,0
+Singapore,Monday,1,3,0
+Singapore,Monday,1,4,0
+Singapore,Monday,1,5,0
+Singapore,Monday,1,6,0
+Singapore,Monday,1,7,0
+Singapore,Monday,1,8,0
+Singapore,Monday,1,9,0
+Singapore,Monday,1,10,0
+Singapore,Monday,1,11,75
+Singapore,Monday,1,12,0
+Singapore,Monday,1,13,10
+Singapore,Monday,1,14,0
+Singapore,Monday,1,15,0
+Singapore,Monday,1,16,0
+Singapore,Monday,1,17,0
+Singapore,Monday,1,18,0
+Singapore,Monday,1,19,0
+Singapore,Monday,1,20,0
+Singapore,Monday,1,21,0
+Singapore,Monday,1,22,0
+Singapore,Monday,1,23,0
+Singapore,Tuesday,2,0,0
+Singapore,Tuesday,2,1,0
+Singapore,Tuesday,2,2,0
+Singapore,Tuesday,2,3,0
+Singapore,Tuesday,2,4,0
+Singapore,Tuesday,2,5,0
+Singapore,Tuesday,2,6,0
+Singapore,Tuesday,2,7,0
+Singapore,Tuesday,2,8,0
+Singapore,Tuesday,2,9,0
+Singapore,Tuesday,2,10,52
+Singapore,Tuesday,2,11,0
+Singapore,Tuesday,2,12,0
+Singapore,Tuesday,2,13,56
+Singapore,Tuesday,2,14,0
+Singapore,Tuesday,2,15,0
+Singapore,Tuesday,2,16,0
+Singapore,Tuesday,2,17,0
+Singapore,Tuesday,2,18,0
+Singapore,Tuesday,2,19,0
+Singapore,Tuesday,2,20,0
+Singapore,Tuesday,2,21,0
+Singapore,Tuesday,2,22,0
+Singapore,Tuesday,2,23,0
+Singapore,Wednesday,3,0,0
+Singapore,Wednesday,3,1,0
+Singapore,Wednesday,3,2,0
+Singapore,Wednesday,3,3,0
+Singapore,Wednesday,3,4,0
+Singapore,Wednesday,3,5,0
+Singapore,Wednesday,3,6,0
+Singapore,Wednesday,3,7,0
+Singapore,Wednesday,3,8,0
+Singapore,Wednesday,3,9,0
+Singapore,Wednesday,3,10,0
+Singapore,Wednesday,3,11,4
+Singapore,Wednesday,3,12,0
+Singapore,Wednesday,3,13,0
+Singapore,Wednesday,3,14,0
+Singapore,Wednesday,3,15,0
+Singapore,Wednesday,3,16,0
+Singapore,Wednesday,3,17,0
+Singapore,Wednesday,3,18,0
+Singapore,Wednesday,3,19,0
+Singapore,Wednesday,3,20,0
+Singapore,Wednesday,3,21,0
+Singapore,Wednesday,3,22,0
+Singapore,Wednesday,3,23,0
+Singapore,Thursday,4,0,0
+Singapore,Thursday,4,1,0
+Singapore,Thursday,4,2,0
+Singapore,Thursday,4,3,0
+Singapore,Thursday,4,4,0
+Singapore,Thursday,4,5,0
+Singapore,Thursday,4,6,0
+Singapore,Thursday,4,7,0
+Singapore,Thursday,4,8,0
+Singapore,Thursday,4,9,0
+Singapore,Thursday,4,10,0
+Singapore,Thursday,4,11,0
+Singapore,Thursday,4,12,0
+Singapore,Thursday,4,13,0
+Singapore,Thursday,4,14,0
+Singapore,Thursday,4,15,0
+Singapore,Thursday,4,16,0
+Singapore,Thursday,4,17,0
+Singapore,Thursday,4,18,0
+Singapore,Thursday,4,19,0
+Singapore,Thursday,4,20,0
+Singapore,Thursday,4,21,0
+Singapore,Thursday,4,22,0
+Singapore,Thursday,4,23,0
+Singapore,Friday,5,0,0
+Singapore,Friday,5,1,0
+Singapore,Friday,5,2,0
+Singapore,Friday,5,3,0
+Singapore,Friday,5,4,0
+Singapore,Friday,5,5,0
+Singapore,Friday,5,6,0
+Singapore,Friday,5,7,0
+Singapore,Friday,5,8,0
+Singapore,Friday,5,9,0
+Singapore,Friday,5,10,0
+Singapore,Friday,5,11,0
+Singapore,Friday,5,12,0
+Singapore,Friday,5,13,0
+Singapore,Friday,5,14,32
+Singapore,Friday,5,15,0
+Singapore,Friday,5,16,0
+Singapore,Friday,5,17,0
+Singapore,Friday,5,18,0
+Singapore,Friday,5,19,0
+Singapore,Friday,5,20,0
+Singapore,Friday,5,21,0
+Singapore,Friday,5,22,0
+Singapore,Friday,5,23,0
+Singapore,Saturday,6,0,0
+Singapore,Saturday,6,1,0
+Singapore,Saturday,6,2,0
+Singapore,Saturday,6,3,0
+Singapore,Saturday,6,4,0
+Singapore,Saturday,6,5,0
+Singapore,Saturday,6,6,0
+Singapore,Saturday,6,7,0
+Singapore,Saturday,6,8,0
+Singapore,Saturday,6,9,0
+Singapore,Saturday,6,10,0
+Singapore,Saturday,6,11,0
+Singapore,Saturday,6,12,0
+Singapore,Saturday,6,13,0
+Singapore,Saturday,6,14,0
+Singapore,Saturday,6,15,0
+Singapore,Saturday,6,16,0
+Singapore,Saturday,6,17,0
+Singapore,Saturday,6,18,0
+Singapore,Saturday,6,19,0
+Singapore,Saturday,6,20,0
+Singapore,Saturday,6,21,0
+Singapore,Saturday,6,22,0
+Singapore,Saturday,6,23,0
+Singapore,Sunday,7,0,0
+Singapore,Sunday,7,1,0
+Singapore,Sunday,7,2,0
+Singapore,Sunday,7,3,0
+Singapore,Sunday,7,4,0
+Singapore,Sunday,7,5,0
+Singapore,Sunday,7,6,0
+Singapore,Sunday,7,7,0
+Singapore,Sunday,7,8,0
+Singapore,Sunday,7,9,0
+Singapore,Sunday,7,10,0
+Singapore,Sunday,7,11,0
+Singapore,Sunday,7,12,0
+Singapore,Sunday,7,13,0
+Singapore,Sunday,7,14,0
+Singapore,Sunday,7,15,0
+Singapore,Sunday,7,16,0
+Singapore,Sunday,7,17,0
+Singapore,Sunday,7,18,0
+Singapore,Sunday,7,19,0
+Singapore,Sunday,7,20,0
+Singapore,Sunday,7,21,0
+Singapore,Sunday,7,22,0
+Singapore,Sunday,7,23,0
+Spain,Monday,1,0,0
+Spain,Monday,1,1,0
+Spain,Monday,1,2,0
+Spain,Monday,1,3,0
+Spain,Monday,1,4,0
+Spain,Monday,1,5,0
+Spain,Monday,1,6,0
+Spain,Monday,1,7,0
+Spain,Monday,1,8,0
+Spain,Monday,1,9,148
+Spain,Monday,1,10,47
+Spain,Monday,1,11,43
+Spain,Monday,1,12,24
+Spain,Monday,1,13,97
+Spain,Monday,1,14,8
+Spain,Monday,1,15,63
+Spain,Monday,1,16,28
+Spain,Monday,1,17,0
+Spain,Monday,1,18,0
+Spain,Monday,1,19,0
+Spain,Monday,1,20,0
+Spain,Monday,1,21,0
+Spain,Monday,1,22,0
+Spain,Monday,1,23,0
+Spain,Tuesday,2,0,0
+Spain,Tuesday,2,1,0
+Spain,Tuesday,2,2,0
+Spain,Tuesday,2,3,0
+Spain,Tuesday,2,4,0
+Spain,Tuesday,2,5,0
+Spain,Tuesday,2,6,0
+Spain,Tuesday,2,7,0
+Spain,Tuesday,2,8,0
+Spain,Tuesday,2,9,0
+Spain,Tuesday,2,10,1
+Spain,Tuesday,2,11,4
+Spain,Tuesday,2,12,72
+Spain,Tuesday,2,13,47
+Spain,Tuesday,2,14,41
+Spain,Tuesday,2,15,101
+Spain,Tuesday,2,16,77
+Spain,Tuesday,2,17,0
+Spain,Tuesday,2,18,0
+Spain,Tuesday,2,19,0
+Spain,Tuesday,2,20,0
+Spain,Tuesday,2,21,0
+Spain,Tuesday,2,22,0
+Spain,Tuesday,2,23,0
+Spain,Wednesday,3,0,0
+Spain,Wednesday,3,1,0
+Spain,Wednesday,3,2,0
+Spain,Wednesday,3,3,0
+Spain,Wednesday,3,4,0
+Spain,Wednesday,3,5,0
+Spain,Wednesday,3,6,0
+Spain,Wednesday,3,7,0
+Spain,Wednesday,3,8,18
+Spain,Wednesday,3,9,1
+Spain,Wednesday,3,10,15
+Spain,Wednesday,3,11,0
+Spain,Wednesday,3,12,0
+Spain,Wednesday,3,13,99
+Spain,Wednesday,3,14,135
+Spain,Wednesday,3,15,16
+Spain,Wednesday,3,16,45
+Spain,Wednesday,3,17,53
+Spain,Wednesday,3,18,0
+Spain,Wednesday,3,19,0
+Spain,Wednesday,3,20,0
+Spain,Wednesday,3,21,0
+Spain,Wednesday,3,22,0
+Spain,Wednesday,3,23,0
+Spain,Thursday,4,0,0
+Spain,Thursday,4,1,0
+Spain,Thursday,4,2,0
+Spain,Thursday,4,3,0
+Spain,Thursday,4,4,0
+Spain,Thursday,4,5,0
+Spain,Thursday,4,6,0
+Spain,Thursday,4,7,0
+Spain,Thursday,4,8,0
+Spain,Thursday,4,9,40
+Spain,Thursday,4,10,82
+Spain,Thursday,4,11,162
+Spain,Thursday,4,12,3
+Spain,Thursday,4,13,201
+Spain,Thursday,4,14,40
+Spain,Thursday,4,15,0
+Spain,Thursday,4,16,67
+Spain,Thursday,4,17,63
+Spain,Thursday,4,18,4
+Spain,Thursday,4,19,0
+Spain,Thursday,4,20,0
+Spain,Thursday,4,21,0
+Spain,Thursday,4,22,0
+Spain,Thursday,4,23,0
+Spain,Friday,5,0,0
+Spain,Friday,5,1,0
+Spain,Friday,5,2,0
+Spain,Friday,5,3,0
+Spain,Friday,5,4,0
+Spain,Friday,5,5,0
+Spain,Friday,5,6,0
+Spain,Friday,5,7,0
+Spain,Friday,5,8,37
+Spain,Friday,5,9,62
+Spain,Friday,5,10,0
+Spain,Friday,5,11,30
+Spain,Friday,5,12,49
+Spain,Friday,5,13,0
+Spain,Friday,5,14,98
+Spain,Friday,5,15,63
+Spain,Friday,5,16,0
+Spain,Friday,5,17,15
+Spain,Friday,5,18,0
+Spain,Friday,5,19,0
+Spain,Friday,5,20,0
+Spain,Friday,5,21,0
+Spain,Friday,5,22,0
+Spain,Friday,5,23,0
+Spain,Saturday,6,0,0
+Spain,Saturday,6,1,0
+Spain,Saturday,6,2,0
+Spain,Saturday,6,3,0
+Spain,Saturday,6,4,0
+Spain,Saturday,6,5,0
+Spain,Saturday,6,6,0
+Spain,Saturday,6,7,0
+Spain,Saturday,6,8,0
+Spain,Saturday,6,9,0
+Spain,Saturday,6,10,0
+Spain,Saturday,6,11,0
+Spain,Saturday,6,12,0
+Spain,Saturday,6,13,0
+Spain,Saturday,6,14,0
+Spain,Saturday,6,15,0
+Spain,Saturday,6,16,0
+Spain,Saturday,6,17,0
+Spain,Saturday,6,18,0
+Spain,Saturday,6,19,0
+Spain,Saturday,6,20,0
+Spain,Saturday,6,21,0
+Spain,Saturday,6,22,0
+Spain,Saturday,6,23,0
+Spain,Sunday,7,0,0
+Spain,Sunday,7,1,0
+Spain,Sunday,7,2,0
+Spain,Sunday,7,3,0
+Spain,Sunday,7,4,0
+Spain,Sunday,7,5,0
+Spain,Sunday,7,6,0
+Spain,Sunday,7,7,0
+Spain,Sunday,7,8,0
+Spain,Sunday,7,9,0
+Spain,Sunday,7,10,2
+Spain,Sunday,7,11,29
+Spain,Sunday,7,12,0
+Spain,Sunday,7,13,280
+Spain,Sunday,7,14,7
+Spain,Sunday,7,15,16
+Spain,Sunday,7,16,0
+Spain,Sunday,7,17,0
+Spain,Sunday,7,18,0
+Spain,Sunday,7,19,0
+Spain,Sunday,7,20,0
+Spain,Sunday,7,21,0
+Spain,Sunday,7,22,0
+Spain,Sunday,7,23,0
+Sweden,Monday,1,0,0
+Sweden,Monday,1,1,0
+Sweden,Monday,1,2,0
+Sweden,Monday,1,3,0
+Sweden,Monday,1,4,0
+Sweden,Monday,1,5,0
+Sweden,Monday,1,6,0
+Sweden,Monday,1,7,0
+Sweden,Monday,1,8,11
+Sweden,Monday,1,9,0
+Sweden,Monday,1,10,36
+Sweden,Monday,1,11,0
+Sweden,Monday,1,12,0
+Sweden,Monday,1,13,28
+Sweden,Monday,1,14,0
+Sweden,Monday,1,15,0
+Sweden,Monday,1,16,2
+Sweden,Monday,1,17,0
+Sweden,Monday,1,18,0
+Sweden,Monday,1,19,0
+Sweden,Monday,1,20,0
+Sweden,Monday,1,21,0
+Sweden,Monday,1,22,0
+Sweden,Monday,1,23,0
+Sweden,Tuesday,2,0,0
+Sweden,Tuesday,2,1,0
+Sweden,Tuesday,2,2,0
+Sweden,Tuesday,2,3,0
+Sweden,Tuesday,2,4,0
+Sweden,Tuesday,2,5,0
+Sweden,Tuesday,2,6,0
+Sweden,Tuesday,2,7,0
+Sweden,Tuesday,2,8,0
+Sweden,Tuesday,2,9,0
+Sweden,Tuesday,2,10,0
+Sweden,Tuesday,2,11,18
+Sweden,Tuesday,2,12,8
+Sweden,Tuesday,2,13,14
+Sweden,Tuesday,2,14,14
+Sweden,Tuesday,2,15,12
+Sweden,Tuesday,2,16,0
+Sweden,Tuesday,2,17,7
+Sweden,Tuesday,2,18,0
+Sweden,Tuesday,2,19,0
+Sweden,Tuesday,2,20,0
+Sweden,Tuesday,2,21,0
+Sweden,Tuesday,2,22,0
+Sweden,Tuesday,2,23,0
+Sweden,Wednesday,3,0,0
+Sweden,Wednesday,3,1,0
+Sweden,Wednesday,3,2,0
+Sweden,Wednesday,3,3,0
+Sweden,Wednesday,3,4,0
+Sweden,Wednesday,3,5,0
+Sweden,Wednesday,3,6,0
+Sweden,Wednesday,3,7,0
+Sweden,Wednesday,3,8,0
+Sweden,Wednesday,3,9,1
+Sweden,Wednesday,3,10,0
+Sweden,Wednesday,3,11,0
+Sweden,Wednesday,3,12,2
+Sweden,Wednesday,3,13,12
+Sweden,Wednesday,3,14,20
+Sweden,Wednesday,3,15,0
+Sweden,Wednesday,3,16,1
+Sweden,Wednesday,3,17,1
+Sweden,Wednesday,3,18,0
+Sweden,Wednesday,3,19,0
+Sweden,Wednesday,3,20,0
+Sweden,Wednesday,3,21,0
+Sweden,Wednesday,3,22,0
+Sweden,Wednesday,3,23,0
+Sweden,Thursday,4,0,0
+Sweden,Thursday,4,1,0
+Sweden,Thursday,4,2,0
+Sweden,Thursday,4,3,0
+Sweden,Thursday,4,4,0
+Sweden,Thursday,4,5,0
+Sweden,Thursday,4,6,0
+Sweden,Thursday,4,7,0
+Sweden,Thursday,4,8,0
+Sweden,Thursday,4,9,2
+Sweden,Thursday,4,10,2
+Sweden,Thursday,4,11,7
+Sweden,Thursday,4,12,27
+Sweden,Thursday,4,13,0
+Sweden,Thursday,4,14,0
+Sweden,Thursday,4,15,40
+Sweden,Thursday,4,16,0
+Sweden,Thursday,4,17,0
+Sweden,Thursday,4,18,5
+Sweden,Thursday,4,19,0
+Sweden,Thursday,4,20,0
+Sweden,Thursday,4,21,0
+Sweden,Thursday,4,22,0
+Sweden,Thursday,4,23,0
+Sweden,Friday,5,0,0
+Sweden,Friday,5,1,0
+Sweden,Friday,5,2,0
+Sweden,Friday,5,3,0
+Sweden,Friday,5,4,0
+Sweden,Friday,5,5,0
+Sweden,Friday,5,6,0
+Sweden,Friday,5,7,0
+Sweden,Friday,5,8,12
+Sweden,Friday,5,9,7
+Sweden,Friday,5,10,46
+Sweden,Friday,5,11,15
+Sweden,Friday,5,12,22
+Sweden,Friday,5,13,0
+Sweden,Friday,5,14,0
+Sweden,Friday,5,15,0
+Sweden,Friday,5,16,1
+Sweden,Friday,5,17,0
+Sweden,Friday,5,18,0
+Sweden,Friday,5,19,0
+Sweden,Friday,5,20,0
+Sweden,Friday,5,21,0
+Sweden,Friday,5,22,0
+Sweden,Friday,5,23,0
+Sweden,Saturday,6,0,0
+Sweden,Saturday,6,1,0
+Sweden,Saturday,6,2,0
+Sweden,Saturday,6,3,0
+Sweden,Saturday,6,4,0
+Sweden,Saturday,6,5,0
+Sweden,Saturday,6,6,0
+Sweden,Saturday,6,7,0
+Sweden,Saturday,6,8,0
+Sweden,Saturday,6,9,0
+Sweden,Saturday,6,10,0
+Sweden,Saturday,6,11,0
+Sweden,Saturday,6,12,0
+Sweden,Saturday,6,13,0
+Sweden,Saturday,6,14,0
+Sweden,Saturday,6,15,0
+Sweden,Saturday,6,16,0
+Sweden,Saturday,6,17,0
+Sweden,Saturday,6,18,0
+Sweden,Saturday,6,19,0
+Sweden,Saturday,6,20,0
+Sweden,Saturday,6,21,0
+Sweden,Saturday,6,22,0
+Sweden,Saturday,6,23,0
+Sweden,Sunday,7,0,0
+Sweden,Sunday,7,1,0
+Sweden,Sunday,7,2,0
+Sweden,Sunday,7,3,0
+Sweden,Sunday,7,4,0
+Sweden,Sunday,7,5,0
+Sweden,Sunday,7,6,0
+Sweden,Sunday,7,7,0
+Sweden,Sunday,7,8,0
+Sweden,Sunday,7,9,0
+Sweden,Sunday,7,10,0
+Sweden,Sunday,7,11,16
+Sweden,Sunday,7,12,0
+Sweden,Sunday,7,13,39
+Sweden,Sunday,7,14,10
+Sweden,Sunday,7,15,24
+Sweden,Sunday,7,16,0
+Sweden,Sunday,7,17,0
+Sweden,Sunday,7,18,0
+Sweden,Sunday,7,19,0
+Sweden,Sunday,7,20,0
+Sweden,Sunday,7,21,0
+Sweden,Sunday,7,22,0
+Sweden,Sunday,7,23,0
+Switzerland,Monday,1,0,0
+Switzerland,Monday,1,1,0
+Switzerland,Monday,1,2,0
+Switzerland,Monday,1,3,0
+Switzerland,Monday,1,4,0
+Switzerland,Monday,1,5,0
+Switzerland,Monday,1,6,0
+Switzerland,Monday,1,7,0
+Switzerland,Monday,1,8,0
+Switzerland,Monday,1,9,44
+Switzerland,Monday,1,10,34
+Switzerland,Monday,1,11,0
+Switzerland,Monday,1,12,16
+Switzerland,Monday,1,13,0
+Switzerland,Monday,1,14,0
+Switzerland,Monday,1,15,4
+Switzerland,Monday,1,16,0
+Switzerland,Monday,1,17,0
+Switzerland,Monday,1,18,0
+Switzerland,Monday,1,19,0
+Switzerland,Monday,1,20,0
+Switzerland,Monday,1,21,0
+Switzerland,Monday,1,22,0
+Switzerland,Monday,1,23,0
+Switzerland,Tuesday,2,0,0
+Switzerland,Tuesday,2,1,0
+Switzerland,Tuesday,2,2,0
+Switzerland,Tuesday,2,3,0
+Switzerland,Tuesday,2,4,0
+Switzerland,Tuesday,2,5,0
+Switzerland,Tuesday,2,6,0
+Switzerland,Tuesday,2,7,0
+Switzerland,Tuesday,2,8,15
+Switzerland,Tuesday,2,9,0
+Switzerland,Tuesday,2,10,366
+Switzerland,Tuesday,2,11,6
+Switzerland,Tuesday,2,12,0
+Switzerland,Tuesday,2,13,0
+Switzerland,Tuesday,2,14,22
+Switzerland,Tuesday,2,15,42
+Switzerland,Tuesday,2,16,5
+Switzerland,Tuesday,2,17,0
+Switzerland,Tuesday,2,18,0
+Switzerland,Tuesday,2,19,0
+Switzerland,Tuesday,2,20,0
+Switzerland,Tuesday,2,21,0
+Switzerland,Tuesday,2,22,0
+Switzerland,Tuesday,2,23,0
+Switzerland,Wednesday,3,0,0
+Switzerland,Wednesday,3,1,0
+Switzerland,Wednesday,3,2,0
+Switzerland,Wednesday,3,3,0
+Switzerland,Wednesday,3,4,0
+Switzerland,Wednesday,3,5,0
+Switzerland,Wednesday,3,6,0
+Switzerland,Wednesday,3,7,0
+Switzerland,Wednesday,3,8,21
+Switzerland,Wednesday,3,9,143
+Switzerland,Wednesday,3,10,45
+Switzerland,Wednesday,3,11,107
+Switzerland,Wednesday,3,12,125
+Switzerland,Wednesday,3,13,1
+Switzerland,Wednesday,3,14,42
+Switzerland,Wednesday,3,15,40
+Switzerland,Wednesday,3,16,0
+Switzerland,Wednesday,3,17,0
+Switzerland,Wednesday,3,18,0
+Switzerland,Wednesday,3,19,0
+Switzerland,Wednesday,3,20,0
+Switzerland,Wednesday,3,21,0
+Switzerland,Wednesday,3,22,0
+Switzerland,Wednesday,3,23,0
+Switzerland,Thursday,4,0,0
+Switzerland,Thursday,4,1,0
+Switzerland,Thursday,4,2,0
+Switzerland,Thursday,4,3,0
+Switzerland,Thursday,4,4,0
+Switzerland,Thursday,4,5,0
+Switzerland,Thursday,4,6,0
+Switzerland,Thursday,4,7,0
+Switzerland,Thursday,4,8,0
+Switzerland,Thursday,4,9,0
+Switzerland,Thursday,4,10,44
+Switzerland,Thursday,4,11,0
+Switzerland,Thursday,4,12,54
+Switzerland,Thursday,4,13,0
+Switzerland,Thursday,4,14,1
+Switzerland,Thursday,4,15,19
+Switzerland,Thursday,4,16,0
+Switzerland,Thursday,4,17,94
+Switzerland,Thursday,4,18,75
+Switzerland,Thursday,4,19,0
+Switzerland,Thursday,4,20,0
+Switzerland,Thursday,4,21,0
+Switzerland,Thursday,4,22,0
+Switzerland,Thursday,4,23,0
+Switzerland,Friday,5,0,0
+Switzerland,Friday,5,1,0
+Switzerland,Friday,5,2,0
+Switzerland,Friday,5,3,0
+Switzerland,Friday,5,4,0
+Switzerland,Friday,5,5,0
+Switzerland,Friday,5,6,0
+Switzerland,Friday,5,7,0
+Switzerland,Friday,5,8,26
+Switzerland,Friday,5,9,44
+Switzerland,Friday,5,10,66
+Switzerland,Friday,5,11,34
+Switzerland,Friday,5,12,64
+Switzerland,Friday,5,13,20
+Switzerland,Friday,5,14,86
+Switzerland,Friday,5,15,37
+Switzerland,Friday,5,16,4
+Switzerland,Friday,5,17,0
+Switzerland,Friday,5,18,0
+Switzerland,Friday,5,19,0
+Switzerland,Friday,5,20,0
+Switzerland,Friday,5,21,0
+Switzerland,Friday,5,22,0
+Switzerland,Friday,5,23,0
+Switzerland,Saturday,6,0,0
+Switzerland,Saturday,6,1,0
+Switzerland,Saturday,6,2,0
+Switzerland,Saturday,6,3,0
+Switzerland,Saturday,6,4,0
+Switzerland,Saturday,6,5,0
+Switzerland,Saturday,6,6,0
+Switzerland,Saturday,6,7,0
+Switzerland,Saturday,6,8,0
+Switzerland,Saturday,6,9,0
+Switzerland,Saturday,6,10,0
+Switzerland,Saturday,6,11,0
+Switzerland,Saturday,6,12,0
+Switzerland,Saturday,6,13,0
+Switzerland,Saturday,6,14,0
+Switzerland,Saturday,6,15,0
+Switzerland,Saturday,6,16,0
+Switzerland,Saturday,6,17,0
+Switzerland,Saturday,6,18,0
+Switzerland,Saturday,6,19,0
+Switzerland,Saturday,6,20,0
+Switzerland,Saturday,6,21,0
+Switzerland,Saturday,6,22,0
+Switzerland,Saturday,6,23,0
+Switzerland,Sunday,7,0,0
+Switzerland,Sunday,7,1,0
+Switzerland,Sunday,7,2,0
+Switzerland,Sunday,7,3,0
+Switzerland,Sunday,7,4,0
+Switzerland,Sunday,7,5,0
+Switzerland,Sunday,7,6,0
+Switzerland,Sunday,7,7,0
+Switzerland,Sunday,7,8,0
+Switzerland,Sunday,7,9,0
+Switzerland,Sunday,7,10,0
+Switzerland,Sunday,7,11,0
+Switzerland,Sunday,7,12,79
+Switzerland,Sunday,7,13,0
+Switzerland,Sunday,7,14,1
+Switzerland,Sunday,7,15,45
+Switzerland,Sunday,7,16,131
+Switzerland,Sunday,7,17,0
+Switzerland,Sunday,7,18,0
+Switzerland,Sunday,7,19,0
+Switzerland,Sunday,7,20,0
+Switzerland,Sunday,7,21,0
+Switzerland,Sunday,7,22,0
+Switzerland,Sunday,7,23,0
+USA,Monday,1,0,0
+USA,Monday,1,1,0
+USA,Monday,1,2,0
+USA,Monday,1,3,0
+USA,Monday,1,4,0
+USA,Monday,1,5,0
+USA,Monday,1,6,0
+USA,Monday,1,7,0
+USA,Monday,1,8,0
+USA,Monday,1,9,0
+USA,Monday,1,10,21
+USA,Monday,1,11,0
+USA,Monday,1,12,0
+USA,Monday,1,13,0
+USA,Monday,1,14,0
+USA,Monday,1,15,0
+USA,Monday,1,16,101
+USA,Monday,1,17,0
+USA,Monday,1,18,0
+USA,Monday,1,19,0
+USA,Monday,1,20,0
+USA,Monday,1,21,0
+USA,Monday,1,22,0
+USA,Monday,1,23,0
+USA,Tuesday,2,0,0
+USA,Tuesday,2,1,0
+USA,Tuesday,2,2,0
+USA,Tuesday,2,3,0
+USA,Tuesday,2,4,0
+USA,Tuesday,2,5,0
+USA,Tuesday,2,6,0
+USA,Tuesday,2,7,0
+USA,Tuesday,2,8,0
+USA,Tuesday,2,9,0
+USA,Tuesday,2,10,0
+USA,Tuesday,2,11,0
+USA,Tuesday,2,12,0
+USA,Tuesday,2,13,0
+USA,Tuesday,2,14,0
+USA,Tuesday,2,15,0
+USA,Tuesday,2,16,22
+USA,Tuesday,2,17,0
+USA,Tuesday,2,18,0
+USA,Tuesday,2,19,0
+USA,Tuesday,2,20,0
+USA,Tuesday,2,21,0
+USA,Tuesday,2,22,0
+USA,Tuesday,2,23,0
+USA,Wednesday,3,0,0
+USA,Wednesday,3,1,0
+USA,Wednesday,3,2,0
+USA,Wednesday,3,3,0
+USA,Wednesday,3,4,0
+USA,Wednesday,3,5,0
+USA,Wednesday,3,6,0
+USA,Wednesday,3,7,0
+USA,Wednesday,3,8,0
+USA,Wednesday,3,9,0
+USA,Wednesday,3,10,0
+USA,Wednesday,3,11,0
+USA,Wednesday,3,12,0
+USA,Wednesday,3,13,0
+USA,Wednesday,3,14,0
+USA,Wednesday,3,15,0
+USA,Wednesday,3,16,101
+USA,Wednesday,3,17,0
+USA,Wednesday,3,18,0
+USA,Wednesday,3,19,0
+USA,Wednesday,3,20,0
+USA,Wednesday,3,21,0
+USA,Wednesday,3,22,0
+USA,Wednesday,3,23,0
+USA,Thursday,4,0,0
+USA,Thursday,4,1,0
+USA,Thursday,4,2,0
+USA,Thursday,4,3,0
+USA,Thursday,4,4,0
+USA,Thursday,4,5,0
+USA,Thursday,4,6,0
+USA,Thursday,4,7,0
+USA,Thursday,4,8,0
+USA,Thursday,4,9,0
+USA,Thursday,4,10,11
+USA,Thursday,4,11,0
+USA,Thursday,4,12,0
+USA,Thursday,4,13,0
+USA,Thursday,4,14,0
+USA,Thursday,4,15,0
+USA,Thursday,4,16,0
+USA,Thursday,4,17,0
+USA,Thursday,4,18,0
+USA,Thursday,4,19,0
+USA,Thursday,4,20,0
+USA,Thursday,4,21,0
+USA,Thursday,4,22,0
+USA,Thursday,4,23,0
+USA,Friday,5,0,0
+USA,Friday,5,1,0
+USA,Friday,5,2,0
+USA,Friday,5,3,0
+USA,Friday,5,4,0
+USA,Friday,5,5,0
+USA,Friday,5,6,0
+USA,Friday,5,7,0
+USA,Friday,5,8,0
+USA,Friday,5,9,0
+USA,Friday,5,10,11
+USA,Friday,5,11,0
+USA,Friday,5,12,24
+USA,Friday,5,13,0
+USA,Friday,5,14,0
+USA,Friday,5,15,0
+USA,Friday,5,16,0
+USA,Friday,5,17,0
+USA,Friday,5,18,0
+USA,Friday,5,19,0
+USA,Friday,5,20,0
+USA,Friday,5,21,0
+USA,Friday,5,22,0
+USA,Friday,5,23,0
+USA,Saturday,6,0,0
+USA,Saturday,6,1,0
+USA,Saturday,6,2,0
+USA,Saturday,6,3,0
+USA,Saturday,6,4,0
+USA,Saturday,6,5,0
+USA,Saturday,6,6,0
+USA,Saturday,6,7,0
+USA,Saturday,6,8,0
+USA,Saturday,6,9,0
+USA,Saturday,6,10,0
+USA,Saturday,6,11,0
+USA,Saturday,6,12,0
+USA,Saturday,6,13,0
+USA,Saturday,6,14,0
+USA,Saturday,6,15,0
+USA,Saturday,6,16,0
+USA,Saturday,6,17,0
+USA,Saturday,6,18,0
+USA,Saturday,6,19,0
+USA,Saturday,6,20,0
+USA,Saturday,6,21,0
+USA,Saturday,6,22,0
+USA,Saturday,6,23,0
+USA,Sunday,7,0,0
+USA,Sunday,7,1,0
+USA,Sunday,7,2,0
+USA,Sunday,7,3,0
+USA,Sunday,7,4,0
+USA,Sunday,7,5,0
+USA,Sunday,7,6,0
+USA,Sunday,7,7,0
+USA,Sunday,7,8,0
+USA,Sunday,7,9,0
+USA,Sunday,7,10,0
+USA,Sunday,7,11,0
+USA,Sunday,7,12,0
+USA,Sunday,7,13,0
+USA,Sunday,7,14,0
+USA,Sunday,7,15,0
+USA,Sunday,7,16,0
+USA,Sunday,7,17,0
+USA,Sunday,7,18,0
+USA,Sunday,7,19,0
+USA,Sunday,7,20,0
+USA,Sunday,7,21,0
+USA,Sunday,7,22,0
+USA,Sunday,7,23,0
+United Arab Emirates,Monday,1,0,0
+United Arab Emirates,Monday,1,1,0
+United Arab Emirates,Monday,1,2,0
+United Arab Emirates,Monday,1,3,0
+United Arab Emirates,Monday,1,4,0
+United Arab Emirates,Monday,1,5,0
+United Arab Emirates,Monday,1,6,0
+United Arab Emirates,Monday,1,7,0
+United Arab Emirates,Monday,1,8,0
+United Arab Emirates,Monday,1,9,0
+United Arab Emirates,Monday,1,10,0
+United Arab Emirates,Monday,1,11,0
+United Arab Emirates,Monday,1,12,30
+United Arab Emirates,Monday,1,13,0
+United Arab Emirates,Monday,1,14,0
+United Arab Emirates,Monday,1,15,0
+United Arab Emirates,Monday,1,16,0
+United Arab Emirates,Monday,1,17,0
+United Arab Emirates,Monday,1,18,0
+United Arab Emirates,Monday,1,19,0
+United Arab Emirates,Monday,1,20,0
+United Arab Emirates,Monday,1,21,0
+United Arab Emirates,Monday,1,22,0
+United Arab Emirates,Monday,1,23,0
+United Arab Emirates,Tuesday,2,0,0
+United Arab Emirates,Tuesday,2,1,0
+United Arab Emirates,Tuesday,2,2,0
+United Arab Emirates,Tuesday,2,3,0
+United Arab Emirates,Tuesday,2,4,0
+United Arab Emirates,Tuesday,2,5,0
+United Arab Emirates,Tuesday,2,6,0
+United Arab Emirates,Tuesday,2,7,0
+United Arab Emirates,Tuesday,2,8,0
+United Arab Emirates,Tuesday,2,9,0
+United Arab Emirates,Tuesday,2,10,0
+United Arab Emirates,Tuesday,2,11,0
+United Arab Emirates,Tuesday,2,12,0
+United Arab Emirates,Tuesday,2,13,0
+United Arab Emirates,Tuesday,2,14,0
+United Arab Emirates,Tuesday,2,15,0
+United Arab Emirates,Tuesday,2,16,0
+United Arab Emirates,Tuesday,2,17,0
+United Arab Emirates,Tuesday,2,18,0
+United Arab Emirates,Tuesday,2,19,0
+United Arab Emirates,Tuesday,2,20,0
+United Arab Emirates,Tuesday,2,21,0
+United Arab Emirates,Tuesday,2,22,0
+United Arab Emirates,Tuesday,2,23,0
+United Arab Emirates,Wednesday,3,0,0
+United Arab Emirates,Wednesday,3,1,0
+United Arab Emirates,Wednesday,3,2,0
+United Arab Emirates,Wednesday,3,3,0
+United Arab Emirates,Wednesday,3,4,0
+United Arab Emirates,Wednesday,3,5,0
+United Arab Emirates,Wednesday,3,6,0
+United Arab Emirates,Wednesday,3,7,0
+United Arab Emirates,Wednesday,3,8,0
+United Arab Emirates,Wednesday,3,9,0
+United Arab Emirates,Wednesday,3,10,0
+United Arab Emirates,Wednesday,3,11,0
+United Arab Emirates,Wednesday,3,12,0
+United Arab Emirates,Wednesday,3,13,0
+United Arab Emirates,Wednesday,3,14,0
+United Arab Emirates,Wednesday,3,15,0
+United Arab Emirates,Wednesday,3,16,0
+United Arab Emirates,Wednesday,3,17,0
+United Arab Emirates,Wednesday,3,18,0
+United Arab Emirates,Wednesday,3,19,0
+United Arab Emirates,Wednesday,3,20,0
+United Arab Emirates,Wednesday,3,21,0
+United Arab Emirates,Wednesday,3,22,0
+United Arab Emirates,Wednesday,3,23,0
+United Arab Emirates,Thursday,4,0,0
+United Arab Emirates,Thursday,4,1,0
+United Arab Emirates,Thursday,4,2,0
+United Arab Emirates,Thursday,4,3,0
+United Arab Emirates,Thursday,4,4,0
+United Arab Emirates,Thursday,4,5,0
+United Arab Emirates,Thursday,4,6,0
+United Arab Emirates,Thursday,4,7,0
+United Arab Emirates,Thursday,4,8,0
+United Arab Emirates,Thursday,4,9,0
+United Arab Emirates,Thursday,4,10,0
+United Arab Emirates,Thursday,4,11,0
+United Arab Emirates,Thursday,4,12,0
+United Arab Emirates,Thursday,4,13,1
+United Arab Emirates,Thursday,4,14,0
+United Arab Emirates,Thursday,4,15,0
+United Arab Emirates,Thursday,4,16,0
+United Arab Emirates,Thursday,4,17,37
+United Arab Emirates,Thursday,4,18,0
+United Arab Emirates,Thursday,4,19,0
+United Arab Emirates,Thursday,4,20,0
+United Arab Emirates,Thursday,4,21,0
+United Arab Emirates,Thursday,4,22,0
+United Arab Emirates,Thursday,4,23,0
+United Arab Emirates,Friday,5,0,0
+United Arab Emirates,Friday,5,1,0
+United Arab Emirates,Friday,5,2,0
+United Arab Emirates,Friday,5,3,0
+United Arab Emirates,Friday,5,4,0
+United Arab Emirates,Friday,5,5,0
+United Arab Emirates,Friday,5,6,0
+United Arab Emirates,Friday,5,7,0
+United Arab Emirates,Friday,5,8,0
+United Arab Emirates,Friday,5,9,0
+United Arab Emirates,Friday,5,10,0
+United Arab Emirates,Friday,5,11,0
+United Arab Emirates,Friday,5,12,0
+United Arab Emirates,Friday,5,13,0
+United Arab Emirates,Friday,5,14,0
+United Arab Emirates,Friday,5,15,0
+United Arab Emirates,Friday,5,16,0
+United Arab Emirates,Friday,5,17,0
+United Arab Emirates,Friday,5,18,0
+United Arab Emirates,Friday,5,19,0
+United Arab Emirates,Friday,5,20,0
+United Arab Emirates,Friday,5,21,0
+United Arab Emirates,Friday,5,22,0
+United Arab Emirates,Friday,5,23,0
+United Arab Emirates,Saturday,6,0,0
+United Arab Emirates,Saturday,6,1,0
+United Arab Emirates,Saturday,6,2,0
+United Arab Emirates,Saturday,6,3,0
+United Arab Emirates,Saturday,6,4,0
+United Arab Emirates,Saturday,6,5,0
+United Arab Emirates,Saturday,6,6,0
+United Arab Emirates,Saturday,6,7,0
+United Arab Emirates,Saturday,6,8,0
+United Arab Emirates,Saturday,6,9,0
+United Arab Emirates,Saturday,6,10,0
+United Arab Emirates,Saturday,6,11,0
+United Arab Emirates,Saturday,6,12,0
+United Arab Emirates,Saturday,6,13,0
+United Arab Emirates,Saturday,6,14,0
+United Arab Emirates,Saturday,6,15,0
+United Arab Emirates,Saturday,6,16,0
+United Arab Emirates,Saturday,6,17,0
+United Arab Emirates,Saturday,6,18,0
+United Arab Emirates,Saturday,6,19,0
+United Arab Emirates,Saturday,6,20,0
+United Arab Emirates,Saturday,6,21,0
+United Arab Emirates,Saturday,6,22,0
+United Arab Emirates,Saturday,6,23,0
+United Arab Emirates,Sunday,7,0,0
+United Arab Emirates,Sunday,7,1,0
+United Arab Emirates,Sunday,7,2,0
+United Arab Emirates,Sunday,7,3,0
+United Arab Emirates,Sunday,7,4,0
+United Arab Emirates,Sunday,7,5,0
+United Arab Emirates,Sunday,7,6,0
+United Arab Emirates,Sunday,7,7,0
+United Arab Emirates,Sunday,7,8,0
+United Arab Emirates,Sunday,7,9,0
+United Arab Emirates,Sunday,7,10,0
+United Arab Emirates,Sunday,7,11,0
+United Arab Emirates,Sunday,7,12,0
+United Arab Emirates,Sunday,7,13,0
+United Arab Emirates,Sunday,7,14,0
+United Arab Emirates,Sunday,7,15,0
+United Arab Emirates,Sunday,7,16,0
+United Arab Emirates,Sunday,7,17,0
+United Arab Emirates,Sunday,7,18,0
+United Arab Emirates,Sunday,7,19,0
+United Arab Emirates,Sunday,7,20,0
+United Arab Emirates,Sunday,7,21,0
+United Arab Emirates,Sunday,7,22,0
+United Arab Emirates,Sunday,7,23,0
+United Kingdom,Monday,1,0,0
+United Kingdom,Monday,1,1,0
+United Kingdom,Monday,1,2,0
+United Kingdom,Monday,1,3,0
+United Kingdom,Monday,1,4,0
+United Kingdom,Monday,1,5,0
+United Kingdom,Monday,1,6,0
+United Kingdom,Monday,1,7,22
+United Kingdom,Monday,1,8,1318
+United Kingdom,Monday,1,9,6537
+United Kingdom,Monday,1,10,7242
+United Kingdom,Monday,1,11,7980
+United Kingdom,Monday,1,12,10682
+United Kingdom,Monday,1,13,11577
+United Kingdom,Monday,1,14,10735
+United Kingdom,Monday,1,15,13489
+United Kingdom,Monday,1,16,9279
+United Kingdom,Monday,1,17,8126
+United Kingdom,Monday,1,18,413
+United Kingdom,Monday,1,19,0
+United Kingdom,Monday,1,20,0
+United Kingdom,Monday,1,21,0
+United Kingdom,Monday,1,22,0
+United Kingdom,Monday,1,23,0
+United Kingdom,Tuesday,2,0,0
+United Kingdom,Tuesday,2,1,0
+United Kingdom,Tuesday,2,2,0
+United Kingdom,Tuesday,2,3,0
+United Kingdom,Tuesday,2,4,0
+United Kingdom,Tuesday,2,5,0
+United Kingdom,Tuesday,2,6,0
+United Kingdom,Tuesday,2,7,61
+United Kingdom,Tuesday,2,8,1380
+United Kingdom,Tuesday,2,9,5325
+United Kingdom,Tuesday,2,10,7885
+United Kingdom,Tuesday,2,11,9431
+United Kingdom,Tuesday,2,12,13274
+United Kingdom,Tuesday,2,13,11744
+United Kingdom,Tuesday,2,14,10441
+United Kingdom,Tuesday,2,15,15032
+United Kingdom,Tuesday,2,16,11653
+United Kingdom,Tuesday,2,17,5677
+United Kingdom,Tuesday,2,18,2084
+United Kingdom,Tuesday,2,19,0
+United Kingdom,Tuesday,2,20,0
+United Kingdom,Tuesday,2,21,0
+United Kingdom,Tuesday,2,22,0
+United Kingdom,Tuesday,2,23,0
+United Kingdom,Wednesday,3,0,0
+United Kingdom,Wednesday,3,1,0
+United Kingdom,Wednesday,3,2,0
+United Kingdom,Wednesday,3,3,0
+United Kingdom,Wednesday,3,4,0
+United Kingdom,Wednesday,3,5,0
+United Kingdom,Wednesday,3,6,0
+United Kingdom,Wednesday,3,7,59
+United Kingdom,Wednesday,3,8,1247
+United Kingdom,Wednesday,3,9,4124
+United Kingdom,Wednesday,3,10,6899
+United Kingdom,Wednesday,3,11,9210
+United Kingdom,Wednesday,3,12,13472
+United Kingdom,Wednesday,3,13,10583
+United Kingdom,Wednesday,3,14,9780
+United Kingdom,Wednesday,3,15,15796
+United Kingdom,Wednesday,3,16,10284
+United Kingdom,Wednesday,3,17,4641
+United Kingdom,Wednesday,3,18,23
+United Kingdom,Wednesday,3,19,15
+United Kingdom,Wednesday,3,20,18
+United Kingdom,Wednesday,3,21,0
+United Kingdom,Wednesday,3,22,0
+United Kingdom,Wednesday,3,23,0
+United Kingdom,Thursday,4,0,0
+United Kingdom,Thursday,4,1,0
+United Kingdom,Thursday,4,2,0
+United Kingdom,Thursday,4,3,0
+United Kingdom,Thursday,4,4,0
+United Kingdom,Thursday,4,5,0
+United Kingdom,Thursday,4,6,27
+United Kingdom,Thursday,4,7,45
+United Kingdom,Thursday,4,8,1228
+United Kingdom,Thursday,4,9,7163
+United Kingdom,Thursday,4,10,7691
+United Kingdom,Thursday,4,11,7478
+United Kingdom,Thursday,4,12,12110
+United Kingdom,Thursday,4,13,11290
+United Kingdom,Thursday,4,14,10349
+United Kingdom,Thursday,4,15,10824
+United Kingdom,Thursday,4,16,11113
+United Kingdom,Thursday,4,17,4534
+United Kingdom,Thursday,4,18,5246
+United Kingdom,Thursday,4,19,3360
+United Kingdom,Thursday,4,20,845
+United Kingdom,Thursday,4,21,0
+United Kingdom,Thursday,4,22,0
+United Kingdom,Thursday,4,23,0
+United Kingdom,Friday,5,0,0
+United Kingdom,Friday,5,1,0
+United Kingdom,Friday,5,2,0
+United Kingdom,Friday,5,3,0
+United Kingdom,Friday,5,4,0
+United Kingdom,Friday,5,5,0
+United Kingdom,Friday,5,6,0
+United Kingdom,Friday,5,7,31
+United Kingdom,Friday,5,8,1370
+United Kingdom,Friday,5,9,6177
+United Kingdom,Friday,5,10,8838
+United Kingdom,Friday,5,11,8636
+United Kingdom,Friday,5,12,9425
+United Kingdom,Friday,5,13,9394
+United Kingdom,Friday,5,14,10460
+United Kingdom,Friday,5,15,8405
+United Kingdom,Friday,5,16,6310
+United Kingdom,Friday,5,17,4349
+United Kingdom,Friday,5,18,12
+United Kingdom,Friday,5,19,89
+United Kingdom,Friday,5,20,8
+United Kingdom,Friday,5,21,0
+United Kingdom,Friday,5,22,0
+United Kingdom,Friday,5,23,0
+United Kingdom,Saturday,6,0,0
+United Kingdom,Saturday,6,1,0
+United Kingdom,Saturday,6,2,0
+United Kingdom,Saturday,6,3,0
+United Kingdom,Saturday,6,4,0
+United Kingdom,Saturday,6,5,0
+United Kingdom,Saturday,6,6,0
+United Kingdom,Saturday,6,7,0
+United Kingdom,Saturday,6,8,0
+United Kingdom,Saturday,6,9,0
+United Kingdom,Saturday,6,10,0
+United Kingdom,Saturday,6,11,0
+United Kingdom,Saturday,6,12,0
+United Kingdom,Saturday,6,13,0
+United Kingdom,Saturday,6,14,0
+United Kingdom,Saturday,6,15,0
+United Kingdom,Saturday,6,16,0
+United Kingdom,Saturday,6,17,0
+United Kingdom,Saturday,6,18,0
+United Kingdom,Saturday,6,19,0
+United Kingdom,Saturday,6,20,0
+United Kingdom,Saturday,6,21,0
+United Kingdom,Saturday,6,22,0
+United Kingdom,Saturday,6,23,0
+United Kingdom,Sunday,7,0,0
+United Kingdom,Sunday,7,1,0
+United Kingdom,Sunday,7,2,0
+United Kingdom,Sunday,7,3,0
+United Kingdom,Sunday,7,4,0
+United Kingdom,Sunday,7,5,0
+United Kingdom,Sunday,7,6,0
+United Kingdom,Sunday,7,7,0
+United Kingdom,Sunday,7,8,0
+United Kingdom,Sunday,7,9,28
+United Kingdom,Sunday,7,10,3437
+United Kingdom,Sunday,7,11,10096
+United Kingdom,Sunday,7,12,13296
+United Kingdom,Sunday,7,13,11261
+United Kingdom,Sunday,7,14,9517
+United Kingdom,Sunday,7,15,9679
+United Kingdom,Sunday,7,16,3819
+United Kingdom,Sunday,7,17,0
+United Kingdom,Sunday,7,18,0
+United Kingdom,Sunday,7,19,0
+United Kingdom,Sunday,7,20,0
+United Kingdom,Sunday,7,21,0
+United Kingdom,Sunday,7,22,0
+United Kingdom,Sunday,7,23,0
+Unspecified,Monday,1,0,0
+Unspecified,Monday,1,1,0
+Unspecified,Monday,1,2,0
+Unspecified,Monday,1,3,0
+Unspecified,Monday,1,4,0
+Unspecified,Monday,1,5,0
+Unspecified,Monday,1,6,0
+Unspecified,Monday,1,7,0
+Unspecified,Monday,1,8,0
+Unspecified,Monday,1,9,0
+Unspecified,Monday,1,10,7
+Unspecified,Monday,1,11,0
+Unspecified,Monday,1,12,0
+Unspecified,Monday,1,13,32
+Unspecified,Monday,1,14,0
+Unspecified,Monday,1,15,9
+Unspecified,Monday,1,16,0
+Unspecified,Monday,1,17,0
+Unspecified,Monday,1,18,0
+Unspecified,Monday,1,19,0
+Unspecified,Monday,1,20,0
+Unspecified,Monday,1,21,0
+Unspecified,Monday,1,22,0
+Unspecified,Monday,1,23,0
+Unspecified,Tuesday,2,0,0
+Unspecified,Tuesday,2,1,0
+Unspecified,Tuesday,2,2,0
+Unspecified,Tuesday,2,3,0
+Unspecified,Tuesday,2,4,0
+Unspecified,Tuesday,2,5,0
+Unspecified,Tuesday,2,6,0
+Unspecified,Tuesday,2,7,0
+Unspecified,Tuesday,2,8,0
+Unspecified,Tuesday,2,9,0
+Unspecified,Tuesday,2,10,0
+Unspecified,Tuesday,2,11,0
+Unspecified,Tuesday,2,12,0
+Unspecified,Tuesday,2,13,0
+Unspecified,Tuesday,2,14,0
+Unspecified,Tuesday,2,15,47
+Unspecified,Tuesday,2,16,0
+Unspecified,Tuesday,2,17,0
+Unspecified,Tuesday,2,18,0
+Unspecified,Tuesday,2,19,0
+Unspecified,Tuesday,2,20,0
+Unspecified,Tuesday,2,21,0
+Unspecified,Tuesday,2,22,0
+Unspecified,Tuesday,2,23,0
+Unspecified,Wednesday,3,0,0
+Unspecified,Wednesday,3,1,0
+Unspecified,Wednesday,3,2,0
+Unspecified,Wednesday,3,3,0
+Unspecified,Wednesday,3,4,0
+Unspecified,Wednesday,3,5,0
+Unspecified,Wednesday,3,6,0
+Unspecified,Wednesday,3,7,0
+Unspecified,Wednesday,3,8,0
+Unspecified,Wednesday,3,9,0
+Unspecified,Wednesday,3,10,19
+Unspecified,Wednesday,3,11,0
+Unspecified,Wednesday,3,12,0
+Unspecified,Wednesday,3,13,0
+Unspecified,Wednesday,3,14,0
+Unspecified,Wednesday,3,15,0
+Unspecified,Wednesday,3,16,0
+Unspecified,Wednesday,3,17,0
+Unspecified,Wednesday,3,18,0
+Unspecified,Wednesday,3,19,0
+Unspecified,Wednesday,3,20,0
+Unspecified,Wednesday,3,21,0
+Unspecified,Wednesday,3,22,0
+Unspecified,Wednesday,3,23,0
+Unspecified,Thursday,4,0,0
+Unspecified,Thursday,4,1,0
+Unspecified,Thursday,4,2,0
+Unspecified,Thursday,4,3,0
+Unspecified,Thursday,4,4,0
+Unspecified,Thursday,4,5,0
+Unspecified,Thursday,4,6,0
+Unspecified,Thursday,4,7,0
+Unspecified,Thursday,4,8,0
+Unspecified,Thursday,4,9,15
+Unspecified,Thursday,4,10,0
+Unspecified,Thursday,4,11,0
+Unspecified,Thursday,4,12,0
+Unspecified,Thursday,4,13,11
+Unspecified,Thursday,4,14,34
+Unspecified,Thursday,4,15,0
+Unspecified,Thursday,4,16,134
+Unspecified,Thursday,4,17,0
+Unspecified,Thursday,4,18,0
+Unspecified,Thursday,4,19,0
+Unspecified,Thursday,4,20,0
+Unspecified,Thursday,4,21,0
+Unspecified,Thursday,4,22,0
+Unspecified,Thursday,4,23,0
+Unspecified,Friday,5,0,0
+Unspecified,Friday,5,1,0
+Unspecified,Friday,5,2,0
+Unspecified,Friday,5,3,0
+Unspecified,Friday,5,4,0
+Unspecified,Friday,5,5,0
+Unspecified,Friday,5,6,0
+Unspecified,Friday,5,7,0
+Unspecified,Friday,5,8,0
+Unspecified,Friday,5,9,0
+Unspecified,Friday,5,10,0
+Unspecified,Friday,5,11,0
+Unspecified,Friday,5,12,66
+Unspecified,Friday,5,13,0
+Unspecified,Friday,5,14,0
+Unspecified,Friday,5,15,0
+Unspecified,Friday,5,16,72
+Unspecified,Friday,5,17,0
+Unspecified,Friday,5,18,0
+Unspecified,Friday,5,19,0
+Unspecified,Friday,5,20,0
+Unspecified,Friday,5,21,0
+Unspecified,Friday,5,22,0
+Unspecified,Friday,5,23,0
+Unspecified,Saturday,6,0,0
+Unspecified,Saturday,6,1,0
+Unspecified,Saturday,6,2,0
+Unspecified,Saturday,6,3,0
+Unspecified,Saturday,6,4,0
+Unspecified,Saturday,6,5,0
+Unspecified,Saturday,6,6,0
+Unspecified,Saturday,6,7,0
+Unspecified,Saturday,6,8,0
+Unspecified,Saturday,6,9,0
+Unspecified,Saturday,6,10,0
+Unspecified,Saturday,6,11,0
+Unspecified,Saturday,6,12,0
+Unspecified,Saturday,6,13,0
+Unspecified,Saturday,6,14,0
+Unspecified,Saturday,6,15,0
+Unspecified,Saturday,6,16,0
+Unspecified,Saturday,6,17,0
+Unspecified,Saturday,6,18,0
+Unspecified,Saturday,6,19,0
+Unspecified,Saturday,6,20,0
+Unspecified,Saturday,6,21,0
+Unspecified,Saturday,6,22,0
+Unspecified,Saturday,6,23,0
+Unspecified,Sunday,7,0,0
+Unspecified,Sunday,7,1,0
+Unspecified,Sunday,7,2,0
+Unspecified,Sunday,7,3,0
+Unspecified,Sunday,7,4,0
+Unspecified,Sunday,7,5,0
+Unspecified,Sunday,7,6,0
+Unspecified,Sunday,7,7,0
+Unspecified,Sunday,7,8,0
+Unspecified,Sunday,7,9,0
+Unspecified,Sunday,7,10,0
+Unspecified,Sunday,7,11,0
+Unspecified,Sunday,7,12,0
+Unspecified,Sunday,7,13,0
+Unspecified,Sunday,7,14,0
+Unspecified,Sunday,7,15,0
+Unspecified,Sunday,7,16,0
+Unspecified,Sunday,7,17,0
+Unspecified,Sunday,7,18,0
+Unspecified,Sunday,7,19,0
+Unspecified,Sunday,7,20,0
+Unspecified,Sunday,7,21,0
+Unspecified,Sunday,7,22,0
+Unspecified,Sunday,7,23,0
