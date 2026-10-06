@@ -25,4 +25,4 @@ UK-based online gift retailer between **December 2010 and December 2011**.
 * A few `Description` values contain a latin-1 pound sign (£, byte 0xA3), so the
   load scripts read the file with latin-1 encoding and convert to UTF-8.
 * Currency throughout this project is **GBP (£)**.
-* Source: https://archive.ics.uci.edu/dataset/53/online+retail
+* Source: https://archive.ics.uci.edu/dataset/352/online+retail
